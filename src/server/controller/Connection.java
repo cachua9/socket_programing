@@ -29,6 +29,7 @@ public class Connection {
 			return true;
 		}
 		catch (IOException e) {
+			ServerMain.showServerIp("Error", -1);
 			return false;
 		}
 	}

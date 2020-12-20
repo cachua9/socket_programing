@@ -4,8 +4,12 @@ import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
+import java.util.ArrayList;
+import java.util.Hashtable;
 
 import javax.swing.JOptionPane;
+
+import server.model.User;
 
 public class Connection {
 	private Socket socket;
@@ -65,8 +69,8 @@ public class Connection {
 				while(true) {
 					try {
 						String message = dataInputStream.readUTF();
-						System.out.println(message);
-						//do something
+						System.out.println("Client received: " + message);
+						checkMessage(message);
 					} catch (IOException e) { 
 						break;
 					}							
@@ -76,6 +80,16 @@ public class Connection {
 		};
 		thread.setDaemon(true);
 		thread.start();		
+	}
+	
+	private void checkMessage(String message) {
+		String command[] = message.split("~");
+		if(command[0].equals("replogin") || command[0].equals("repsignup")){
+			AccountController.checkMessage(command);
+		}
+		else if(command[0].contains("room")) {
+			RoomController.checkMessage(command);
+		}
 	}
 
 }

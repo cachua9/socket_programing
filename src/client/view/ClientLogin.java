@@ -6,9 +6,12 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
+import client.controller.AccountController;
 import client.controller.ClientMain;
 
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
+
 import java.awt.Font;
 import javax.swing.JTextField;
 import javax.swing.JPasswordField;
@@ -25,6 +28,9 @@ public class ClientLogin extends JFrame {
 	private JTextField tfSignupAcc;
 	private JPasswordField tfSigupPass;
 	private JPasswordField tfSigupConfirmPass;
+	
+	private JButton btnLogin;
+	private JButton btnSignup;
 
 	/**
 	 * Launch the application.
@@ -82,7 +88,12 @@ public class ClientLogin extends JFrame {
 		tfLoginPass.setBounds(127, 81, 150, 20);
 		panelLogin.add(tfLoginPass);
 		
-		JButton btnLogin = new JButton("Login");
+		btnLogin = new JButton("Login");
+		btnLogin.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				AccountController.login(tfLoginAcc.getText(), String.valueOf(tfLoginPass.getPassword()));
+			}
+		});
 		btnLogin.setBounds(188, 129, 89, 23);
 		panelLogin.add(btnLogin);
 		
@@ -109,7 +120,14 @@ public class ClientLogin extends JFrame {
 		tfSigupPass.setBounds(144, 68, 130, 20);
 		panelSignuop.add(tfSigupPass);
 		
-		JButton btnSignup = new JButton("Login");
+		btnSignup = new JButton("Login");
+		btnSignup.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				if(AccountController.signup(tfSignupAcc.getText(), String.valueOf(tfSigupPass.getPassword()), String.valueOf(tfSigupConfirmPass.getPassword()))) {
+					btnSignup.setEnabled(false);
+				}
+			}
+		});
 		btnSignup.setBounds(185, 144, 89, 23);
 		panelSignuop.add(btnSignup);
 		
@@ -121,5 +139,13 @@ public class ClientLogin extends JFrame {
 		lblMtKhu_1_1.setFont(new Font("Tahoma", Font.PLAIN, 14));
 		lblMtKhu_1_1.setBounds(10, 111, 124, 17);
 		panelSignuop.add(lblMtKhu_1_1);
+	}
+
+	public JButton getBtnLogin() {
+		return btnLogin;
+	}
+
+	public JButton getBtnSignup() {
+		return btnSignup;
 	}
 }
