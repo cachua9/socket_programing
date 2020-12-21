@@ -1,17 +1,18 @@
 package server.view;
 
-import java.awt.BorderLayout;
-import java.awt.EventQueue;
-
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
+
+import server.controller.ServerMain;
+import server.object.MyClient;
+
 import javax.swing.JLabel;
 import java.awt.Font;
-import javax.swing.JTextPane;
 import javax.swing.JTextArea;
 import javax.swing.JScrollPane;
-import javax.swing.ScrollPaneConstants;
+import java.awt.event.WindowAdapter;
+import java.awt.event.WindowEvent;
 
 public class ServerHome extends JFrame {
 
@@ -39,11 +40,20 @@ public class ServerHome extends JFrame {
 	
 	private JLabel lbSvIp;
 	private JLabel lbSvP;
+	private JTextArea textArea;
 	
 	
 	public ServerHome() {
+		addWindowListener(new WindowAdapter() {
+			@Override
+			public void windowClosing(WindowEvent arg0) {
+				for (MyClient myClient : ServerMain.connection.getMyClients()) {
+					myClient.Close();
+				}				
+			}
+		});
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setBounds(100, 100, 450, 300);
+		setBounds(100, 100, 450, 500);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
@@ -68,6 +78,14 @@ public class ServerHome extends JFrame {
 		lbSvP.setFont(new Font("Tahoma", Font.PLAIN, 14));
 		lbSvP.setBounds(83, 39, 341, 14);
 		contentPane.add(lbSvP);
+		
+		JScrollPane scrollPane = new JScrollPane();
+		scrollPane.setBounds(10, 64, 414, 386);
+		contentPane.add(scrollPane);
+		
+		textArea = new JTextArea();
+		textArea.setEditable(false);
+		scrollPane.setViewportView(textArea);
 	}
 
 	public JLabel getLbSvIp() {
@@ -76,5 +94,11 @@ public class ServerHome extends JFrame {
 
 	public JLabel getLbSvP() {
 		return lbSvP;
+	}
+	
+	public void println(Object object) {
+		String text = this.textArea.getText();
+		text += object.toString() + "\n";
+		this.textArea.setText(text);
 	}
 }

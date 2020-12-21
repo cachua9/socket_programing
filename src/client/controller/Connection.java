@@ -43,7 +43,10 @@ public class Connection {
 			this.dataInputStream.close();
 			this.dataOutputStream.close();
 			this.socket.close();
-			System.out.println("Ket noi den server bi ngat");
+			int i = JOptionPane.showConfirmDialog(null, "Kết nối tới server bị ngắt, bạn có muốn thoát không?");
+			if(i == 0) {
+				System.exit(0);
+			}
 		} catch (IOException e) {
 			// TODO: handle exception
 		}

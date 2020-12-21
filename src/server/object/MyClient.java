@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.Hashtable;
 
 import server.controller.RoomController;
+import server.controller.ServerMain;
 import server.model.User;
 
 public class MyClient {
@@ -31,7 +32,7 @@ public class MyClient {
 			this.dataInputStream.close();
 			this.dataOutputStream.close();
 			this.socket.close();
-			System.out.println(((this.user == null)?"new client":this.user.getUsername()) + " ngat ket noi");
+			ServerMain.serverHome.println(((this.user == null)?"new client":this.user.getUsername()) + " ngat ket noi");
 			if(user!=null)  user.setState(0);
 			if(room!=null) room.removePlayer(this);
 		} catch (IOException e) {
@@ -59,7 +60,7 @@ public class MyClient {
 				while(true) {
 					try {
 						String message = dataInputStream.readUTF();
-						System.out.println("Server received from " + ((user == null)?"new client":user.getUsername()) + ": " + message);
+						ServerMain.serverHome.println("Server received from " + ((user == null)?"new client":user.getUsername()) + ": " + message);
 						try {
 							checkMessage(message);
 							}

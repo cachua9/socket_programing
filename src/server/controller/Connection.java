@@ -25,11 +25,12 @@ public class Connection {
 			this.serverSocket = new ServerSocket(this.port);			
 			ServerMain.showServerIp(InetAddress.getLocalHost().getHostAddress(), serverSocket.getLocalPort());
 			Listen();
-			System.out.println("Khoi dong server thanh cong");
+			ServerMain.serverHome.println("Khởi động server thành công.");
 			return true;
 		}
 		catch (IOException e) {
 			ServerMain.showServerIp("Error", -1);
+			ServerMain.serverHome.println("Khởi động server thất bại.");
 			return false;
 		}
 	}
@@ -54,9 +55,9 @@ public class Connection {
 						Socket socket = serverSocket.accept();
 						MyClient myClient = new MyClient(socket);
 						myClients.add(myClient);
-						System.out.println("Nhan duoc client");
+						ServerMain.serverHome.println("Nhận được kết nối từ 1 client mới(" + socket.getInetAddress().getHostAddress() +")");
 					} catch (IOException e) {
-						System.out.println("loi server");
+						ServerMain.serverHome.println("Lỗi server listen");
 						break;
 					}							
 				}
