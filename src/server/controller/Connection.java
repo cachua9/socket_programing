@@ -55,7 +55,7 @@ public class Connection {
 						Socket socket = serverSocket.accept();
 						MyClient myClient = new MyClient(socket);
 						myClients.add(myClient);
-						ServerMain.serverHome.println("Nhận được kết nối từ 1 client mới(" + socket.getInetAddress().getHostAddress() +")");
+						ServerMain.serverHome.println("Nhận được kết nối từ 1 client mới(" + socket.getInetAddress().getHostAddress() + ":" + String.valueOf(socket.getPort()) + ")");
 					} catch (IOException e) {
 						ServerMain.serverHome.println("Lỗi server listen");
 						break;
