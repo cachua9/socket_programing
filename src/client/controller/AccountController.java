@@ -6,9 +6,10 @@ public class AccountController {
 	public static void login(String acc, String pass) {
 		if (acc.isEmpty() || pass.isEmpty()) {
 			JOptionPane.showMessageDialog(null, "Thiếu thông tin!");
-		} else
+		} else {
 			ClientMain.username = acc;
 			ClientMain.connection.Send("login~" + acc + "~" + pass);
+		}
 	}
 
 	public static boolean signup(String acc, String pass, String confirmPass) {

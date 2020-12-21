@@ -120,7 +120,7 @@ public class ClientLogin extends JFrame {
 		tfSigupPass.setBounds(144, 68, 130, 20);
 		panelSignuop.add(tfSigupPass);
 		
-		btnSignup = new JButton("Login");
+		btnSignup = new JButton("Sign up");
 		btnSignup.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
 				if(AccountController.signup(tfSignupAcc.getText(), String.valueOf(tfSigupPass.getPassword()), String.valueOf(tfSigupConfirmPass.getPassword()))) {
