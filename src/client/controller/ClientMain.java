@@ -17,18 +17,43 @@ public class ClientMain {
 	public static RoomView roomView = new RoomView();
 	
 	public static void main(String[] args) {
-		
+		boolean flag;
+		do {
+			flag = init();
+		}while(!flag);
+	}
+	
+	public static boolean init() {
 		String address = JOptionPane.showInputDialog(null, "Input ip and port server: (ip:port)");
+		if(address == null) return true;
+		if(!address.contains(":")) {
+			JOptionPane.showMessageDialog(null, "Nhập sai định dạng");
+			return false;
+		}
 		String array[] = address.split(":");
 		
 		//Run client
-		connection = new Connection(array[0], Integer.valueOf(array[1]));
+		int port = 0;
+		try {
+			port = Integer.valueOf(array[1]);
+		}
+		catch (Exception e) {
+			JOptionPane.showMessageDialog(null, "Nhập sai định dạng");
+			return false;
+		}
+		connection = new Connection(array[0], port);
 		if(!connection.Connect()) {
-			return;
+			return false;
 		}
 		
 		//Show form login
 		clientLogin.setVisible(true);
+		return true;
+	}
+	
+	public static void showSelectRoom() {
+		selectRoom.setVisible(true);
+		connection.Send("refreshrooms");
 	}
 
 }

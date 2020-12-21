@@ -15,7 +15,7 @@ public class MyClient {
 	private Socket socket;
 	private DataInputStream dataInputStream;
 	private DataOutputStream dataOutputStream;
-	private String username = new String();
+	private User user;
 	private Room room;
 	
 	public MyClient(Socket socket) throws IOException {
@@ -31,8 +31,9 @@ public class MyClient {
 			this.dataInputStream.close();
 			this.dataOutputStream.close();
 			this.socket.close();
-			System.out.println(this.username + " ngat ket noi");
-			User.logout(this.username);
+			System.out.println(((this.user == null)?"new client":this.user.getUsername()) + " ngat ket noi");
+			if(user!=null)  user.setState(0);
+			if(room!=null) room.removePlayer(this);
 		} catch (IOException e) {
 			// TODO: handle exception
 		}
@@ -58,8 +59,15 @@ public class MyClient {
 				while(true) {
 					try {
 						String message = dataInputStream.readUTF();
-						System.out.println("Server received from " + ((username.isEmpty()||username == null)?"new connect":username) + ": " + message);
-						checkMessage(message);
+						System.out.println("Server received from " + ((user == null)?"new client":user.getUsername()) + ": " + message);
+						try {
+							checkMessage(message);
+							}
+						catch (Exception e) {
+							if(user!=null) {
+								user.setState(0);
+							}
+						}
 					} catch (IOException e) {
 						break;
 					}							
@@ -83,7 +91,7 @@ public class MyClient {
 			}
 			else {				
 				if(us.get(0).getState() == 0) {
-					this.username = command[1];
+					this.user = us.get(0);
 					Send("replogin~1");
 					us.get(0).setState(1);
 				}
@@ -114,7 +122,7 @@ public class MyClient {
 	}
 
 	public String getUsername() {
-		return username;
+		return user.getUsername();
 	}
 
 	public Room getRoom() {
@@ -124,7 +132,7 @@ public class MyClient {
 	public void setRoom(Room room) {
 		this.room = room;
 		if(this.room == null) {
-			Send("hahahahahaha");
+			Send("doneleaveroom");
 		}
 	}
 }

@@ -33,7 +33,7 @@ public class AccountController {
 			}
 			else if(command[1].equals("1")) {
 				ClientMain.clientLogin.setVisible(false);
-				ClientMain.selectRoom.setVisible(true);
+				ClientMain.showSelectRoom();
 			}
 			else if(command[1].equals("2")) {
 				JOptionPane.showMessageDialog(null, "Tài khoản đang đăng nhập ở nơi khác!");

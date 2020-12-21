@@ -2,6 +2,8 @@ package server.object;
 
 import java.util.ArrayList;
 
+import server.controller.RoomController;
+
 public class Room {
 	private int id;
 	private int state;
@@ -20,11 +22,31 @@ public class Room {
 	public void addPlayer(MyClient myClient) {
 		this.players.add(myClient);
 		myClient.setRoom(this);
+		for (MyClient player : players) {
+			RoomController.refreshRoom(player);
+		}
 	}
 	
 	public void removePlayer(MyClient myClient) {
 		this.players.remove(myClient);
 		myClient.setRoom(null);
+		if(players.size()==0) {
+			RoomController.delRoom(this);
+		}
+		else {
+			for (MyClient player : players) {
+				RoomController.refreshRoom(player);
+			}
+		}
+	}
+	
+	public void removePlayerByName(String username) {
+		for (MyClient myClient : players) {
+			if(myClient.getUsername().equals(username)) {
+				removePlayer(myClient);
+				return;
+			}
+		}
 	}
 	
 	public void cancel() {

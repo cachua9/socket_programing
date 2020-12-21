@@ -17,14 +17,24 @@ public class RoomController {
 		else if(command[0].equals("refreshrooms")) {
 			refreshRooms(myClient);
 		}
+		else if(command[0].equals("leaveroom")) {
+			leaveRoom(myClient);
+		}
+		else if(command[0].equals("joinroom")) {
+			joinRoom(myClient, command);
+		}
+		else if(command[0].equals("roomkickplayer")) {
+			kickPlayer(myClient, command);
+		}
 	}
 	
-	public static void createRoom(MyClient myClient) {
+	private static void createRoom(MyClient myClient) {
 		for(int i =0; i < 3000; i++) {
 			if (!isUse[i]){
 				isUse[i] = true;
 				Room room = new Room(i, 0, myClient);
 				rooms.add(room);
+				refreshRooms(myClient);
 				myClient.Send("repcreateroom~1");
 				refreshRoom(myClient);
 				return;
@@ -39,7 +49,7 @@ public class RoomController {
 		rooms.remove(room);
 	}
 	
-	public static void refreshRooms(MyClient myClient) {
+	private static void refreshRooms(MyClient myClient) {
 		String message = "inforooms~";
 		if(rooms.size()!=0) {
 			message += String.valueOf(rooms.size());
@@ -53,10 +63,41 @@ public class RoomController {
 		myClient.Send(message);
 	}
 	
+	private static void kickPlayer(MyClient myClient, String command[]) {
+		myClient.getRoom().removePlayerByName(command[1]);
+	}
+	
 	public static void refreshRoom(MyClient myClient) {
 		String message = myClient.getRoom().getInfoRoom();
 		myClient.Send(message);
 	}
 
+	private static void leaveRoom(MyClient myClient) {
+		myClient.getRoom().removePlayer(myClient);
+	}
+	
+	private static void joinRoom(MyClient myClient, String command[]) {
+		int idRoom = Integer.valueOf(command[1]);
+		for (Room room : rooms) {
+			if(room.getId() == idRoom) {
+				if(room.getCurQtyPlayer() >= room.getMaxQtyPlayer()) {
+					myClient.Send("repjoinroom~2");
+					refreshRooms(myClient);					
+				}
+				else if(room.getState() == 1) {
+					myClient.Send("repjoinroom~3");
+					refreshRooms(myClient);	
+				}
+				else {
+					room.addPlayer(myClient);
+					myClient.Send("repjoinroom~1");
+				}
+				
+				return;
+			}
+		}
+		myClient.Send("repjoinroom~0");
+		refreshRooms(myClient);
+	}
 
 }

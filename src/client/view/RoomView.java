@@ -8,11 +8,14 @@ import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JList;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.border.EmptyBorder;
 
 import client.controller.ClientMain;
+import client.controller.RoomController;
+
 import javax.swing.JLabel;
 
 public class RoomView extends JFrame {
@@ -57,6 +60,13 @@ public class RoomView extends JFrame {
 		btnKickPlayer.setVisible(false);
 		btnKickPlayer.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
+				if(list.getSelectedIndex() < 0) {
+					JOptionPane.showMessageDialog(null, "Hãy chọn người chơi để kick");
+				}
+				else if(list.getSelectedIndex() == 0) {
+					JOptionPane.showMessageDialog(null, "Không thể kick chính mình");
+				}
+				else RoomController.kickPlayer(list.getSelectedIndex());
 			}
 		});
 		btnKickPlayer.setBounds(410, 113, 130, 23);
@@ -72,6 +82,11 @@ public class RoomView extends JFrame {
 		contentPane.add(btnPlay);
 		
 		btnOutRoom = new JButton("Rời phòng");
+		btnOutRoom.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				RoomController.leaveRoom();
+			}
+		});
 		btnOutRoom.setBounds(444, 427, 130, 23);
 		contentPane.add(btnOutRoom);
 		

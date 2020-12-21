@@ -14,6 +14,7 @@ import client.controller.RoomController;
 import client.object.Room;
 
 import javax.swing.JList;
+import javax.swing.JOptionPane;
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
@@ -71,6 +72,14 @@ public class SelectRoom extends JFrame {
 		contentPane.add(btnCreateRoom);
 		
 		JButton bntJoinRoom = new JButton("Vào phòng");
+		bntJoinRoom.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				if(list.getSelectedIndex() < 0) {
+					JOptionPane.showMessageDialog(null, "Hãy chọn phòng để tham gia");
+				}
+				else RoomController.joinRoom(list.getSelectedIndex());
+			}
+		});
 		bntJoinRoom.setBounds(418, 175, 110, 23);
 		contentPane.add(bntJoinRoom);
 		
