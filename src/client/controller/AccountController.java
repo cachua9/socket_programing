@@ -6,7 +6,11 @@ public class AccountController {
 	public static void login(String acc, String pass) {
 		if (acc.isEmpty() || pass.isEmpty()) {
 			JOptionPane.showMessageDialog(null, "Thiếu thông tin!");
-		} else {
+		} 
+		else if(!acc.matches("^[a-zA-Z0-9_-]{3,16}$")) {
+			JOptionPane.showMessageDialog(null, "Tài khoản không hợp lệ");
+		}		
+		else {
 			ClientMain.username = acc;
 			ClientMain.connection.Send("login~" + acc + "~" + pass);
 		}
@@ -16,7 +20,12 @@ public class AccountController {
 		if (acc.isEmpty() || pass.isEmpty() || confirmPass.isEmpty()) {
 			JOptionPane.showMessageDialog(null, "Thiếu thông tin!");
 			return false;
-		} else {
+		} 
+		else if(!acc.matches("^[a-zA-Z0-9_-]{3,16}$")) {
+			JOptionPane.showMessageDialog(null, "Tài khoản không hợp lệ");
+			return false;
+		}		
+		else {
 			if (pass.equals(confirmPass)) {
 				ClientMain.connection.Send("signup~" + acc + "~" + pass);
 				return true;
