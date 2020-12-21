@@ -32,7 +32,7 @@ public class MyClient {
 			this.dataInputStream.close();
 			this.dataOutputStream.close();
 			this.socket.close();
-			ServerMain.serverHome.println(((this.user == null)?"new client":this.user.getUsername()) + " ngat ket noi");
+			ServerMain.serverHome.println(((this.user == null)?(socket.getInetAddress().getHostAddress() + ":" + String.valueOf(socket.getPort())):this.user.getUsername()) + " đã ngắt kết nối");
 			if(user!=null)  user.setState(0);
 			if(room!=null) room.removePlayer(this);
 		} catch (IOException e) {
@@ -60,7 +60,7 @@ public class MyClient {
 				while(true) {
 					try {
 						String message = dataInputStream.readUTF();
-						ServerMain.serverHome.println("Server received from " + ((user == null)?"new client":user.getUsername()) + ": " + message);
+						ServerMain.serverHome.println("Server received from " + ((user == null)?(socket.getInetAddress().getHostAddress() + ":" + String.valueOf(socket.getPort())):user.getUsername()) + ": " + message);
 						try {
 							checkMessage(message);
 							}
