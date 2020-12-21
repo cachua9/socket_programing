@@ -31,7 +31,8 @@ public class MyClient {
 			this.dataInputStream.close();
 			this.dataOutputStream.close();
 			this.socket.close();
-			System.out.println("ngat ket noi");
+			System.out.println(this.username + " ngat ket noi");
+			User.logout(this.username);
 		} catch (IOException e) {
 			// TODO: handle exception
 		}
@@ -78,11 +79,17 @@ public class MyClient {
 				put("password", command[2]);
 			}});
 			if(us.size() == 0) {
-				Send("replogin~0");
+				Send("replogin~0");				
 			}
-			else {
-				this.username = command[1];
-				Send("replogin~1");
+			else {				
+				if(us.get(0).getState() == 0) {
+					this.username = command[1];
+					Send("replogin~1");
+					us.get(0).setState(1);
+				}
+				else if(us.get(0).getState() == 1) {
+					Send("replogin~2");
+				}				
 			}
 		}
 		else if(command[0].equals("signup")) {
@@ -90,7 +97,7 @@ public class MyClient {
 				put("username", command[1]);
 			}});
 			if(us1.size() == 0) {
-				if(User.insert(new User(0, command[1], command[2]))) {
+				if(User.insert(new User(0, command[1], command[2], 0))) {
 				Send("repsignup~1");
 				}
 				else {

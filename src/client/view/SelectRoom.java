@@ -10,6 +10,7 @@ import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
 import client.controller.ClientMain;
+import client.controller.RoomController;
 import client.object.Room;
 
 import javax.swing.JList;
@@ -57,20 +58,20 @@ public class SelectRoom extends JFrame {
 				ClientMain.connection.Send("refreshrooms");
 			}
 		});
-		btnRefreshRooms.setBounds(425, 119, 89, 23);
+		btnRefreshRooms.setBounds(418, 119, 110, 23);
 		contentPane.add(btnRefreshRooms);
 		
 		JButton btnCreateRoom = new JButton("Tạo phòng");
 		btnCreateRoom.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				ClientMain.connection.Send("createroom");
+				RoomController.createRoom();
 			}
 		});
-		btnCreateRoom.setBounds(425, 64, 89, 23);
+		btnCreateRoom.setBounds(418, 65, 110, 23);
 		contentPane.add(btnCreateRoom);
 		
 		JButton bntJoinRoom = new JButton("Vào phòng");
-		bntJoinRoom.setBounds(425, 174, 89, 23);
+		bntJoinRoom.setBounds(418, 175, 110, 23);
 		contentPane.add(bntJoinRoom);
 		
 		JScrollPane scrollPane = new JScrollPane();

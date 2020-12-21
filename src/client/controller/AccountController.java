@@ -29,11 +29,14 @@ public class AccountController {
 	public static void checkMessage(String command[]) {
 		if(command[0].equals("replogin")){
 			if(command[1].equals("0")) {
-				JOptionPane.showMessageDialog(null, "Fail!");
+				JOptionPane.showMessageDialog(null, "Sai tài khoản hoặc mật khẩu!");
 			}
 			else if(command[1].equals("1")) {
 				ClientMain.clientLogin.setVisible(false);
 				ClientMain.selectRoom.setVisible(true);
+			}
+			else if(command[1].equals("2")) {
+				JOptionPane.showMessageDialog(null, "Tài khoản đang đăng nhập ở nơi khác!");
 			}
 		}		
 		else if(command[0].equals("repsignup")){

@@ -3,6 +3,7 @@ package client.controller;
 import javax.swing.JOptionPane;
 
 import client.view.ClientLogin;
+import client.view.RoomView;
 import client.view.SelectRoom;
 
 public class ClientMain {
@@ -13,6 +14,7 @@ public class ClientMain {
 	
 	public static ClientLogin clientLogin = new ClientLogin();
 	public static SelectRoom selectRoom = new SelectRoom();
+	public static RoomView roomView = new RoomView();
 	
 	public static void main(String[] args) {
 		

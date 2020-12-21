@@ -33,6 +33,14 @@ public class Room {
 		}
 		players.clear();
 	}
+	
+	public String getInfoRoom() {
+		String str = "inforoom~" + String.valueOf(this.id) + "~" + String.valueOf(this.state) + "~" + String.valueOf(getCurQtyPlayer());
+		for (MyClient myClient : players) {
+			str += "~" + myClient.getUsername();
+		}
+		return str;
+	}
 
 	public int getId() {
 		return id;

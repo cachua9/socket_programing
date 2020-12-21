@@ -25,9 +25,12 @@ public class RoomController {
 				isUse[i] = true;
 				Room room = new Room(i, 0, myClient);
 				rooms.add(room);
-				break;
+				myClient.Send("repcreateroom~1");
+				refreshRoom(myClient);
+				return;
 			}
 		}
+		myClient.Send("repcreateroom~0");
 	}
 	
 	public static void delRoom(Room room) {
@@ -49,5 +52,11 @@ public class RoomController {
 		}
 		myClient.Send(message);
 	}
+	
+	public static void refreshRoom(MyClient myClient) {
+		String message = myClient.getRoom().getInfoRoom();
+		myClient.Send(message);
+	}
+
 
 }
