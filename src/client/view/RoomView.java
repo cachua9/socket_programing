@@ -1,6 +1,5 @@
 package client.view;
 
-import java.awt.BorderLayout;
 import java.awt.EventQueue;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -13,7 +12,6 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.border.EmptyBorder;
 
-import client.controller.ClientMain;
 import client.controller.RoomController;
 
 import javax.swing.JLabel;

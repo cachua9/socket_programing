@@ -82,8 +82,9 @@ public class RoomController {
 	
 	private static void repCreateRoom(String command[]) {
 		if(Integer.valueOf(command[1]) == 1) {
-			ClientMain.selectRoom.setVisible(false);
-			ClientMain.roomView.setVisible(true);
+//			ClientMain.selectRoom.setVisible(false);
+//			ClientMain.roomView.setVisible(true);
+			ClientMain.generalView.switchToMe(ClientMain.roomView);
 		}
 		else if(Integer.valueOf(command[1]) == 0) {
 			JOptionPane.showMessageDialog(null, "Lỗi khi tạo phòng");
@@ -91,7 +92,7 @@ public class RoomController {
 	}
 	
 	private static void doneLeaveRoom(String command[]) {
-		ClientMain.roomView.setVisible(false);
+		//ClientMain.roomView.setVisible(false);
 		ClientMain.showSelectRoom();
 		JOptionPane.showMessageDialog(ClientMain.selectRoom, "Bạn đã rời khỏi phòng " + ClientMain.roomView.getLbIdRoom().getText());
 		curRoomIndex = -1;
@@ -99,8 +100,9 @@ public class RoomController {
 	
 	private static void repJoinRoom(String command[]) {
 		if(command[1].equals("1")) {
-			ClientMain.selectRoom.setVisible(false);
-			ClientMain.roomView.setVisible(true);
+//			ClientMain.selectRoom.setVisible(false);
+//			ClientMain.roomView.setVisible(true);
+			ClientMain.generalView.switchToMe(ClientMain.roomView);
 		}
 		else if(command[1].equals("2")){
 			JOptionPane.showMessageDialog(ClientMain.selectRoom, "Phòng đã đầy");

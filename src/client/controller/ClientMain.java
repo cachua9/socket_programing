@@ -3,6 +3,7 @@ package client.controller;
 import javax.swing.JOptionPane;
 
 import client.view.ClientLogin;
+import client.view.GeneralView;
 import client.view.RoomView;
 import client.view.SelectRoom;
 
@@ -12,6 +13,7 @@ public class ClientMain {
 	
 	public static String username = "";
 	
+	public static GeneralView generalView = new GeneralView();
 	public static ClientLogin clientLogin = new ClientLogin();
 	public static SelectRoom selectRoom = new SelectRoom();
 	public static RoomView roomView = new RoomView();
@@ -47,12 +49,13 @@ public class ClientMain {
 		}
 		
 		//Show form login
-		clientLogin.setVisible(true);
+		generalView.setVisible(true);
+		generalView.switchToMe(clientLogin);
 		return true;
 	}
 	
 	public static void showSelectRoom() {
-		selectRoom.setVisible(true);
+		generalView.switchToMe(selectRoom);
 		connection.Send("refreshrooms");
 	}
 

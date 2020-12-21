@@ -1,17 +1,13 @@
 package client.view;
 
-import java.awt.BorderLayout;
 import java.awt.EventQueue;
-import java.util.ArrayList;
 
-import javax.swing.DefaultListModel;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
 import client.controller.ClientMain;
 import client.controller.RoomController;
-import client.object.Room;
 
 import javax.swing.JList;
 import javax.swing.JOptionPane;
