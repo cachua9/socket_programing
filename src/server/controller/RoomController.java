@@ -26,6 +26,9 @@ public class RoomController {
 		else if(command[0].equals("roomkickplayer")) {
 			kickPlayer(myClient, command);
 		}
+		else if(command[0].equals("roomstartgame")) {
+			myClient.getRoom().StartGame();
+		}
 	}
 	
 	private static void createRoom(MyClient myClient) {

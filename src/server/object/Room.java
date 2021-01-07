@@ -83,6 +83,17 @@ public class Room {
 	public int getMaxQtyPlayer() {
 		return maxQtyPlayer;
 	}
+	
+	public void StartGame() {
+		Thread thread = new Thread() {
+			public void run() {
+				//
+				
+			}
+		};
+		thread.setDaemon(true);
+		thread.start();		
+	}
 
 	
 }
