@@ -4,6 +4,7 @@ import javax.swing.JOptionPane;
 
 import client.view.ClientLogin;
 import client.view.GeneralView;
+import client.view.InGameView;
 import client.view.RoomView;
 import client.view.SelectRoom;
 
@@ -17,6 +18,7 @@ public class ClientMain {
 	public static ClientLogin clientLogin = new ClientLogin();
 	public static SelectRoom selectRoom = new SelectRoom();
 	public static RoomView roomView = new RoomView();
+	public static InGameView inGameView = new InGameView();
 	
 	public static void main(String[] args) {
 		boolean flag;

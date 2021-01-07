@@ -74,6 +74,7 @@ public class RoomView extends JFrame {
 		btnPlay.setVisible(false);
 		btnPlay.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				RoomController.startGame();
 			}
 		});
 		btnPlay.setBounds(410, 63, 130, 23);

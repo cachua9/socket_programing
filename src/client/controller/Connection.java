@@ -4,12 +4,8 @@ import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
-import java.util.ArrayList;
-import java.util.Hashtable;
 
 import javax.swing.JOptionPane;
-
-import server.model.User;
 
 public class Connection {
 	private Socket socket;
@@ -92,6 +88,9 @@ public class Connection {
 		}
 		else if(command[0].contains("room")) {
 			RoomController.checkMessage(command);
+		}
+		else if(command[0].contains("game")) {
+			GameController.checkMessage(command);
 		}
 	}
 

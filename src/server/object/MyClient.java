@@ -7,6 +7,7 @@ import java.net.Socket;
 import java.util.ArrayList;
 import java.util.Hashtable;
 
+import server.controller.GameController;
 import server.controller.RoomController;
 import server.controller.ServerMain;
 import server.model.User;
@@ -119,6 +120,9 @@ public class MyClient {
 		}
 		else if(command[0].contains("room")) {
 			RoomController.checkMessage(this, command);
+		}
+		else if(command[0].contains("game")) {
+			GameController.checkMessage(this, command);
 		}
 	}
 

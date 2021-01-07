@@ -132,4 +132,8 @@ public class RoomController {
 		ClientMain.connection.Send("roomkickplayer~" + rooms.get(curRoomIndex).getPlayerNameByIndex(index));
 	}
 	
+	public static void startGame() {
+		ClientMain.connection.Send("roomstart");
+	}
+	
 }

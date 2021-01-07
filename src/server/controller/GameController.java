@@ -1,11 +1,43 @@
 package server.controller;
 
+import server.model.Question;
 import server.object.MyClient;
 
 public class GameController {
 	
-	public static void sendQuestion(MyClient myClient, ) {
-		
+	public static void checkMessage(MyClient myClient, String command[]) {
+		if(command[0].equals("gameanswer")) {
+			checkAnswer(myClient, command);
+		}
+		else if(command[0].equals("refreshrooms")) {
+			
+		}
+	}
+	
+	private static void checkAnswer(MyClient myClient, String[] command) {
+		int answer = Integer.valueOf(command[1]);
+		//ServerMain.serverHome.println(command[1] + " - " + myClient.getRoom().getCurQuestion().getTrueAnswer());
+		if (answer == myClient.getRoom().getCurQuestion().getTrueAnswer()) {
+			myClient.getRoom().setNext(1);
+			if(myClient.getRoom().getMainPlayer() == null) myClient.getRoom().setMainPlayer(myClient);
+		}
+		else {
+			myClient.getRoom().setNext(2);
+		}
+	}
+	
+	public static void sendQuestion(MyClient myClient, Question question, int role) {
+		String message = "gamequestion~" + (myClient.getRoom().getCau() + 1) + "~" + question.getQuestion();
+		for (String answer : question.getAnswer()) {
+			message += "~" + answer;
+		}
+		message += "~" + String.valueOf(role);
+		myClient.Send(message);
+	}
+	
+	public static void sendTime(MyClient myClient, int time) {
+		String message = "gametime~" + String.valueOf(time);
+		myClient.Send(message);
 	}
 
 }

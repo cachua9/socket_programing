@@ -2,7 +2,9 @@ package server.object;
 
 import java.util.ArrayList;
 
+import server.controller.GameController;
 import server.controller.RoomController;
+import server.model.Question;
 
 public class Room {
 	private int id;
@@ -84,15 +86,104 @@ public class Room {
 		return maxQtyPlayer;
 	}
 	
+	private long lastTimeSendQuestion = 0;
+	private Question curQuestion;
+	private MyClient mainPlayer;
+	private int next;
+	private int cau = -1;
+	
 	public void StartGame() {
+		for (MyClient myClient : players) {
+			myClient.Send("startgame");
+		}
 		Thread thread = new Thread() {
 			public void run() {
 				//
+				try {
+					mainPlayer = null;
+					curQuestion = Question.getRandomQuestionByLevel(1);
+					next = 0;
+					for (MyClient myClient : players) {
+						GameController.sendQuestion(myClient, curQuestion, 1);
+					}
+					lastTimeSendQuestion = System.currentTimeMillis();
+					while (System.currentTimeMillis() - lastTimeSendQuestion < 10000) {
+						sleep(1000);
+						for (MyClient myClient : players) {
+							GameController.sendTime(myClient, 10 - (int)((System.currentTimeMillis() - lastTimeSendQuestion)/1000));
+						}
+					}
+					cau = 0;
+					if(next == 1) {
+						
+						while (cau < 15) {
+							if(cau < 5) {
+								curQuestion = Question.getRandomQuestionByLevel(1);
+							}
+							else if(cau < 10) {
+								curQuestion = Question.getRandomQuestionByLevel(2);
+							}
+							else {
+								curQuestion = Question.getRandomQuestionByLevel(3);
+							}
+							next = 0;
+							for (MyClient myClient : players) {
+								if(myClient == mainPlayer) {
+									GameController.sendQuestion(myClient, curQuestion, 1);
+								}
+								else {
+									GameController.sendQuestion(myClient, curQuestion, 0);
+								}
+							}
+							lastTimeSendQuestion = System.currentTimeMillis();
+							while (System.currentTimeMillis() - lastTimeSendQuestion < 60000) {
+								sleep(1000);
+								for (MyClient myClient : players) {
+									GameController.sendTime(myClient, 60 - (int)((System.currentTimeMillis() - lastTimeSendQuestion)/1000));
+								}
+								if(next != 0) break;
+							}
+							if(next!=1) {
+								endGame();
+								break;
+							}
+							cau++;
+						}
+					}
+					else endGame();
+					System.out.println("end");
+				} catch (Exception e) {
+					// TODO: handle exception
+				}
 				
 			}
 		};
 		thread.setDaemon(true);
 		thread.start();		
+	}
+	
+	private void endGame() {
+		
+	}
+
+	public void setMainPlayer(MyClient mainPlayer) {
+		this.mainPlayer = mainPlayer;
+	}
+
+	public Question getCurQuestion() {
+		return curQuestion;
+	}
+
+	public MyClient getMainPlayer() {
+		return mainPlayer;
+	}
+
+	public int getCau() {
+		return cau;
+	}
+
+	public void setNext(int next) {
+		this.next = next;
 	}
 
 	
