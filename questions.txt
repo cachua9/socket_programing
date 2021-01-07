@@ -1,0 +1,6207 @@
+129
+Câu: 1	Nước đá tồn tại dưới dạng nào?
+A	Rắn
+B	Lỏng
+C	Khí
+D	Cả ba phương án đều sai
+Câu: 2	Gang là hợp kim của?
+A	Sắt và Các bon
+B	Sắt và Silic
+C	Sắt và Lưu huỳnh
+D	Sắt và Phốtpho
+Câu: 3	Đồng thau là hợp kim của kim loại?
+A	Sắt
+B	Đồng
+C	Nhôm
+D	Thiếc
+Câu: 4	Hành tinh nào sau đây không thuộc hệ mặt trời?
+A	Thủy Tinh
+B	Kim Tinh
+C	Mộc Tinh
+D	Sơn Tinh
+Câu: 5	Từ nào sau đây không phải chỉ một khái niệm vật lý?
+A	Lực hút
+B	Lực kéo
+C	Lực lưỡng
+D	Lực ma sát
+Câu: 6	Từ nào sau đây không để chỉ các khái niệm hóa học?
+A	Điện tử
+B	Nguyên tử
+C	Lượng tử
+D	Tự tử
+Câu: 7	Quá trình chuyển đổi trạng thái từ rắn sang lỏng gọi là gì?
+A	Nóng chảy
+B	Đông đặc
+C	Bay Hơi
+D	Ngưng tụ
+Câu: 8	Quá trình chuyển đổi trạng thái từ khí sang lỏng gọi là gì?
+A	Nóng Chảy
+B	Đông đặc
+C	Bay Hơi
+D	Ngưng tụ
+Câu: 9	Để lưu 1 tài liệu trong MS word ta dùng tổ hợp phím nào?
+A	Ctrl S
+B	Ctrl A
+C	Ctrl D
+D	Ctrl L
+Câu: 10	Tổ hợp phím Ctrl N trong MS Word dùng để làm gì?
+A	Tạo file mới
+B	Lưu file
+C	Mở file
+D	Đóng file
+Câu: 11	Tổ hợp phím nào dùng để mở một file trong MS Word?
+A	Ctrl S
+B	Ctrl O
+C	Ctrl A
+D	Shift A
+Câu: 12	Tổ hợp phím Ctrl X trong MS Word dùng để làm gì?
+A	Đóng
+B	Mở 
+C	Cắt
+D	Sao chép
+Câu: 13	Tổ hợp phím Ctrl V trong MS Word đung để làm gì ?
+A	Đóng
+B	Mở
+C	Sao chép
+D	Dán
+Câu: 14	Cái nào dưới đây không phải là 1 hệ điều hành?
+A	Windows
+B	Linux
+C	Mac OS
+D	Doors
+Câu: 15	Cái gì là một thiết bị máy tính?
+A	Gà
+B	Mèo
+C	Chó
+D	Chuột
+Câu: 16	Đâu không phải là một sản phẩm của Apple?
+A	iPhone
+B	iPad
+C	iPod
+D	iBox
+Câu: 17	Đâu không phải là một sản phẩm của Microsoft?
+A	Windows
+B	Office
+C	Dos
+D	Mac
+Câu: 18	Bộ nhớ truy cập ngẫu nhiên trong máy tính được viết tắt như thế nào?
+A	RAM
+B	ROM
+C	ROA
+D	RAO
+Câu: 19	1 kilogam bằng bao nhiêu gam?
+A	1000
+B	10
+C	100
+D	10000
+Câu: 20	Một 1000 kilogam ứng với?
+A	1 tấn
+B	1 tạ 
+C	1 yến
+D	1 kí
+Câu: 21	Một giờ có bao nhiêu phút?
+A	15
+B	60
+C	3600
+D	24
+Câu: 22	Nước Việt Nam hình chữ gì?
+A	S
+B	A
+C	L
+D	C
+Câu: 23	Việt Nam không tiếp giáp với quốc gia nào?
+A	Lào 
+B	Campuchia
+C	Thái Lan
+D	Trung Quốc
+Câu: 24	Đỉnh núi cao nhất Việt Nam thuộc dãy núi nào?
+A	Hoàng Liên Sơn
+B	Đông Triều
+C	Tam Đảo
+D	Sông Gâm
+Câu: 25	Sân bay lớn nhất phía Bắc Việt Nam?
+A	Cát Bi
+B	Quảng Ninh
+C	Nội Bài
+D	Gia Lâm
+Câu: 26	Tỉnh lị của tỉnh Nghệ An ?
+A	Vinh
+B	Cửa Lò
+C	Thái Hòa
+D	Đô Lương
+Câu: 27	"Đường vô xứ Huế quanh quanh - Non xanh nước biếc như tranh ................" gì?
+A	sơn dầu
+B	sơn mài
+C	họa đồ
+D	kí họa
+Câu: 28	Núi nào nằm bên bờ sông Hương ở Huế?
+A	núi Bạch Mã
+B	núi Ngự Bình
+C	núi Hồng Lĩnh
+D	núi Ba Vì
+Câu: 29	Vườn quốc gia nào sau đây không thuộc vùng Bắc Trung Bộ?
+A	Pù Mát
+B	Bạch Mã
+C	Vũ Quang
+D	Ba Vì
+Câu: 30	Việt Nam nằm ở châu lục nào?
+A	Châu Á
+B	Châu Mỹ
+C	Châu Âu
+D	Châu Phi
+Câu: 31	Nước nào sau đây không thuộc châu Mỹ?
+A	Cu Ba
+B	Brasil
+C	Pháp
+D	Chi Lê
+Câu: 32	Nước nào sau đây thuộc châu Âu?
+A	Việt Nam
+B	Mỹ
+C	Angola
+D	Thụy Sỹ
+Câu: 33	Thủ đô của nước Việt Nam là thành phố nào?
+A	Hà Nội
+B	Hải Phòng
+C	TP Hồ Chí Minh
+D	Viêng Chăn
+Câu: 34	Nước có diện tích lớn nhất thế giới?
+A	Hoa Kỳ
+B	Trung Quốc
+C	Nga
+D	Pháp
+Câu: 35	Trái đất có bao nhiêu đại dương?
+A	1
+B	2
+C	3
+D	4
+Câu: 36	Trong các tỉnh sau đây, tỉnh nào không giáp biển?
+A	Khánh Hòa 
+B	Hà Nam
+C	Kiên Giang
+D	TP Sài Gòn
+Câu: 37	Tỉnh nào sau đây thuộc khu vực Tây Nguyên?
+A	Hà Nam
+B	Thái Nguyên
+C	Đăk Nông
+D	Cần Thơ
+Câu: 38	Cảng nào không thuộc vùng Đông Nam Bộ?
+A	Cảng Sài Gòn
+B	Cảng Thị Vải
+C	Cảng Cái Mép
+D	Cảng Hải Phòng
+Câu: 39	Địa danh Dinh Độc Lập là thuộc thành phố nào ?
+A	Hà Nội
+B	Hải Phòng
+C	Đà Nẵng
+D	TP Hồ Chí Minh
+Câu: 40	Đồng bằng sông Cửu Long là thuộc miền nào ở nước ta?
+A	Miền Bắc
+B	Miền Nam
+C	Miền Trung
+D	Không thuộc miền nào cả
+Câu: 41	Việt Nam không có biên giới quốc gia với nước nào sau đây?
+A	Lào
+B	Campuchia
+C	Trung Quốc
+D	Ấn Độ
+Câu: 42	Quốc gia nào sau đây không giáp biển?
+A	Lào
+B	Việt Nam
+C	Thái Lan
+D	Campuchia
+Câu: 43	Hiệp hội các quốc gia Đông Nam Á viết tắt là gì?
+A	ASEAN
+B	ANEAS
+C	AEASN
+D	AAESN
+Câu: 44	Thủ đô của nước Lào là thành phố nào?
+A	Rangoon 
+B	Viêng Chăn
+C	Hà Nội
+D	Bangkok
+Câu: 45	"Đi một ngày đàng, học một …..khôn"?
+A	thúng
+B	sòng
+C	sàng
+D	bát
+Câu: 46	Từ nào còn thiếu trong dấu …  "… rách phải giữ lấy lề"?
+A	vở
+B	giấy
+C	sách
+D	bút
+Câu: 47	Từ nào còn thiếu trong dấu …   "Chớp đông nhay nháy,… …. thì mưa"
+A	chó sủa
+B	bò rống
+C	gà gáy
+D	mèo kêu
+Câu: 48	Từ nào còn thiếu trong dấu …  "Hỡi cô tát nước bên đàng, sao cô múc ánh trăng … đổ đi"
+A	tròn
+B	méo
+C	đỏ
+D	vàng
+Câu: 49	Từ nào còn thiếu trong dấu …  "Ai ơi nhớ lấy câu này, cướp đêm là giặc cướp ngày là …"
+A	dân
+B	quan
+C	quân
+D	vua
+Câu: 50	" Gần mực thì đen, gần … thì sáng"?
+A	đèn
+B	nến
+C	lửa
+D	điện
+Câu: 51	"… xinh … mọc đầu đình, em xinh em đứng một mình cũng xinh" Loại cây nào còn thiếu trong dấu …?
+A	Tre
+B	Dừa
+C	Trúc
+D	Cúc
+Câu: 52	Từ nào còn thiếu trong dấu …  "Chồng người đánh bắc dẹp đông, chồng em ngồi bếp dương cung bắn…"
+A	chó
+B	mèo
+C	gà
+D	lợn
+Câu: 53	"Đêm tháng năm chưa nằm đã sáng, ngày tháng … chưa cười đã tối" Tháng nào được nhắc đến trong dấu …?
+A	Bảy
+B	Tám
+C	Chín
+D	Mười
+Câu: 54	Theo truyền thuyết Bánh chưng bánh dày, hoàng tử mà được vua chọn làm vua có tên là gì?
+A	Lang Liêu
+B	Lang Tiêu
+C	Bang Liêu
+D	Bang Tiêu
+Câu: 55	Theo truyền thuyết, loài vật nào đã nổi lên đòi kiếm của vua Lê Lợi?
+A	Rắn
+B	Cá
+C	Bạch tuộc
+D	Rùa
+Câu: 56	Trong truyện cổ tích Tấm Cám, Tấm đã không hóa thân thành cái gì ?
+A	Quả thị
+B	Chim vàng anh
+C	Cây xoan đào
+D	Cây lúa
+Câu: 57	Ca sĩ nào được mệnh danh là Ông hoàng nhạc Pop (King of Pop)?
+A	Elvis Presley
+B	Ronan Keating
+C	Micheal Jackson
+D	Robbie William
+Câu: 58	Thành phố nào là Thủ đô của nước Mỹ?
+A	Washington DC
+B	New York
+C	California
+D	New Jersey
+Câu: 59	Đâu không phải là một yếu tố của Hiphop?
+A	Rapping
+B	Beatboxing
+C	Graffity( Vẽ tranh đường phố)
+D	Trashing( Vứt rác đường phố)
+Câu: 60	Ai là tác giả bài Quốc ca của nước Việt Nam Dân Chủ Cộng Hòa?
+A	Văn Cao
+B	Phạm Tuyên 
+C	Lưu Hữu Phước
+D	Đỗ Nhuận
+Câu: 61	Diễn viên Rowan Atkinson ( người vào vai Mr Bean ) là người nước nào?
+A	Anh
+B	Mỹ
+C	Úc
+D	Pháp
+Câu: 62	Tìm từ khác loại với các từ còn lại?
+A	Tiểu thuyết
+B	Thơ
+C	Bút kí
+D	Bài hát
+Câu: 63	Đâu không phải là một nhân vật trong tiểu thuyết dã sử Tam Quốc Diễn Nghĩa?
+A	Trương Phi
+B	Quan Vân Trường
+C	Tào Tháo
+D	Trư Bát Giới
+Câu: 64	Nhắc đến xứ sở mặt trời mọc là ta nhắc tới quốc gia nào?
+A	Nhật Bản
+B	Mỹ
+C	Pháp
+D	Áo
+Câu: 65	Từ nào sau đây không dùng để chỉ một tôn giáo?
+A	Phật giáo
+B	Thiên chúa giáo
+C	Hồi giáo
+D	Giàn giáo
+Câu: 66	Nơi sinh hoạt của người dân theo đạo Thiên Chúa là ở đâu?
+A	Nhà Thờ 
+B	Chùa
+C	Đền 
+D	Miếu
+Câu: 67	Theo đạo Kito, Chúa Giesu đã bị tông đồ thứ mấy hãm hại?
+A	11
+B	5
+C	7
+D	13
+Câu: 68	Tòa thánh Vatican là tòa thánh của tôn giáo nào?
+A	Công giáo
+B	Hồi giáo
+C	Ấn giáo
+D	Phật giáo
+Câu: 69	Trạng thái nào sau đây không có trong Ngũ Hành?
+A	Kim
+B	Thủy
+C	Thổ
+D	Nhựa
+Câu: 70	Ngày nào trong năm được gọi là ngày Cá tháng tư?
+A	Ngày 1 tháng 4
+B	Ngày 11 tháng 4
+C	Ngày 20 tháng 4
+D	Ngày 30 tháng 4
+Câu: 71	Thủ tục nào không có trong lễ cưới của nhân dân vùng đồng bằng Bắc Bộ hiện nay?
+A	Dạm ngõ
+B	Ăn hỏi
+C	Đám cưới
+D	Cướp vợ
+Câu: 72	Các liền chị khi hát quan họ Bắc Ninh thường mang loại nón nào?
+A	Nón quai thao
+B	Nón bài thơ
+C	Nón ngựa
+D	Nón thúng
+Câu: 73	Đâu không phải là một nguyên liệu chính để làm món dưa muối?
+A	Cải bẹ
+B	Muối
+C	Đường
+D	Khoai lang
+Câu: 74	Quân nào sau đây không có trong bộ bài Tây (tú lơ khơ)?
+A	Q cơ
+B	K cơ
+C	J cơ
+D	D cơ
+Câu: 75	Đâu không phải là một triết gia nổi tiếng của Trung Quốc thời cổ?
+A	Khổng Tử
+B	Mặc Tử
+C	Trang Tử
+D	Tự Tử
+Câu: 76	Thành phố nào sau đây không thuộc nước Anh?
+A	Manchester
+B	London
+C	Liverpool
+D	Milan
+Câu: 77	Trang phục của các võ sĩ Karate ngày nay thường có màu gì?
+A	Đỏ
+B	Đen
+C	Xanh lam
+D	Trắng
+Câu: 78	Môn võ vovinam là môn võ truyền thống của quốc gia nào?
+A	Việt Nam
+B	Lào
+C	Campuchia
+D	Myanmar
+Câu: 79	Quân nào sau đây không có trên bàn cờ vua?
+A	Xe 
+B	Pháo
+C	Mã
+D	Tốt
+Câu: 80	Quân Hậu là loại quân có trên bàn cờ nào?
+A	Cờ tướng
+B	Cờ vua
+C	Cờ vây
+D	Cờ caro
+Câu: 81	Trong môn cờ vua, quân nào có nhiều cách di chuyển nhất?
+A	Vua
+B	Hậu
+C	Xe
+D	Mã
+Câu: 82	Cờ tướng là môn thể thao dành cho mấy người chơi?
+A	Một
+B	Hai
+C	Ba
+D	Bốn
+Câu: 83	Đại hội thể thao Olympic được tổ chức mấy năm một lần?
+A	Hai
+B	Bốn
+C	Sáu
+D	Tám
+Câu: 84	Sân vận động quốc gia Bắc Kinh được xây dựng phục vụ Olympic 2008 có hình gì?
+A	Tổ chim
+B	Trái bom
+C	Quả bóng đá
+D	Ngọn đuốc
+Câu: 85	Đại hội thể thao Đông Nam Á 2003 được tổ chức tại quốc gia nào?
+A	Malaysia
+B	Indonesia
+C	Việt Nam
+D	Thái Nam
+Câu: 86	Trong một trận bóng đá chuyên nghiệp, mỗi đội bóng sẽ có bao nhiêu cầu thủ chính thức?
+A	11
+B	22
+C	9
+D	18
+Câu: 87	Trong một trận thi đấu bóng đá, ai được chơi bóng bằng tay?
+A	Tiền đạo
+B	Hậu vệ
+C	Trọng tài
+D	Thủ môn
+Câu: 88	Môn thể thao nào được coi là môn thể thao vua?
+A	Bóng đá
+B	Bóng rổ
+C	Bóng chày
+D	Bóng chuyền
+Câu: 89	Đội tuyển quốc gia Việt Nam đã mấy lần tham dự vòng chung kết World cup?
+A	Chưa lần nào
+B	1 lần
+C	2 lần
+D	3 lần
+Câu: 90	Tác phẩm nào được coi là Bản tuyên ngôn độc lập đầu tiên của Việt Nam?
+A	Nam quốc sơn hà
+B	Bình Ngô đại cáo
+C	Tuyên ngôn độc lập 1945
+D	Chiếu dời đô
+Câu: 91	Điền từ còn thiếu vào dấu ... "Không ai giàu ... họ, không ai khó ... đời"?
+A	Ba
+B	Bốn
+C	Năm
+D	Sáu
+Câu: 92	Điền từ còn thiếu vào dấu ..."Lo bò trắng ..."?
+A	Răng
+B	Mắt
+C	Da
+D	Tay
+Câu: 93	Điền từ còn thiếu vào dấu ..."Ăn ... đá bát"?
+A	Cháo
+B	Cơm
+C	Bánh
+D	Canh
+Câu: 94	Điền từ còn thiếu vào dấu ..."Ăn như ... cuốn, nói như ... leo, làm thì mèo mửa"?
+A	Rồng
+B	Gà
+C	Lốc
+D	Mèo
+Câu: 95	Điền từ còn thiếu vào dấu ..."Ăn ... nói mò"?
+A	Quýt
+B	Chó
+C	Ốc
+D	Bưởi
+Câu: 96	Điền từ còn thiếu vào dấu ..."Dai như ... "?
+A	Đỉa
+B	Gà
+C	Chó
+D	Mèo
+Câu: 97	Điền từ còn thiếu vào dấu ..."Bán ... cho đất, bán ... cho trời"?
+A	Mặt - Lưng
+B	Mặt - Tay
+C	Chân - Lưng
+D	Lưng - Mặt
+Câu: 98	Điền từ còn thiếu vào dấu ..."Bắt ... hai tay"?
+A	Cá
+B	Tôm
+C	Cua
+D	Hến
+Câu: 99	Điền từ còn thiếu vào dấu ..."Bút sa ... chết"?
+A	Gà
+B	Chó
+C	Mèo
+D	Lợn
+Câu: 100	Điền từ còn thiếu vào dấu ..."Cầm đèn chạy trước ...."?
+A	Ô tô
+B	Xe lửa
+C	Xe bò
+D	Xe lăn
+Câu: 101	Điền từ còn thiếu vào dấu ..."Cháy nhà ra mặt ... "?
+A	Người
+B	Chuột
+C	Mèo
+D	Gà
+Câu: 102	Điền từ còn thiếu vào dấu ..."Chín bỏ làm ...."?
+A	Mười
+B	Tám
+C	Một
+D	Chín
+Câu: 103	Điền từ còn thiếu vào dấu ..."Chở củi về ...."?
+A	Rừng
+B	Nhà
+C	Kho
+D	Chuồng
+Câu: 104	Điền từ còn thiếu vào dấu ..."Có bệnh vái .... phương"?
+A	Tứ
+B	Ngũ
+C	Nhất
+D	Tam
+Câu: 105	Điền từ còn thiếu vào dấu ..."...làm .... chịu"?
+A	Quýt - Cam
+B	Cam - Quýt
+C	Chó - Mèo
+D	Mèo - Chó
+Câu: 106	Một chiếc xe đạp bình thường có mấy bánh?
+A	Một
+B	Hai
+C	Ba 
+D	Bốn
+Câu: 107	Cái gì sau đây không phải là một đồ dùng học tập của học sinh?
+A	Bút chì
+B	Thước kẻ
+C	Compa
+D	Tivi
+Câu: 108	Cái gì sau đây không phải là phụ tùng của chiếc xe đạp?
+A	Yên
+B	Phanh
+C	Bánh
+D	Bình xăng
+Câu: 109	Loài động vật nào sau đây không phải là động vật ăn thịt?
+A	Hổ
+B	Báo
+C	Cáo
+D	Hươu
+Câu: 110	Đâu không phải là một loại phương tiện giao thông?
+A	Xe đạp
+B	Xe máy
+C	Xe lửa
+D	Xe chỉ
+Câu: 111	Đường ray là đường dành riêng cho phương tiện nào?
+A	Tàu hỏa
+B	Xe lu
+C	Thuyền
+D	Xe máy
+Câu: 112	Môn nào sau đây không được chơi dưới nước?
+A	Nhảy cầu
+B	Bơi
+C	Lặn
+D	Bóng ném
+Câu: 113	Điền từ còn thiếu vào dấu ... "Nuôi ... ăn cơm nằm, nuôi tằm ăn cơm đứng"?
+A	Lợn
+B	Gà
+C	Chó
+D	Mèo
+Câu: 114	Trận Điện Biên Phủ 1954 là trận đánh giữa quân đội Nhân dân Việt Nam và quân đội nước nào?
+A	Trung Quốc
+B	Mỹ
+C	Nhật
+D	Pháp
+Câu: 115	Ngày quốc khánh của nước ta là ngày nào?
+A	2-9
+B	30-4
+C	1-5
+D	27-7
+Câu: 116	Ngày giải phóng miền nam thống nhất đất nước là ngày nào trong năm ?
+A	2-9
+B	30-4
+C	1-5
+D	27-7
+Câu: 117	Chủ tịch nước đầu tiên của nước Việt Nam Dân chủ Cộng Hòa?
+A	Tôn Đức Thắng
+B	Nguyễn Hải Thần
+C	Hồ Chí  Minh
+D	Võ Nguyên Giáp
+Câu: 118	Chiến thắng Điện Biên Phủ xảy ra vào năm nào?
+A	1953
+B	1954
+C	1945
+D	1956
+Câu: 119	Chủ rịch Hồ Chí Minh đọc bản tuyên ngôn độc lập khai sinh ra nước VNDCCH tại đâu?
+A	Quảng Trường Ba Đình
+B	Quảng Trường CMT8
+C	Nhà hát lớn Hà Nội
+D	Bờ Hồ
+Câu: 120	Hồ Chủ Tịch quê ở tỉnh nào?
+A	Thanh Hóa
+B	Nghệ An
+C	Hà Tĩnh
+D	Huế
+Câu: 121	Thủ đô của nước CHXHCN Việt Nam?
+A	Hà Nội
+B	Hải Phòng
+C	Huế
+D	TP HCM
+Câu: 122	"Tháp Mười đẹp nhất bông ..., Việt Nam đẹp nhất có tên Bác Hồ", loài hoa còn thiếu trong dấu ...?
+A	Mai
+B	Đào
+C	Cúc
+D	Sen
+Câu: 123	Địa danh Dinh Độc Lập là thuộc thành phố nào ?
+A	Hà Nội
+B	Hải Phòng
+C	Đà Nẵng
+D	TP Hồ Chí Minh
+Câu: 124	Ai là tác giả bài Quốc ca của nước Việt Nam Dân Chủ Cộng Hòa
+A	Văn Cao
+B	Phạm Tuyên 
+C	Lưu Hữu Phước
+D	Đỗ Nhuận
+Câu: 125	Theo sử cũ, con trai của Triệu Đà đã lấy trộm cái gì của An Dương Vương?
+A	Nỏ thần
+B	Súng thần công
+C	Vợ
+D	Tiền
+Câu: 126	Câu thơ "    Chị em nặng một lời nguyền - Phất cờ nương tử thay quyền tướng quân" nói đến ai?
+A	Hai Bà Trưng
+B	Bà Triệu
+C	Mai Hắc Đế
+D	Quang Trung
+Câu: 127	Tác phẩm nào được coi là Bản tuyên ngôn độc lập đầu tiên của Việt Nam?
+A	Nam quốc sơn hà
+B	Bình Ngô đại cáo
+C	Tuyên ngôn độc lập 1945
+D	Chiếu dời đô
+Câu: 128	Tôn giáo nào đã trở thành quốc giáo ở nước ta vào triều đại nhà Lý?
+A	Phật giáo
+B	Ấn giáo
+C	Nho giáo
+D	Hồi giáo
+Câu: 129	Trong khoảng nửa cuối thế kỷ 19 và nửa đầu thế kỷ 20, Việt Nam là thuộc địa của quốc gia nào?
+A	Anh
+B	Pháp
+C	Mỹ
+D	Nhật
+Câu: 1	A
+Câu: 2	A
+Câu: 3	B
+Câu: 4	D
+Câu: 5	C
+Câu: 6	D
+Câu: 7	A
+Câu: 8	D
+Câu: 9	A
+Câu: 10	A
+Câu: 11	B
+Câu: 12	C
+Câu: 13	D
+Câu: 14	D
+Câu: 15	D
+Câu: 16	D
+Câu: 17	D
+Câu: 18	A
+Câu: 19	A
+Câu: 20	A
+Câu: 21	B
+Câu: 22	A
+Câu: 23	C
+Câu: 24	A
+Câu: 25	C
+Câu: 26	A
+Câu: 27	C
+Câu: 28	B
+Câu: 29	D
+Câu: 30	A
+Câu: 31	C
+Câu: 32	D
+Câu: 33	A
+Câu: 34	C
+Câu: 35	D
+Câu: 36	B
+Câu: 37	C
+Câu: 38	D
+Câu: 39	D
+Câu: 40	B
+Câu: 41	D
+Câu: 42	A
+Câu: 43	A
+Câu: 44	B
+Câu: 45	C
+Câu: 46	B
+Câu: 47	C
+Câu: 48	D
+Câu: 49	B
+Câu: 50	A
+Câu: 51	C
+Câu: 52	B
+Câu: 53	D
+Câu: 54	A
+Câu: 55	D
+Câu: 56	D
+Câu: 57	C
+Câu: 58	A
+Câu: 59	D
+Câu: 60	A
+Câu: 61	A
+Câu: 62	D
+Câu: 63	D
+Câu: 64	A
+Câu: 65	D
+Câu: 66	A
+Câu: 67	D
+Câu: 68	A
+Câu: 69	D
+Câu: 70	A
+Câu: 71	D
+Câu: 72	A
+Câu: 73	D
+Câu: 74	D
+Câu: 75	D
+Câu: 76	D
+Câu: 77	D
+Câu: 78	A
+Câu: 79	B
+Câu: 80	B
+Câu: 81	B
+Câu: 82	B
+Câu: 83	B
+Câu: 84	A
+Câu: 85	C
+Câu: 86	A
+Câu: 87	D
+Câu: 88	A
+Câu: 89	A
+Câu: 90	A
+Câu: 91	A
+Câu: 92	A
+Câu: 93	A
+Câu: 94	A
+Câu: 95	C
+Câu: 96	A
+Câu: 97	A
+Câu: 98	A
+Câu: 99	A
+Câu: 100	A
+Câu: 101	B
+Câu: 102	A
+Câu: 103	A
+Câu: 104	A
+Câu: 105	A
+Câu: 106	B
+Câu: 107	D
+Câu: 108	D
+Câu: 109	D
+Câu: 110	D
+Câu: 111	A
+Câu: 112	D
+Câu: 113	A
+Câu: 114	D
+Câu: 115	A
+Câu: 116	B
+Câu: 117	C
+Câu: 118	B
+Câu: 119	A
+Câu: 120	B
+Câu: 121	A
+Câu: 122	D
+Câu: 123	D
+Câu: 124	A
+Câu: 125	A
+Câu: 126	A
+Câu: 127	A
+Câu: 128	A
+Câu: 129	B
+541
+Câu: 1	Lê Lợi sinh ra ở thế kỷ nào ?
+A	Thế kỷ 13
+B	Thế kỷ 14
+C	Thế kỷ 15
+D	Thế kỷ 16
+Câu: 2	Vùng đồng bằng sông Hồng có hình gì?
+A	Tam giác
+B	Tứ giác
+C	Nan quạt
+D	Con mèo
+Câu: 3	Dòng sông nào còn được gọi là sông Đen?
+A	Sông Hồng
+B	Sông Đà
+C	Sông Lam
+D	Sông Mã
+Câu: 4	Tỉnh nào sau đây không thuộc đồng bằng sông Hồng?
+A	Vĩnh Phúc
+B	Bắc Ninh
+C	Thái Bình
+D	Thái Nguyên
+Câu: 5	Thành phố Hải Phòng không giáp với tỉnh nào đây?
+A	Thái Bình 
+B	Quảng Ninh
+C	Hải Dương
+D	Bắc Ninh
+Câu: 6	Cao nguyên Mộc Châu thuộc tỉnh nào?
+A	Sơn La
+B	Lai Châu 
+C	Điện Biên
+D	Cao Bằng
+Câu: 7	Quặng Apatit ở Việt Nam chủ yếu tập trung ở tỉnh nào?
+A	Lào Cai
+B	Cao Bằng
+C	Bắc Cạn
+D	Sơn La
+Câu: 8	Hồ Ba bể thuộc tỉnh nào dưới đây?
+A	Bắc Kạn
+B	Thái Nguyên
+C	Hưng Yên
+D	Hải Dương
+Câu: 9	Quần Đảo Cô Tô thuộc tỉnh nào của Việt Nam?
+A	Quảng Ninh
+B	Hải Phòng
+C	Hải Dương
+D	Thái Bình
+Câu: 10	Tỉnh nào sau đây không giáp Lào?
+A	Lào Cai
+B	Lai Châu 
+C	Sơn La
+D	Thanh Hóa
+Câu: 11	Tỉnh nào sau đây không thuộc vùng Bắc Trung Bộ của Việt Nam?
+A	Thừa Thiên Huế
+B	Quảng Bình
+C	Quảng Trị
+D	Quảng Ngãi
+Câu: 12	Núi gì cùng với sông Lam được xem là biểu tượng của xứ Nghệ?
+A	Núi Bài Thơ
+B	Núi Hồng Lĩnh
+C	Núi Cửa Lò
+D	Núi Nhật Lệ
+Câu: 13	Thành phố Đồng Hới là tỉnh lị của tỉnh nào ?
+A	Quảng Trị
+B	Quảng Nam
+C	Quảng Ngãi
+D	Quảng Bình
+Câu: 14	Vườn Quốc Gia Phong Nha Kẻ Bàng, di sản văn hóa thế giới thuộc tỉnh nào của Việt Nam?
+A	Quảng Nam
+B	Đà Nẵng
+C	Quảng Trị
+D	Quảng Bình
+Câu: 15	Dòng sông nào thuộc tỉnh Quảng Bình đã từng chứng kiến sự chia cắt đất nước?
+A	sông Nhật Lệ
+B	sông Gianh
+C	sông Bến Hải
+D	sông Hương
+Câu: 16	Địa danh lịch sử Ngã Ba Đồng Lộc thuộc tỉnh nào?
+A	Nghệ An
+B	Hà Tĩnh
+C	Thanh Hóa
+D	Quảng Bình
+Câu: 17	Vương Quốc Gia Bạch Mã nằm ở tỉnh nào?
+A	Quảng Nam
+B	Đà Nẵng
+C	Thừa Thiên - Huế
+D	Quảng Trị
+Câu: 18	Thành phố Đông Hà là tỉnh lỵ của tỉnh nào?
+A	Quảng Nam
+B	Quảng Bình
+C	Quảng Trị
+D	Quảng Ngãi
+Câu: 19	Sông Bến Hải, nơi chia cắt đất nước ta làm hai miền nam bắc thuộc tỉnh nào?
+A	Quảng Bình
+B	Quảng Trị
+C	Quảng Nam
+D	Huế
+Câu: 20	Tỉnh cực bắc của miền Trung Việt Nam?
+A	Thanh Hóa
+B	Nghệ An
+C	Hà Tĩnh
+D	Nam Định
+Câu: 21	Nước có diện tích lớn thứ hai trên thế giới?
+A	Nga
+B	Mỹ
+C	Úc
+D	Canada
+Câu: 22	Thành phố nào được mệnh danh là kinh đô ánh sáng của châu Âu?
+A	Milan
+B	Paris
+C	London
+D	New York
+Câu: 23	Huyện đảo Hoàng Sa thuộc tỉnh thành nào của VIệt Nam?
+A	Đà Nẵng
+B	Bà Rịa - Vũng Tàu
+C	Bình Thuận
+D	Huế
+Câu: 24	Thành phố nào sau đây không phải là thành phố trực thuộc Trung Ương?
+A	Hải Phòng
+B	Đà Nẵng
+C	Cần Thơ
+D	Huế
+Câu: 25	Tỉnh nào duy nhất của Việt Nam có 2 di sản văn hóa vật thể thế giới được UNESCO công nhận?
+A	Quảng Ninh
+B	Hà Nội
+C	Quảng Nam
+D	Huế
+Câu: 26	Huyện đảo tiền tiêu - Lý Sơn nằm ở tỉnh nào?
+A	Quảng Ngãi
+B	Đà Nẵng
+C	Khánh Hòa
+D	Kontum
+Câu: 27	Xe tăng là vũ khí ra đời trong cuộc chiến tranh nào?
+A	Thế chiến I
+B	Chiến tranh Pháp - Phổ
+C	Thế chiến II
+D	Chiến tranh Việt Nam
+Câu: 28	Nước nào sau đây không sử dụng đơn vị tiền tệ là euro (EUR )?
+A	Tây Ban Nha
+B	Anh
+C	Áo
+D	Hy Lạp
+Câu: 29	Tiểu thuyết Đôn Kihôtê được viết bởi nhà văn người nước nào?
+A	Tây Ban Nha
+B	Bồ Đào Nha
+C	Pháp
+D	Anh
+Câu: 30	Nhân vật nào sau đây không có trong tiểu thuyết Đông Ki Sốt (Don Quixote ) của Cesvantes ?
+A	Hiệp sĩ Đôn Kihôtê
+B	Công nương Đuyn-xi-nê-a (Dulcinea)
+C	Giám mã Xan-chô Pan-xa (Sancho Panza ) 
+D	Bá tước de Moocxep
+Câu: 31	Nước nào sau đây không phải là một thành viên thường trực của hội đồng bảo an LHQ (tính đến năm 2012 )?
+A	Pháp
+B	Anh
+C	Nga
+D	Ấn Độ
+Câu: 32	Sông nào sau đây chảy qua thủ đô London của nước Anh?
+A	Sông Thêm ( Thames)
+B	Sông Vonga
+C	Sông Seine
+D	Sông Nin
+Câu: 33	Lưỡng Hà là từ để chỉ hai vùng châ thổ thuộc sông Euphrates và sông nào ?
+A	Tigris
+B	Dương Tử
+C	Sông Hằng
+D	Sông Colorado
+Câu: 34	Vị tổng thống đầu tiên của nước Mỹ?
+A	George Washington
+B	John Adams
+C	Thomas Jefferson
+D	James Madison
+Câu: 35	Tổng thống nào người Mỹ đã tuyên ngôn giải phóng chế độ nô lệ tại Mỹ?
+A	Lincoln
+B	Franklin Roosevelt
+C	George Washington
+D	John Kennedy
+Câu: 36	Ai là thủ tướng Anh trong thời thế chiến thứ hai?
+A	Churchill
+B	Clement Attlee
+C	Tony Blair
+D	Thatcher
+Câu: 37	Robert McNamara đã làm chức vụ gì trong thời Chiến tranh Việt Nam?
+A	Bộ trưởng bộ ngoại giao Hoa Kỳ
+B	Bộ trưởng bộ quốc phòng Hoa Kỳ
+C	Tổng thống Hoa Kỳ
+D	Đại sứ Hoa Kỳ tại nam Việt Nam
+Câu: 38	Vận động viên quyền anh huyền thoại Muhammad Ali là người nước nào? 
+A	Anh
+B	Pháp
+C	Mỹ
+D	Canada
+Câu: 39	Quân cờ ra đời muộn nhất của môn Cờ tướng là quân nào?
+A	Xe
+B	Pháo
+C	Mã
+D	Tốt
+Câu: 40	Hai câu thơ " Lạc nước hai xe đành bỏ phí - Gặp thời một tốt cũng thành công" là của tác giả nào?
+A	Phan Bội Châu
+B	Phan Châu Trinh
+C	Hồ Chí Minh
+D	Võ Nguyên Giáp
+Câu: 41	Khi được Hoa Đà chữa vết thương ở tay, Quan Vũ vẫn thản nhiên chơi cờ. Đó là loại cờ nào?
+A	Cờ tướng
+B	Cờ cá ngựa
+C	Cờ vây
+D	Cờ Caro
+Câu: 42	Vận động viên Michael Phelps là người đã phá kỷ lục về số HCV Olympics ở bộ môn nào?
+A	Điền kinh
+B	Bơi lội
+C	Đua thuyền
+D	Bắn súng
+Câu: 43	Vận động viên bơi lội Michael Phelps, người đã đoạt 18 HCV Olympics là người nước nào?
+A	Mỹ
+B	Anh
+C	Canada
+D	Úc
+Câu: 44	Màu nào sau đây không có trên Lá cờ Olympic?
+A	Đen
+B	Đỏ
+C	Xanh lam
+D	Tím
+Câu: 45	Thành phố nào đã đăng cai thế vận hội 2004?
+A	Athens
+B	London
+C	Sydney
+D	Bắc Kinh
+Câu: 46	Thành phố sẽ tổ chức Thế vận hội vào năm 2018?
+A	Lyon
+B	St Petersburg
+C	Seul
+D	Rio de Janeiro
+Câu: 47	Năm nào sau đây không được tổ chức thế vận hội mùa hè?
+A	1896
+B	2008
+C	1944
+D	1976
+Câu: 48	Vị HLV nào là người dẫn dắt đội tuyển Đức vô địch World Cup 1990?
+A	Franz Beckenbauer
+B	Rudi Voller
+C	Jürgen Klinsmann
+D	Joachim Löw
+Câu: 49	Hòn đảo du lịch Bali là thuộc quốc gia nào ở châu Á:
+A	Indonesia
+B	Malaysia
+C	Singapore
+D	Thái Lan
+Câu: 50	Tôn giáo có nhiều tín đồ nhất trên thế giới?
+A	Kito giáo
+B	Hồi giáo
+C	Ấn Độ giáo
+D	Phật giáo
+Câu: 51	Ai được coi là khai tổ của Đạo giáo?
+A	Lão Tử
+B	Khổng Tử
+C	Mạnh tử
+D	Mặc Tử
+Câu: 52	Khái niệm nào sau đây là đúng so với Ngũ hành tương sinh tương khắc?
+A	Kim sinh Mộc
+B	Mộc sinh Thủy
+C	Thủy sinh Kim
+D	Kim sinh Thủy
+Câu: 53	Nước nào ở khu vực Trung Đông còn được gọi là Persia?
+A	Iran
+B	Lebanon
+C	Syria
+D	Kuwait
+Câu: 54	Làng Đông Hồ, nổi tiếng với tranh dân gian Đông Hồ thuộc tỉnh nào?
+A	Bắc Ninh
+B	Bắc Giang
+C	Ninh Bình
+D	Hà Tây
+Câu: 55	Loại giấy được dùng để in tranh dân gian Đông Hồ?
+A	Giấy than
+B	Giấy tráng
+C	Giấy dó
+D	Giấy can
+Câu: 56	Quốc gia nào sau đây là thành viên của cộng đồng Pháp ngữ?
+A	Việt Nam
+B	Thái Lan
+C	Malaysia
+D	Indonesia
+Câu: 57	Khối thịnh vượng chung là tổ chức các quốc gia độc lập từng là thuộc địa của đế quốc nào?
+A	Anh
+B	Pháp
+C	Đức
+D	Mỹ
+Câu: 58	Trụ sở của tổ chức Liên Hợp Quốc (United Nations ) được đặt tại quốc gia nào?
+A	Mỹ
+B	Anh
+C	Bỉ
+D	Thụy Sỹ
+Câu: 59	Chương trình phát triển Liên Hợp Quốc viết tắt là gì?
+A	UNIP
+B	UNDP
+C	UNCP
+D	UNPP
+Câu: 60	Trương Tử Lâm, hoa hậu thế giới 2007, là người nước nào?
+A	Đài Loan
+B	Trung Quốc đại lục
+C	Singapore 
+D	Hàn Quốc
+Câu: 61	Kênh đào Suez thuộc chủ quyền quốc gia nào?
+A	Ai Cập
+B	Anh 
+C	Pháp
+D	Mỹ
+Câu: 62	Kênh đào Panama là kênh đào nối hai đại dương nào?
+A	Thái Bình Dương và Đại Tây Dương
+B	Thái Bình Dương và Ấn Độ Dương
+C	Đại Tây Dương và Ấn Độ Dương
+D	Đại Tây Dương và Bắc Băng Dương
+Câu: 63	Công trình nổi tiếng Vạn Lý Trường Thành được khởi đầu từ triều đại nào của Trung Quốc?
+A	Tần
+B	Hán
+C	Tống
+D	Minh
+Câu: 64	Ai là vị vua đầu tiên của nhà Hán ( Trung Quốc )?
+A	Lưu Bang
+B	Hán Vũ Đế
+C	Hán Văn Đế
+D	Hán Chiêu Đế
+Câu: 65	Võ Tắc Thiên, nữ hoàng duy nhất trong lịch sử Trung Quốc sống trong thời nào?
+A	Hán
+B	Đường
+C	Tống
+D	Thanh
+Câu: 66	Thủ đô của triều Tống ở Trung Quốc là ở đâu?
+A	Trường An
+B	Bắc Kinh
+C	Khai Phong
+D	Hàng Châu
+Câu: 67	Cuộc chiến tranh thuốc phiện ( nha phiến ) lần thứ nhất tại Trung Quốc xảy ra giữa quân đội nhà Thanh với nước nào?
+A	Anh
+B	Tây Ban Nha
+C	Pháp
+D	Mỹ
+Câu: 68	Sau cuộc chiến tranh thuốc phiện ( nha phiến ) lần thứ nhất, Trung Quốc phải nhượng lại vùng đất nào cho Anh>
+A	Hồng Kông
+B	Macau
+C	Đài Loan
+D	Hải Nam
+Câu: 69	Chiến trường chính của chiến tranh thế giới lần một là ở châu lục nào?
+A	Châu Á
+B	Châu Âu
+C	Châu Mỹ
+D	Châu Phi
+Câu: 70	Nước nào sau đây không cùng một phe với các nước còn lại trong Thế Chiến I ?
+A	Đức
+B	Áo - Hung
+C	Bulgaria
+D	Anh
+Câu: 71	Nước nào đã rút ra khỏi cuộc chiến tranh thế giới lần thứ nhất sau khi kí kết hòa ước với Đức?
+A	Anh
+B	Nga
+C	Pháp
+D	Ý
+Câu: 72	Giải vô địch bóng đá thế giới World cup lần đầu tiên được tổ chức tại quốc gia nào?
+A	Uruguay
+B	Paraguay
+C	Brasil
+D	Đức
+Câu: 73	Giải vô địch bóng đá thế giới được tổ chức vào năm 1930 là giải vô địch thứ bao nhiêu?
+A	Thứ nhất
+B	Thứ hai
+C	Thứ ba
+D	Thứ tư
+Câu: 74	Tính đến năm 2012, quốc gia nào dẫn đầu về thành tích vô địch World cup?
+A	Đức
+B	Argentina
+C	Italia
+D	Brasil
+Câu: 75	Đổi tuyển quốc gia Đức đã giành được bao nhiêu chức vô địch World Cup tính đến năm 2010?
+A	2
+B	3
+C	4
+D	5
+Câu: 76	Đội tuyển nào đã vô địch giải vô địch bóng đá thế giới tổ chức tại Nam Phi 2010?
+A	Tây Ban Nha
+B	Hà Lan
+C	Uruguay
+D	Pháp
+Câu: 77	Diego Maradona đã dẫn dắt đội tuyển bóng đá quốc gia Argentina tại kỳ World cup nào?
+A	1998
+B	2002
+C	2006
+D	2010
+Câu: 78	Liên đoàn bóng đá chât Á được viết tắt như thế nào?
+A	UEFA
+B	CAF
+C	CONMEBOL
+D	AFC
+Câu: 79	Đội tuyển vô địch giải vô địch bóng đá châu Âu 2008 tại Áo & Thụy Sỹ?
+A	Tây Ban Nha
+B	Đức
+C	Pháp
+D	Nga
+Câu: 80	Đội bóng nước Anh nào sau đây giành được nhiều cúp C1 Châu Âu nhất so với các đội còn lại?
+A	Manchester United
+B	Liverpool
+C	Arsenal
+D	Aston Villa
+Câu: 81	Đội bóng nào có tổng số lần vô địch giải ngoại hạng Anh nhiều nhất?
+A	Manchester United
+B	Liverpool
+C	Arsenal
+D	Chelsea
+Câu: 82	SVĐ Anfield là sân nhà của đội bóng nào?
+A	Everton
+B	Liverpool
+C	Arsenal
+D	Chelsea
+Câu: 83	"Những con quỷ đỏ" - Red Devils là biệt danh của đội bóng nào dưới đây? 
+A	Manchester United
+B	Arsenal
+C	AC Milan
+D	Barcelona
+Câu: 84	Sân nhà của đội bóng Manchester United?
+A	Old Trafford
+B	Stamford Bridge
+C	City of Manchester
+D	highbury
+Câu: 85	Màu áo chính thức của CLB Manchester City là màu nào?
+A	Đỏ
+B	Xanh Da Trời
+C	Đen
+D	Vàng
+Câu: 86	Câu lạc bộ bóng đá nào sau đây không đến từ thành London ?
+A	Chelsea
+B	Arsenal
+C	Everton
+D	Fulham
+Câu: 87	Triều đại nào ở Trung Quốc khi còn cai trị nước ta đã đặt nước ta là An Nam Đô Hộ Phủ?
+A	Hán 
+B	Đường
+C	Tống 
+D	Nguyên
+Câu: 88	Vua nào đã đổi tên nước ta thành Đại Cồ Việt?
+A	Đinh Bộ Lĩnh
+B	Lý Công Uẩn
+C	Ngô Quyền
+D	Quang Trung
+Câu: 89	Ngô Quyền đã đánh thắng giặc Nam Hán trên sông Bạch Đằng vào năm nào?
+A	938
+B	948
+C	958
+D	968
+Câu: 90	Giai đoạn loạn 12 sứ quân là giai đoạn sau triều đại phong kiến nào?
+A	Ngô
+B	Đinh
+C	Tiền Lê
+D	Lý
+Câu: 91	Cố đô Hoa Lư thời Đinh Tiên Hoàng nay thuộc tỉnh nào của nước ta?
+A	Hà Nội
+B	Ninh Bình
+C	Thái Bình
+D	Nghệ An
+Câu: 92	Vua Ngọa Triều là vua của triều đại phong kiến nào ở Việt Nam?
+A	Ngô
+B	Hậu Lê
+C	Tiền Lê
+D	Trần
+Câu: 93	Nguyên nhân chính của việc Lê Hoàn được các đại thần và Thái hậu nhà Đinh tôn lên làm vua?
+A	Do việc nước quá vất vả
+B	Do quân Chiêm Thành xâm lược
+C	Do quân Tông xâm lược
+D	Do dân không theo nhà Đinh nữa
+Câu: 94	Lý Thái Tổ lên ngôi hoàng đế năm nào?
+A	1000
+B	1008
+C	1009
+D	1010
+Câu: 95	Lý Công Uẩn sinh tại Cổ Pháp tính đến nay là thuộc tỉnh nào?
+A	Bắc Ninh
+B	Ninh Bình
+C	Hà Nội
+D	Hưng Yên
+Câu: 96	Kim loai nào dẫn điện tốt nhất
+A	Bạc
+B	Đồng
+C	Nhôm
+D	Vàng
+Câu: 97	Một ion có điện tích dương được gọi là gì
+A	Cation
+B	Anion
+C	Barion
+D	Halidon
+Câu: 98	Nước đá khô có công thức là gì
+A	H20
+B	C02
+C	H2O2
+D	O3
+Câu: 99	Kim loại có nhiệt độ nóng chảy cao nhất
+A	Nhôm
+B	Sắt
+C	Crom
+D	Vonfram
+Câu: 100	Nguyên tố chiếm tỉ lệ nhiều nhất trong vũ trụ
+A	Oxy
+B	Hidro
+C	Heli
+D	Các bon
+Câu: 101	Trong phản ứng hóa học, đồng không phản ứng với chất nào dưới đây
+A	Axit Sunfuric
+B	Axit Clohidric
+C	Axit Nitric
+D	Sắt 3+
+Câu: 102	Đồng có bao nhiêu đồng vị ổn định
+A	1
+B	2
+C	3
+D	4
+Câu: 103	Nguyên tố nào là duy nhất có những tên khác nhau cho những đồng vị khác nhau
+A	Hidro
+B	Cesi
+C	Liti
+D	Không có nguyên tố như vậy
+Câu: 104	Một KiloByte tương ứng với bao nhiêu byte
+A	1024
+B	512
+C	128
+D	64
+Câu: 105	Một byte gồm
+A	8 bit
+B	16 bit
+C	32 bit
+D	1024 bit
+Câu: 106	Một GigaByte tương đương với bao nhiêu byte
+A	10 mũ 3
+B	10 mũ 6
+C	10 mũ 9
+D	10 mũ 12
+Câu: 107	Tên viết tắt của mạng cục bộ
+A	WAN
+B	GAN
+C	LAN
+D	SAN
+Câu: 108	Đâu không phải là một dịch vụ của hãng Google
+A	Gmail
+B	Google Maps
+C	AdWords
+D	Push
+Câu: 109	Tên niêm yết trên thị trường chứng khoán NASDAG của công ty Google
+A	GOOG
+B	GOGL
+C	GOGE
+D	GOLE
+Câu: 110	Chữ W thứ 2 trong WWW là viết tắt của từ nào trong tiếng Anh
+A	World
+B	Wide
+C	Web
+D	Wild
+Câu: 111	Internet chính thức xuất hiện ở Việt Nam vào năm bao nhiêu
+A	1995
+B	1997
+C	1999
+D	2000
+Câu: 112	Tiền thân của mạng Internet ngày nay
+A	ARPANET
+B	ULTANET
+C	WANNET
+D	WATNET
+Câu: 113	Số 10 hệ thập phân được biểu diễn trong hệ nhị phân như thế nào
+A	1010
+B	1100
+C	1001
+D	0110
+Câu: 114	Số 0011 trong hệ nhị phân biểu diễn số nào trong hệ thập phân
+A	2
+B	3
+C	4
+D	5
+Câu: 115	1 sào bắc bộ bằng
+A	100 m2
+B	1000 m2
+C	360 m2
+D	3600 m2
+Câu: 116	Một mẫu bằng bao nhiêu sào
+A	10
+B	36
+C	100
+D	360
+Câu: 117	Nhà khoa học Galileo Galilei là người nước nào
+A	Italia
+B	Pháp
+C	Tây Ban Nha 
+D	Bồ Đào Nha
+Câu: 118	Jun là đơn vị chỉ
+A	Năng lượng
+B	Công suất 
+C	Nhiệt độ
+D	Gia tốc
+Câu: 119	Đối với sự phát quang của vật, bước sóng của ánh sáng phát ra sẽ như thế nào so với ánh sáng chiếu tới
+A	lớn hơn
+B	nhỏ hơn 
+C	bằng
+D	không xác định
+Câu: 120	Theo thuyết tương đối hẹp của Einstein, vận tốc lớn nhất trong vũ trụ là vận tốc của
+A	Ánh sáng
+B	Âm thanh
+C	Hố đen vũ trụ
+D	Bụi vũ trụ
+Câu: 121	Đâu không phải thành phần của một nguyên tử
+A	Proton
+B	Electron
+C	Photon
+D	Notron
+Câu: 122	Hạt nào của nguyên tử không mang điên
+A	Proton
+B	Notron
+C	Electron
+D	Không hạt nào cả
+Câu: 123	Tính chất nào sau đây không phải của laser
+A	Tính định hướng cao
+B	Độ đơn sắc cao
+C	Công suất lớn
+D	Cường độ lớn 
+Câu: 124	Trong công thức lực đẩy Acsimet F=d.V, d là 
+A	Khối lượng riêng của vật
+B	Khối lượng riêng của chất lỏng(khí)
+C	Trọng lượng riêng của vật
+D	Trọng lượng riêng của chất lỏng(khí)
+Câu: 125	Marie Curie đã được nhận bao nhiêu giải Nobel
+A	1
+B	2
+C	3
+D	4
+Câu: 126	Đâu không phải là sáng tác của nhạc sĩ Hoàng Việt?
+A	Lá xanh
+B	Lá đỏ
+C	Nhạc rừng
+D	Tình ca (1957)
+Câu: 127	Bộ phim tình cảm lãng mạn Titanic tham gia dự giải Orcar năm nào?
+A	1995
+B	1997
+C	1999
+D	2001
+Câu: 128	Diễn viên võ thuật Thành Long là ngôi sao người nước nào?
+A	Trung Quốc đại lục
+B	Hồng Kông
+C	Đài Loan
+D	Mỹ
+Câu: 129	Bộ phim hoạt hình đầu tiên của điện ảnh Cách mạng Việt Nam?
+A	Chiếc vòng bạc
+B	Chú thỏ đi học
+C	Đáng đời thằng cáo
+D	Tấm cám
+Câu: 130	Bộ phim nào sau đây được sản xuất sau năm 1975?
+A	Chị Tư Hậu
+B	Nổi gió
+C	Em bé Hà Nội
+D	Ván bài lật ngửa
+Câu: 131	Alexandre de Rhodes đã tổng hợp, định chế chữ quốc ngữ qua cuốn tự điển nào?
+A	Việt - Bồ - La
+B	Việt - Pháp - La
+C	Việt - Ý - La
+D	Việt - Đức - La
+Câu: 132	Người nào sau đây không phải là thành viên của Tự Lực văn đoàn?
+A	Nhất Linh
+B	Thạch Lam
+C	Tú Mỡ
+D	Tú Xương
+Câu: 133	Ai là tác giả của bức tranh Thiếu nữ bên hoa huệ?
+A	Bùi Xuân Phái
+B	Tô Ngọc Vân
+C	Nguyễn Gia Trí
+D	Trần Văn Cẩn
+Câu: 134	Ai là tác giả của tác phẩm Tam Quốc Diễn Nghĩa ?
+A	La Quán Trung
+B	Thi Nại Am
+C	Ngô Thừa Ân
+D	Tào Tuyết Cần
+Câu: 135	Ngô Thừa Ân là tác giả của tác phẩm nào sau đây?
+A	Tây Du Kí
+B	Tam Quốc Diễn Nghĩa
+C	Hồng Lâu Mộng
+D	Thủy Hử
+Câu: 136	Từ "Thủy Hử" trong tác phẩm cùng tên có nghĩa là gì?
+A	Quán rượu
+B	Bến nước
+C	Quán nước
+D	Anh hùng ca
+Câu: 137	Truyện Tam Quốc diễn nghĩa lấy bối cảnh cuối triều đại nào của Trung Quốc?
+A	Hán
+B	Đường
+C	Tống
+D	Tần
+Câu: 138	Lãnh tụ của các thủ lĩnh Lương Sơn Bạc trong truyện Thủy Hử?
+A	Tống Giang
+B	Lỗ Trí Thâm
+C	Lâm Xung
+D	Võ Tòng
+Câu: 139	Đâu không phải là một sáng tác của Lỗ Tấn?
+A	Thuốc
+B	AQ chính truyện
+C	Nhật ký người điên
+D	Số phận con người
+Câu: 140	Hai tác phẩm hài kịch Lão hà tiện và Trưởng giả học làm sang là của tác giả nào?
+A	Victor Hugo
+B	Alexandre Dumas (cha)
+C	Môlie (Molière)
+D	Louis Aragon
+Câu: 141	Nói đến thủ đô âm nhạc của châu Âu là ta nói đến thành phố nào?
+A	Paris
+B	Viên
+C	Munich
+D	Roma
+Câu: 142	Tác phẩm nào sau đây là văn học Anh?
+A	Đồi gió hú
+B	Miếng da lừa
+C	Tiếng gọi nơi hoang dã
+D	Đông ki sốt
+Câu: 143	Nhà văn Mark Twain là người nước nào?
+A	Anh
+B	Mỹ
+C	Pháp
+D	Canada
+Câu: 144	Theo kinh thánh,chúa trời đã sáng tạo ra vũ trụ và muôn loài trong mấy ngày?
+A	5 ngày
+B	6 ngày
+C	10 ngày
+D	14 ngày
+Câu: 145	Đạo Hồi tôn thờ ai?
+A	Phật
+B	Thánh Allah
+C	Nhà tiên tri Muhammad
+D	Thiên thần Jibrael
+Câu: 146	Thánh địa Mecca, nơi hành hương của các tín đồ đạo Hồi nằm ở quốc gia nào?
+A	Palestin
+B	Các tiểu vương quốc Ả rập thống nhất
+C	Ả Rập Saudi
+D	Lebanon
+Câu: 147	Đạo Phật được bắt nguồn từ quốc gia nào?
+A	Ấn Độ
+B	Palestin
+C	Trung Quốc
+D	Thái Lan
+Câu: 148	Ai được coi là người sáng lập ra Phật giáo?
+A	Phật Thíchca Mâuni
+B	Phật Di Lặc
+C	Phật Ca Diếp
+D	Phật A di dà
+Câu: 149	Tiếng Phạn là ngôn ngữ cổ của quốc gia nào?
+A	Ấn Độ
+B	Trung Quốc
+C	Lào
+D	Campuchia
+Câu: 150	Phố cổ Hội An là một đô thị cổ nằm bên bờ sông nào?
+A	Thu Bồn
+B	Trà Khúc
+C	Sông Hàn
+D	Sông Nhật Lệ
+Câu: 151	Tỉnh lị (trung tâm hành chính) của tỉnh Ninh Thuận là ở đâu?
+A	TP Phan Rang Tháp Chàm
+B	TP Phan Thiết
+C	TP Hội An
+D	TP Nha Trang
+Câu: 152	Biển Hồ, hạt ngọc của Pleiku có tên gọi là gì?
+A	Hồ T'Nưng
+B	Hồ Ta Lư
+C	Hồ Sêrepok
+D	Hồ Tây Nguyên
+Câu: 153	Hiện nay, lực lượng nào đảm nhiệm chức năng quốc phòng ở khu vực Tây Nguyên?
+A	Quân khu 3
+B	Quân khu 4
+C	Quân khu 5
+D	Quân khu 6
+Câu: 154	Công trình thủy điện Yaly được xây dựng ở tỉnh nào?
+A	Gia Lai
+B	Cần Thơ
+C	Đồng Nai
+D	Đà Nẵng
+Câu: 155	Tỉnh lỵ của tỉnh Đăk Lăk là Tp nào?
+A	Buôn Mê Thuột
+B	Pleiku
+C	Đà Lạt
+D	Phan Thiết
+Câu: 156	Địa danh Hồ Than Thở thuộc tp nào?
+A	Đà Lạt
+B	Huế
+C	Pleiku
+D	Buôn Ma Thuột
+Câu: 157	Theo kết quả điều tra dân sô 2009, vùng nào có tốc độ tăng dân số cao nhất cả nước?
+A	Tây Nguyên
+B	Đồng bằng SCL
+C	Bắc Trung Bộ
+D	Đông Nam Bộ
+Câu: 158	Thành phố Sài Gòn được đổi tên thành Thành phố Hồ Chí Minh năm nào?
+A	1975
+B	1976
+C	1978
+D	1980
+Câu: 159	Trunng tâm hành chính của tỉnh Bình Dương là ?
+A	Thị xã Thủ Dầu Một
+B	Thị xã Thuận An
+C	Thị xã Dĩ An
+D	Thị xã Dầu Tiếng
+Câu: 160	Núi Bà Đen thuộc tỉnh nào ở Đông Nam Bộ?
+A	Đồng Nai
+B	Tây Ninh
+C	Bình Dương
+D	Bình Phước
+Câu: 161	Quốc lộ 1A xuất phát (km0)  từ tỉnh nào ở nước ta?
+A	Lạng Sơn
+B	Cao Bằng
+C	Lào Cai
+D	Quảng Ninh
+Câu: 162	Loài cây biểu tượng của tỉnh Bến Tre?
+A	Cây tre
+B	Cây dừa
+C	Cây lúa 
+D	Cây vải
+Câu: 163	Thị xã Cao Lãnh là thuộc tỉnh nào?
+A	Đồng Tháp
+B	An Giang
+C	Tiền Giang
+D	Bạc Liêu
+Câu: 164	Có bao nhiêu nước thuộc khu vực Đông Nam Á?
+A	9
+B	11
+C	13
+D	14
+Câu: 165	Hiệp hội các quốc gia Đông Nam Á ASEAN được thành lập năm nào?
+A	1967
+B	1965
+C	1969
+D	1970
+Câu: 166	Khu vực Mậu dịch Tự do ASEAN được viết tắt là ?
+A	AFTA
+B	NAFTA
+C	ATFA
+D	NATFA
+Câu: 167	Việt Nam tham gia ASEAN năm bao nhiêu?
+A	1993
+B	1995
+C	1997
+D	2000
+Câu: 168	Đỉnh núi Kinabalu, nóc nhà của Đông Nam Á nằm ở quốc gia nào?
+A	Malaysia
+B	Indonesia
+C	Singapore
+D	Brunei
+Câu: 169	Ngôi sao ca nhạc Ronan Keating từng là thành viên của ban nhạc nổi tiếng nào?
+A	Westlife
+B	Boyzone
+C	Backstreet Boys
+D	Micheal Learn to Rock
+Câu: 170	Johann Sebastian Bach là nhà soạn nhạc cổ điển người nước nào?
+A	Đức
+B	Pháp
+C	Anh
+D	Ý
+Câu: 171	Nhạc sĩ Chopin là người nước nào?
+A	Áo
+B	Ba Lan
+C	Thụy Sỹ
+D	Tây Ban Nha
+Câu: 172	Bài hát Như có Bác trong ngày vui đại thắng là của nhạc sĩ nào?
+A	Lưu Hữu Phước
+B	Phạm Tuyên
+C	Phan Huỳnh Điểu
+D	Hoàng Hiệp
+Câu: 173	Chủ tịch đầu tiên của Hội Nhạc sĩ Việt Nam?
+A	Nguyễn Xuân Khoát
+B	Văn Cao
+C	Trịnh Công Sơn
+D	Phạm Duy
+Câu: 174	Bản giao hưởng đầu tiên của Việt Nam có tên là gì?
+A	Quê hương
+B	Ngày hội
+C	Rhapsody Việt Nam
+D	Trăm sông đổ về biển Đông
+Câu: 175	Ai là vị vua cuối cùng của triều đại nhà Lý?
+A	Lý Chiêu Hoàng
+B	Lý Huệ Tông
+C	Lý Cao Tông
+D	Lý Thần Tông
+Câu: 176	Đền Đô (Đền Lý Bát Đế ) là ở tỉnh nào?
+A	Bắc Ninh
+B	Bắc Giang
+C	Bắc Kạn
+D	Hưng Yên
+Câu: 177	Vị vua nào sau đây không được thờ trong đền Lý Bát Đế ?
+A	Lý Thái Tổ
+B	Lý Thánh Tông
+C	Lý Chiêu Hoàng
+D	Lý Huệ Tông
+Câu: 178	Nữ hoàng duy nhất trong lịch sử Việt Nam sống trong triều đại nào?
+A	Lý
+B	Trần
+C	Nguyễn
+D	Hậu Lê
+Câu: 179	Chùa Diên Hựu còn là tên gọi khác của ngôi chùa nào ở Hà Nội?
+A	Chùa Một Cột
+B	Chùa Trần Quốc
+C	Chùa Quán Sứ
+D	Chùa Tứ Liên
+Câu: 180	Chùa Một Cột được xây vào triều đại nào?
+A	Trần
+B	Lý
+C	Tiền Lê
+D	Hậu Lê
+Câu: 181	Trận đánh có ý nghĩa quyết định của cuộc chiến tranh chống quân xâm lược Tống lần II diễn ra trên sông nào ?
+A	Bạch Đằng
+B	Như Nguyệt
+C	Sông Hồng
+D	Sông Đà
+Câu: 182	Vị vua đầu tiên của nhà Trần có tên là gì?
+A	Trần Cảnh
+B	Trần Thủ Độ
+C	Trần Thừa
+D	Trần Quốc Tuấn
+Câu: 183	Quốc gia nào sau đây chưa bao giờ nằm trong Đế chế Mông Cổ?
+A	Trung Quốc
+B	Triều Tiên
+C	Việt Nam
+D	Ba Tư
+Câu: 184	Trong chiến tranh xâm lược Đại Việt lần thứ ba của quân Nguyên, tướng Ô Mã Nhi đã bị bắt trong trận đánh trên sông nào?
+A	Bạch Đằng
+B	Như Nguyệt
+C	Sông Đuống
+D	Sông Nhị Hà (sông Hồng)
+Câu: 185	Vị tướng nào trong lịch sử là nhân vật chính của cuốn tiểu thuyết "Lá cờ thêu sáu chữ vàng"?
+A	Trần Quốc Tuấn
+B	Lê Phụ Trần
+C	Trần Quốc Toản
+D	Phạm Ngũ Lão
+Câu: 186	"Ta thà làm quỷ nước Nam, chứ không thèm làm vương đất Bắc." là câu nói nổi tiếng của vị tướng nào?
+A	Trần Bình Trọng
+B	Lê Phụ Trần
+C	Yết Kiêu
+D	Trần Khát Chân
+Câu: 187	Ai là tác giả bài Tụng giá hoàn kinh sư với câu mở đầu "Đoạt sáo Chương Dương độ - Cầm Hồ Hầm Tử quan "?
+A	Trần Khánh Dư
+B	Trần Khát Chân
+C	Trần Quang Khải
+D	Trần Nhân Tông
+Câu: 188	Nói đến Đức Thánh Trần là nói đến ai?
+A	Trần Quốc Tuấn
+B	Trần Nhân Tông
+C	Trần Thánh Tông
+D	Trần Thủ Độ
+Câu: 189	Vị vua nào đã thành lập Thiền phái Trúc Lâm Yên Tử ?
+A	Trần Nhân Tông
+B	Lê Thánh Tông
+C	Lý Thánh Tông
+D	Trần Thánh Tông
+Câu: 190	Bài thơ Bạch Đằng Giang Phú là của tác giả nào?
+A	Trương Hán Siêu
+B	Cao Bá Quát
+C	Mạc Đĩnh Chi
+D	Trần Nhân Tông
+Câu: 191	Vị quan văn nào đã được phong làm lưỡng quốc trạng nguyên?
+A	Trương Hán Siêu
+B	Mạc Đĩnh Chi
+C	Lương Thế Vinh
+D	Nguyễn Bỉnh Khiêm
+Câu: 192	Bộ luật đầu tiên ở nước ta ra đời vào triều đại nào?
+A	Lý
+B	Trần
+C	Tiền Lê
+D	Hậu Lê
+Câu: 193	Ai là vị vua đầu tiên của triều đại nhà Hồ trong lịch sử phong kiến Việt Nam?
+A	Hồ Nguyên Trừng
+B	Hồ Hán Thương
+C	Hồ Quý Ly
+D	Hồ Cẩm Đào
+Câu: 194	Tây Đô, kinh đô của nhà Hồ  nay thuộc tỉnh thành nào?
+A	Hà Nội
+B	Hải Dương
+C	Ninh Bình
+D	Thanh Hóa
+Câu: 195	Ai là người đầu tiên phát hành tiền giấy trong lịch sử Việt Nam?
+A	Hồ Quý Ly
+B	Trần Thái Tông
+C	Vua Nguyễn Ánh
+D	Vua Nguyễn Huệ
+Câu: 196	Cuộc khởi nghĩa Lam Sơn là cuộc khởi nghĩa chống lại quân xâm lược nào?
+A	Minh
+B	Thanh
+C	Tống
+D	Nguyên
+Câu: 197	Chiến thắng của cuộc khởi nghĩa Lam Sơn dẫn đến việc thành lập triều đại nào trong lịch sử nước ta?
+A	Hậu Lê
+B	Tiền Lê
+C	Mạc
+D	Hồ
+Câu: 198	Tướng nào sau đây không có trong đội quân của cuộc khởi nghĩa Lam Sơn chống quân Minh?
+A	Lê Lợi
+B	Lê Phụ Trần
+C	Trần Nguyên Hãn
+D	Nguyễn Trãi
+Câu: 199	Địa danh Lam Sơn của cuộc khởi nghĩa Lam Sơn nay thuộc tỉnh nào?
+A	Thanh Hóa
+B	Nghệ An
+C	Hà Tĩnh
+D	Ninh Bình
+Câu: 200	Tác phẩm nào được coi là Bản tuyên ngôn độc lập thứ hai của nước Việt Nam?
+A	Bình Ngô Đại Cáo
+B	Nam Quốc Sơn Hà
+C	Tuyên ngôn độc lập HCM
+D	Đại Việt sử ký toàn thư
+Câu: 201	Tác phẩm Bình Ngô đại cáo được viết sau thắng lợi của cuộc khởi nghĩa nào sau đây?
+A	Chống quân Minh xâm lược
+B	Chống quân Thanh xâm lược
+C	Chống quân Tống xâm lược
+D	Chống quân Hán xâm lược
+Câu: 202	Tướng quân nào đã liều mình cứu chúa Lê Lợi, ghi danh sử sách?
+A	Lê Lai
+B	Lê Trực
+C	Lê Sát
+D	Trần Nguyên Hãn
+Câu: 203	Tập thơ Ức Trai thi tập là của tác giả nào sau đây?
+A	Nguyễn Bỉnh Khiêm
+B	Nguyễn Trãi
+C	Nguyễn Du
+D	Nguyễn Khuyến
+Câu: 204	Tập thơ Quốc âm thi tập của Nguyễn Trãi được viết bằng chữ nào?
+A	Chữ Hán
+B	Chữ Nôm
+C	Chữ Quốc ngữ
+D	Chữ Champa
+Câu: 205	Vụ án Lệ Chi Viên tai tiếng trong lịch sử còn được gọi là vụ án gì?
+A	Vụ án vườn vải
+B	Vụ án vườn cam
+C	Vụ án vườn nho
+D	Vụ án vườn dâu
+Câu: 206	Việc lập bia Tiến sĩ tại Văn Miếu Quốc Tử Giám được khởi xướng vào triều đại nào?
+A	Hậu Lê
+B	Nguyễn
+C	Tây Sơn
+D	Mạc
+Câu: 207	Vị học giả nào sau đây không phục vụ dưới triều vua Lê Thánh Tông?
+A	Lương Thế Vinh
+B	Ngô Sĩ Liên
+C	Nguyễn Trãi
+D	Phan Phu Tiên
+Câu: 208	Hồng Đức là niên hiệu của vị vua nào trong lịch sử Việt Nam?
+A	Lê Thái Tông
+B	Trần Nhân Tông
+C	Lý Thánh Tông
+D	Lê Thánh Tông
+Câu: 209	Vị vua nào sau đây đã lập ra hội Tao Đàn - tập hợp các vì tinh tú trong bầu trời thơ ca Đại Việt?
+A	Lê Thánh Tông
+B	Hồ Quý Ly
+C	Quang Trung
+D	Trần Nhân Tông
+Câu: 210	Bộ quốc triều hình luật thời Lê Sơ còn được gọi là bộ luật gì?
+A	Hồng Đức
+B	Hình Thư
+C	Quốc Luật
+D	Hình Văn
+Câu: 211	Vua Tương Dực của nhà Lê Sơ còn được gọi là vua gì?
+A	Vua lợn
+B	Vua dê
+C	Vua gà
+D	Vua quạ
+Câu: 212	Sự nắm quyền của họ Trịnh bị lật đổ bởi lực lượng nào?
+A	Chúa Nguyễn
+B	Quân Thanh
+C	Nhà Lê
+D	Quân Tây Sơn
+Câu: 213	Kinh đô nhà Nguyễn đặt tại đâu?
+A	Phú Xuân
+B	Thăng Long
+C	Gia Định
+D	Quy Nhơn
+Câu: 214	Vua nào nhà Nguyễn lên nắm quyền tiếp sau vua Gia Long?
+A	Minh Mạng
+B	Thiệu Trị
+C	Tự Đức
+D	Hàm Nghi
+Câu: 215	Phong trào Cần Vương được vị vua nhà Nguyễn nào phát động?
+A	Hàm Nghi
+B	Thành Thái
+C	Hiệp Hòa
+D	Đồng Khánh
+Câu: 216	Người nào sau đây còn được gọi là Hùm thiêng Yên Thế?
+A	Hoàng Hoa Thám
+B	Phan Đình Phùng
+C	Phan Bội Châu
+D	Tống Duy Tân
+Câu: 217	Phong trào Đông Du đầu thế kỷ 20 được thành lập với mục đích kêu gọi thanh niên Việt Nam sang du học ở đất nước nào?
+A	Nhật Bản
+B	Trung Quốc
+C	Pháp
+D	Mỹ
+Câu: 218	Phong trào chống sưu thuế 1908 của Phan Chu Trinh được diễn ra tại đâu?
+A	Nam Kỳ
+B	Trung Kỳ
+C	Bắc Kỳ
+D	Toàn bộ đất nước
+Câu: 219	Phong trào Đông Kinh Nghĩa Thục với mục đích khai dân trí cho dân được thành lập ở đâu?
+A	Hà Nội
+B	Huế
+C	Sài Gòn
+D	Nghệ An
+Câu: 220	Bộ phim Hoa Ban Đỏ của đạo diễn Bạch Diệp lấy bối cảnh trận chiến nào của quân đội Nhân dân Việt Nam?
+A	Điện Biên Phủ
+B	Điện Biên Phủ trên không
+C	Khe Sanh
+D	Chiến dịch Biên giới 1950
+Câu: 221	Địa danh nào sau đây không phải là một cứ điểm của pháo đài Điện Biên Phủ 1954?
+A	Him Lam
+B	Bản Kéo
+C	Mường Thanh
+D	Khe Sanh
+Câu: 222	Hiệp định về vấn đề khôi phục hòa bình trên bán đảo Đông Dương sau thời gian Pháp chiếm đóng được ký kết tại thành phố nào?
+A	Geneve
+B	Paris
+C	London
+D	California
+Câu: 223	Trong danh sách sau, đâu là một ngôn ngữ lập trình?
+A	P
+B	Q
+C	C
+D	D
+Câu: 224	Công ty Microsoft là của công ty nào?
+A	Mỹ
+B	Anh
+C	Đức
+D	Nhật
+Câu: 225	Chủ tịch của công ty Microsoft?
+A	Steve Jobs
+B	Bill Gates
+C	Paul Allen
+D	Tim Cook
+Câu: 226	Máy tính để bàn còn được gọi là gì?
+A	Desktop
+B	Laptop
+C	Comtop
+D	Chairtop
+Câu: 227	đơn vị hecta tương ứng với?
+A	1 hectomet vuông
+B	1 kilomet vuông
+C	1 decamet vuông
+D	1 mét vuông
+Câu: 228	Đơn vị nào sau đây không phải là đơn vị chỉ diện tích?
+A	Hecta
+B	Foot
+C	Mẫu
+D	Sào
+Câu: 229	Bao nhiêu thước thì được 1 sào Bắc Bộ?
+A	36
+B	10
+C	15
+D	360
+Câu: 230	Nhà khoa học Newton người nước nào?
+A	Anh
+B	Pháp
+C	Nga 
+D	Đức
+Câu: 231	Ai là người phát hiện ra định luật vạn vật hấp dẫn?
+A	Newton
+B	Einstein
+C	Gallilee
+D	Một người khác
+Câu: 232	Đơn vị nào sau đây để chỉ năng lượng?
+A	Watt
+B	kWatt giờ
+C	m/s
+D	Watt/s
+Câu: 233	"Hãy cho tôi một điểm tựa, và tôi sẽ nhấc bổng cả Trái đất." Câu nói này là của nhà khoa học nào?
+A	Archimedes
+B	Aristoteles
+C	Newton
+D	Einstein
+Câu: 234	Vi vua đầu tiên của  nhà Lê Sơ ?
+A	Lê Lợi
+B	Lê Hoàn
+C	Lê Thánh Tông
+D	Lê Chiêu Thống
+Câu: 235	Ai là người lãnh đạo cuộc khởi nghĩa Lam Sơn ?
+A	Lê Thánh Tông
+B	Lê Lợi
+C	Lê Hoàn
+D	Hồ Quý Ly
+Câu: 236	Việt Nam tiếp giáp với vịnh nào sau đây?
+A	Vịnh Thái Lan
+B	Vịnh Péc xích
+C	Vịnh Hà Lan
+D	Vịnh Phần Lan
+Câu: 237	Việt Nam là một quốc gia?
+A	Nhiệt đới
+B	Ôn đới
+C	Hàn đới
+D	Không ở khu vực khí hậu nào cả
+Câu: 238	Nhà máy thủy điện nào sau đây  nằm ở phía bắc?
+A	NMTĐ Thác Bà
+B	NMTĐ Trị An
+C	NMTĐ Thác Mơ
+D	NMTĐ Đa  Nhim
+Câu: 239	Thành phố nào còn được gọi là Thành phố Hoa Phượng Đỏ?
+A	Hà Nội
+B	Hạ Long
+C	Hải Phòng
+D	Huế
+Câu: 240	Người H'Mông ở Việt Nam tập trung chủ yếu ở vùng nào ?
+A	Bắc Bộ
+B	Nam Bộ
+C	Bắc Trung Bộ
+D	Tây Nguyên
+Câu: 241	Ranh giới cực bắc nước ta thuộc tỉnh nào?
+A	Lạng Sơn
+B	Cao Bằng
+C	Bắc Cạn
+D	Hà Giang
+Câu: 242	Sông Lam vào nước ta ở tỉnh nào?
+A	Nghệ An
+B	Thanh Hóa
+C	Quảng Bình
+D	Quảng Trị
+Câu: 243	Tỉnh Hà Tĩnh không giáp với tỉnh nào sau đây?
+A	tỉnh Nghệ An
+B	tỉnh Quảng Bình
+C	Lào
+D	tỉnh Thanh Hóa
+Câu: 244	Cầu Hàm Rồng thuộc tỉnh nào?
+A	Thanh Hóa
+B	Huế
+C	Đà Nẵng
+D	Quảng Nam
+Câu: 245	Thủ đô của nước Thái Lan là thành phố nào?
+A	Băng Cốc
+B	Jakarta
+C	Bắc Kinh
+D	Kuala Lămpua
+Câu: 246	Nước nào có thủ đô là Bắc Kinh?
+A	Trung Quốc (Đại lục)
+B	Việt Nam
+C	Hàn Quốc
+D	Nhật Bản
+Câu: 247	Thủ đô của CHDCND Triều Tiên?
+A	Seul
+B	Bình Nhưỡng
+C	Tokyo
+D	Bắc Kinh
+Câu: 248	Nước nào có dân số đông nhất thế giới (Tính đến năm 2011)?
+A	Trung Quốc
+B	Ấn Độ
+C	Indonesia
+D	Hoa Kỳ
+Câu: 249	Tính đến năm 2011, Ấn Độ là quốc gia có số dân cao thứ mấy trên thế giới?
+A	Thứ nhất
+B	Thứ 2
+C	Thứ 3
+D	Thứ 4
+Câu: 250	Chùa Cầu ở Hội An còn có tên gọi khác là gì?
+A	Chùa Trung Quốc
+B	Chùa Hàn Quốc
+C	Chùa Triều Tiên
+D	Chùa Nhật Bản
+Câu: 251	Ai là tác giả của bộ tranh Phố cổ Hà Nội ?
+A	Tô Ngọc Vân
+B	Bùi Xuân Phái
+C	Diệp Minh Châu
+D	Nguyễn Đình Phúc
+Câu: 252	Lễ khao lề thế lính để tri ân những người lính đi bảo vệ Hoàng Sa  được tổ chức hàng năm ở đâu?
+A	Huyện đảo Lý Sơn
+B	Bán đảo Sơn Trà
+C	Phố cổ Hội An
+D	VinPearl land
+Câu: 253	Địa danh Buôn Đôn là thuộc tỉnh nào?
+A	Đắk Lắk
+B	Lâm Đồng
+C	Tây Ninh
+D	Đà Nẵng
+Câu: 254	Loại đất nào là đặc trưng cho vùng Tây Nguyên?
+A	Đất feralit
+B	Đất phèn
+C	Đất đỏ bazan
+D	Đất phù sa
+Câu: 255	Tỉnh ven biển cực nam của tổ quốc là tỉnh nào?
+A	Tỉnh Cà Mau
+B	Tỉnh Kiên Giang
+C	Tỉnh Sóc Trăng
+D	Tỉnh Bạc Liêu
+Câu: 256	Quê hương " Năm tấn "  ở đâu?
+A	Thái Bình
+B	Hưng Yên
+C	Trà Vinh
+D	An Giang
+Câu: 257	Nước nào sau đây không phải là một trong những thành viên thành lập ra ASEAN?
+A	Indonesia
+B	Malaysia
+C	Singapore
+D	Brunei
+Câu: 258	Khối ASEAN cộng ba gồm Nhật Bản, Hàn Quốc và quốc gia nào?
+A	Hoa Kỳ
+B	Trung Quốc
+C	Đài Loan
+D	CHDCND Triều Tiên
+Câu: 259	Khu di tích Angkor thuộc quốc gia nào? 
+A	Campuchia
+B	Lào
+C	Myanmar
+D	Thái Lan
+Câu: 260	Quốc gia có số dân đông nhất Đông Nam Á?
+A	Malaysia
+B	Indonesia
+C	Việt Nam
+D	Thái Lan
+Câu: 261	Ngôi chùa nào được nhắc đến trong câu thơ " Đồng Đăng có phố Kì Lừa, có nàng Tô Thị, có chùa…"
+A	Tân Thanh
+B	Lạng Sơn
+C	Một Cột
+D	Bà Đanh
+Câu: 262	"Rủ nhau chơi khắp Long Thành, … … … phố rành rành chẳng sai" ?
+A	Ba mươi sáu
+B	Ba mươi mốt
+C	Ba mươi ba
+D	Hai mươi sáu
+Câu: 263	Địa danh nào sau đây không thuộc Hà Nội?
+A	Hồ Gươm
+B	Chùa Một Cột
+C	Văn Miếu Quốc Tử Giám
+D	Trường Quốc Học
+Câu: 264	Đường vĩ tuyến dài nhất là?
+A	Xích đạo
+B	Vòng cực
+C	Chí tuyến Bắc
+D	Chí tuyến Nam
+Câu: 265	Bài hát My heart will go on là bài hát trong bộ phim nào?
+A	Titanic
+B	Trân Châu Cảng
+C	Bố già
+D	Võ sĩ giác đấu
+Câu: 266	Nhạc sĩ thiên tài Mozart sinh tại nơi nào?
+A	Áo
+B	Thụy Sỹ
+C	Pháp 
+D	Đức
+Câu: 267	Bản Sonata Ánh Trăng được viết bởi nhạc sĩ nào?
+A	Mozart
+B	Beethoven
+C	Chopin
+D	Bach
+Câu: 268	Liên hoan phim Cannes được tổ chức tại nước nào?
+A	Pháp
+B	Tây Ban Nha
+C	Ý
+D	Đức
+Câu: 269	Giải thưởng của liên hoan phim Cannes là gì?
+A	Cành cọ vàng
+B	Gấu vàng
+C	Quả cầu vàng
+D	Cúp vàng
+Câu: 270	Bộ phim Cuốn theo chiều gió (1939) là thuộc thể loại nào?
+A	Chính kịch- lãng mạn
+B	Hành động
+C	Khoa học - viễn tưởng
+D	Hài kịch
+Câu: 271	Giải thưởng của Liên hoan phim Việt Nam là gì?
+A	Cành cọ vàng
+B	Bông sen vàng
+C	Cánh diều vàng
+D	Ngựa vàng
+Câu: 272	Có bao nhiêu vị anh hùng Lương Sơn Bạc trong tác phẩm Thủy Hử?
+A	100
+B	98
+C	108
+D	1008
+Câu: 273	Tác phẩm Những người khốn khổ của đại văn hào Victor Hugo là thuộc thể loại nào?
+A	Thơ
+B	Truyện ngắn
+C	Bút kí
+D	Tiểu thuyết
+Câu: 274	Thể thơ Haicư  (Haiku) là loại thơ độc đáo của đất nước nào?
+A	Nhật Bản 
+B	Hàn Quốc
+C	Trung Quốc
+D	Việt Nam
+Câu: 275	Hai sử thi Ramayana và Mahabharata là của đất nước nào?
+A	Ấn Độ
+B	Trung Quốc
+C	Việt Nam
+D	Nhật Bản
+Câu: 276	Khái niệm " Thập tự chinh" là của tôn giáo nào?
+A	Thiên chúa giáo
+B	Hồi giáo
+C	Phật giáo
+D	Ấn Độ giáo
+Câu: 277	Môn võ Karate-Do là môn võ truyền thống của nước nào?
+A	Nhật Bản
+B	Ấn Độ
+C	Việt Nam
+D	Hàn Quốc
+Câu: 278	Trong môn cờ tướng, quân nào khi sang sông sẽ có thêm một cách đi nữa?
+A	Tướng
+B	Tượng
+C	Xe
+D	Tốt
+Câu: 279	Futsal là một loại hình trong nhà của môn thể thao nào?
+A	Bóng đá
+B	Bóng chày
+C	Tennis
+D	Bơi
+Câu: 280	Môn thể thao cầu mây có nguồn gốc xuất xứ từ khu vực nào ở châu Á?
+A	Đông Nam Á
+B	Đông Á
+C	Tây Nam Á
+D	Trung Á
+Câu: 281	Đại hội thể thao Olympic hiện đại đầu tiên được tổ chức tại quốc gia nào?
+A	Hy Lạp
+B	Pháp
+C	Mỹ
+D	Trung Quốc
+Câu: 282	Trên lá cờ của Olympic có mấy vòng tròn?
+A	5
+B	4
+C	3
+D	2
+Câu: 283	Nước nào ở châu Phi lần đầu tiên đăng cai giải vô địch bóng đá thế giới?
+A	Nam Phi
+B	Ai Cập
+C	Libi
+D	Nigeria
+Câu: 284	FIFA là tên viết tắt của liên đoàn bóng đá nào sau đây?
+A	LĐBĐ Thế giới
+B	LĐBĐ Việt Nam
+C	LĐBĐ Châu Âu
+D	LĐBĐ Đông Nam Á
+Câu: 285	Có bao nhiêu đội bóng tham dự một kỳ World cup ( tính đến ngày nay )?
+A	16
+B	32
+C	64
+D	48
+Câu: 286	Biểu tượng của giải bóng đá ngoại hạng Anh Premier League là con vật nào?
+A	Mèo
+B	Sư tử
+C	Gà
+D	Trâu
+Câu: 287	Quốc hiệu Việt Nam về đời Hồng Bàng là?
+A	Văn Lang
+B	Âu Lạc
+C	Đại Việt
+D	An Nam
+Câu: 288	Quốc hiệu Việt Nam dưới thời Thục An Dương Vương là gì?
+A	An Nam
+B	Đại Việt
+C	Âu Lạc
+D	Văn Lang
+Câu: 289	Tại sao ta lại dùng tên nước là Việt Nam chứ không phải là An Nam như ngày xưa?
+A	Vì Việt Nam dài hơn
+B	Vì để có dấu ấn khác ngày xưa
+C	Vì An Nam đọc không hay
+D	Vì An Nam có ngụ ý thần phục nước Tàu
+Câu: 290	Vị anh hùng nào được nhân dân suy tôn là Bố Cái Đại Vương?
+A	Phùng Hưng
+B	Ngô Quyền
+C	Mai Hắc Đế
+D	Đinh Bộ Lĩnh
+Câu: 291	Quê hương của Phùng Hưng nay thuộc làng nào thuộc Hà Tây (cũ)?
+A	Đường Lâm
+B	Cổ Đông
+C	Kim Sơn
+D	Thanh Mỹ
+Câu: 292	Đường Lâm là đất hai vua, đó là Phùng Hưng và vua nào?
+A	Ngô Quyền
+B	Đinh Bộ Lĩnh
+C	Lê Hoàn
+D	Lê Lợi
+Câu: 293	Bí quyết thắng trận trong chiến thắng Bạch Đằng đánh đuổi quân Nam Hán là nhờ đâu?
+A	Thủy triều và bãi cọc
+B	Thuyền lớn
+C	Pháo binh
+D	Đông quân
+Câu: 294	Triều đại nào chấm dứt chế độ đô hộ phương bắc, mở đầu cho thời kỳ độc lập tự chủ của nước ta?
+A	Ngô
+B	Đinh
+C	Lý 
+D	Trần
+Câu: 295	Đinh Bộ Lĩnh lên ngôi hoàng đế đã đóng đô ở đâu?
+A	Thăng Long
+B	Hoa Lư
+C	Huế
+D	Nam Định
+Câu: 296	Triều đại nào sau đây là triều đại kế sau nhà Đinh?
+A	Tiền Lê
+B	Hậu Lê
+C	Lý
+D	Trần
+Câu: 297	Sự kiện dời đô từ Hoa Lư ra thành Đại La diễn ra vào thời nào?
+A	Tiền Lê
+B	Lý 
+C	Trần
+D	Hồ
+Câu: 298	Văn Miếu ở Thăng Long được lập ra với mục đích để thờ ai?
+A	Lý Thái Tổ
+B	Khổng Tử
+C	Mạnh Tử
+D	Tôn Tử
+Câu: 299	Điền từ còn thiếu vào câu thơ đầu tiên của bài Nam quốc sơn hà "Nam quốc sơn hà nam ... cư"?
+A	Vương
+B	Đế
+C	Vua
+D	Dân
+Câu: 300	Nguyên tố hóa học nào có kí hiệu là Fe
+A	Sắt
+B	Đồng
+C	Nhôm
+D	Chì
+Câu: 301	Kí hiệu hóa học của nguyên tố Chì
+A	Fe
+B	Cu
+C	Pb
+D	Al
+Câu: 302	Nguyên tố hóa học có nguyên tử khối nhỏ nhất
+A	Hidro
+B	Heli
+C	Liti
+D	Natri
+Câu: 303	Chất nào sau đây không phải là kim loại
+A	Natri
+B	Sắt
+C	Đồng
+D	Phôtpho
+Câu: 304	Chất nào sau đây không tồn tại
+A	O2
+B	O3
+C	O4
+D	H2O2
+Câu: 305	Kim loại nào dưới đây ở thể lỏng
+A	Hg
+B	Al
+C	Fe
+D	Mg
+Câu: 306	Trọng lực trên trái đất gấp khoảng mấy lần trọng lực trên mặt trăng
+A	4
+B	5
+C	6
+D	bằng nhau
+Câu: 307	Chất nào sau đây không phải là chất vô cơ
+A	Sắt
+B	Đồng
+C	Nhôm
+D	Rượu Etylic
+Câu: 308	Ai là ông chủ của hãng Microsoft
+A	Bill Gates
+B	Steve Jobs
+C	Elton John
+D	Đáp án khác
+Câu: 309	Từ nào sau đây không dùng để chỉ một tôn giáo thờ chúa Giesu?
+A	Cơ Đốc giáo
+B	Kito giáo
+C	Đạo tin lành
+D	Ấn Độ giáo
+Câu: 310	Theo kinh thánh, đấng sáng tạo ra vũ trụ là ai?
+A	Thiên Chúa
+B	Chúa Giesu
+C	Đức mẹ Maria
+D	Ngọc hoàng
+Câu: 311	Đạo Islam là tên gọi khác của đạo nào?
+A	Đạo Hồi
+B	Đạo Phật
+C	Đạo Tin Lành
+D	Ấn Độ giáo
+Câu: 312	Quốc giáo của Thái Lan là tôn giáo nào?
+A	Phật giáo
+B	Kito giáo
+C	Đạo Tin Lành
+D	Hồi giáo
+Câu: 313	Nước nào sau đây không thuộc nhóm các quốc gia công nghiệp hàng đầu thế giới G8?
+A	Anh
+B	Ý
+C	Canada
+D	Brazil
+Câu: 314	Origami là nghệ thuật gấp giấy của nước nào?
+A	Nhật Bản
+B	Hàn Quốc
+C	Trung Quốc
+D	Ấn Độ
+Câu: 315	Theo thần thoại Hy Lạp, Heracles là con riêng của vị thần nào?
+A	Zeus
+B	Apollo
+C	Poseidon
+D	Hades
+Câu: 316	Bức tranh Nàng Mona Lisa là của họa sĩ nào?
+A	Leonardo da Vinci
+B	Michelangelo
+C	van Gogh
+D	Levitan
+Câu: 317	Hàng nào sau đây không có trong bài tổ tôm?
+A	Vạn
+B	Văn
+C	Sách
+D	Nhất
+Câu: 318	Triều đại phong kiến cuối cùng của Trung Quốc?
+A	Thanh
+B	Minh
+C	Nguyên
+D	Tống
+Câu: 319	Chủ nghĩa tam dân của Tôn Trung Sơn không có điều nào sau đây?
+A	Dân tộc độc lập
+B	Dân chủ tự do
+C	Dân sinh hạnh phúc
+D	Dân sinh hòa bình
+Câu: 320	Cây đàn Ghita ngày nay có xuất xứ từ nước nào?
+A	Tây Ban Nha
+B	Anh
+C	Pháp
+D	Nga
+Câu: 321	Đội tuyển bóng đá nào sau đây không phải của Tây Ban Nha?
+A	Real Madrid
+B	Barcelona
+C	Valencia
+D	Chelsea
+Câu: 322	Quốc gia nào có tên nghĩa là vùng đất trũng ?
+A	Hà Lan ( Nederlanden )
+B	Ba Lan ( Poland )
+C	Ý ( Italia )
+D	Pháp ( France )
+Câu: 323	Đất nước nào được mệnh danh là xứ sở bò tót ?
+A	Anh
+B	Tây Ban Nha
+C	Mỹ
+D	Philipine
+Câu: 324	Đất nước nào được mệnh danh là sứ xở hoa Tulip ?
+A	Hà Lan
+B	Phần Lan
+C	Thái Lan
+D	Ba Lan
+Câu: 325	Nước Việt Nam thuộc vào múi giờ nào so với giờ GMT?
+A	+7
+B	+8
+C	+9
+D	+10
+Câu: 326	Tháo Eiffel được coi là biểu tượng của nước nào?
+A	Pháp
+B	Ấn Độ
+C	Nga
+D	Trung Quốc
+Câu: 327	Vùng nào sau đây không thuộc Vương quốc Liên hiệp Anh và Bắc Ireland (UK) ?
+A	Anh ( England )
+B	Wales
+C	Scotland
+D	Guam
+Câu: 328	Tên viết tắt của đồng bảng Anh ?
+A	GBP
+B	USD
+C	VND
+D	EUR
+Câu: 329	Môn võ Aikido là môn võ thuật hiện đại của quốc gia nào?
+A	Nhật Bản
+B	Hàn Quốc
+C	Trung Quốc
+D	Thái Lan
+Câu: 330	Triều đại phong kiến nào tiếp nối triều đại nhà Lý?
+A	Đinh
+B	Trần
+C	Hồ
+D	Nguyễn
+Câu: 331	Cuộc chiến tranh chống quân xâm lược Nguyên Mông ở nước ta diễn ra vào triều đại nào?
+A	Lý
+B	Trần 
+C	Hồ
+D	Tây Sơn
+Câu: 332	Triều đại phong kiến nào đã đổi tên nước ta thành Đại Ngu?
+A	Nhà Trần
+B	Nhà Hồ
+C	Nhà Lý
+D	Nhà Hậu Lê
+Câu: 333	Triều đại nối tiếp triều đại nhà Trần trong lịch sử phong kiến Việt Nam?
+A	Nguyễn
+B	Tây Sơn
+C	Hậu Lê
+D	Hồ
+Câu: 334	Ai là minh chủ của cuộc khởi nghĩa Lam Sơn chống quân Minh?
+A	Lê Lợi
+B	Nguyễn Huệ
+C	Đinh Bộ Lĩnh
+D	Nguyễn Ánh
+Câu: 335	Cuốn sách Dư Địa Chí của Nguyễn Trãi là cuốn sách nói về lĩnh vực nào?
+A	Lịch sử
+B	Địa lý
+C	Văn học
+D	Khoa học kỹ thuật
+Câu: 336	Lê Quý Đôn sau khi đỗ trạng nguyên còn được gọi là trạng gì?
+A	Trạng Trình
+B	Trạng Lường
+C	Trạng Lợn
+D	Trạng Học
+Câu: 337	Vua nào áo vải - Đánh bại quân Thanh - Lên ngôi Hoàng Đế?
+A	Quang Trung
+B	Tự Đức
+C	Đinh Bộ Lĩnh
+D	Lê Lợi
+Câu: 338	Mặt trận Việt Nam độc lập đồng minh (Việt Minh) được thành lập năm nào?
+A	1940
+B	1941
+C	1945
+D	1946
+Câu: 339	Chiến dịch nào sau đây là chiến dịch lớn nhất trong cuộc kháng chiến chống Pháp?
+A	Điện Biên Phủ
+B	Hòa Bình
+C	Biên giới Thu Đông
+D	Việt Bắc 1947
+Câu: 340	Bác Hồ rời Việt Nam ra đi tìm đường cứu nước tại nơi nào?
+A	Hà Nội
+B	Sài Gòn
+C	Hải Phòng
+D	Đà Nẵng
+Câu: 341	Ngày thành lập Đảng Cộng Sản Việt Nam là vào năm nào?
+A	1924
+B	1925
+C	1930
+D	1932
+Câu: 342	Đảng Cộng Sản Việt Nam ra đời tại đâu?
+A	Hương Cảng
+B	Quảng Đông
+C	Quảng Tây
+D	Sài Gòn
+Câu: 343	Đảng Cộng Sản Việt Nam ra đời trên cơ sở hợp nhất bao nhiêu tổ chức chính trị?
+A	2
+B	3
+C	4
+D	5
+Câu: 344	Chiến thắng mùa xuân ngày 30 - 4 thống nhất Việt Nam diễn ra vào năm nào?
+A	1968
+B	1970
+C	1975
+D	1976
+Câu: 345	Ai là tổng bí thư đầu tiên của Đảng Cộng Sản Việt Nam?
+A	Trần Phú
+B	Lê Hồng Phong
+C	Hà Huy Tập
+D	Trường Chinh
+Câu: 346	Trong hành trình đi tìm đường cứu nước của mình chủ tịch Hồ CHí Minh đã sang nước nào đầu tiên?
+A	Thái Lan
+B	Nga
+C	Pháp
+D	Anh
+Câu: 347	Bác Hồ đã làm gì để kiếm sống khi ở trên chuyến tàu đầu tiên ra nước ngoài của mình?
+A	Phụ bếp
+B	Lái tàu
+C	Soát vé
+D	Bếp trưởng
+Câu: 348	Vi vua đầu tiên của  nhà Lê Sơ ?
+A	Lê Lợi
+B	Lê Hoàn
+C	Lê Thánh Tông
+D	Lê Chiêu Thống
+Câu: 349	Ai là người lãnh đạo cuộc khởi nghĩa Lam Sơn ?
+A	Lê Thánh Tông
+B	Lê Lợi
+C	Lê Hoàn
+D	Hồ Quý Ly
+Câu: 350	Lễ khao lề thế lính để tri ân những người lính đi bảo vệ Hoàng Sa  được tổ chức hàng năm ở đâu?
+A	Huyện đảo Lý Sơn
+B	Bán đảo Sơn Trà
+C	Phố cổ Hội An
+D	VinPearl land
+Câu: 351	Theo hiệp định Geneve, Việt Nam bị chia cắt theo vĩ tuyến nào?
+A	19
+B	17
+C	20
+D	16
+Câu: 352	Quốc hiệu Việt Nam về đời Hồng Bàng là?
+A	Văn Lang
+B	Âu Lạc
+C	Đại Việt
+D	An Nam
+Câu: 353	Quốc hiệu Việt Nam dưới thời Thục An Dương Vương là gì?
+A	An Nam
+B	Đại Việt
+C	Âu Lạc
+D	Văn Lang
+Câu: 354	Theo truyền thuyết, An Dương Vương đã được thần Kim Quy cứu như thế nào?
+A	Bay lên trời
+B	Xuống biển
+C	Đi xuống đất
+D	Hóa thành đá
+Câu: 355	Tại sao ta lại dùng tên nước là Việt Nam chứ không phải là An Nam như ngày xưa?
+A	Vì Việt Nam dài hơn
+B	Vì để có dấu ấn khác ngày xưa
+C	Vì An Nam đọc không hay
+D	Vì An Nam có ngụ ý thần phục nước Tàu
+Câu: 356	Giặc nào ở bên Trung Quốc đã đánh bại An Dương Vương, mở đầu cho 1000 năm bắc thuộc ở nước ta?
+A	Triệu Đà
+B	Tần Thủy Hoàng
+C	Lưu Bang
+D	Giặc Ân
+Câu: 357	Trương truyền, Hai bà Trưng khi đi đánh giặc cưỡi con vật gì?
+A	Voi
+B	Hổ
+C	Ngựa
+D	Báo
+Câu: 358	Lý Bí là tên thường gọi của vị Hoàng đế nào?
+A	Lý Thái Tổ
+B	Lý Thánh Tông
+C	Lý Nam Đế
+D	Lý Huệ Tông
+Câu: 359	Vị anh hùng nào được nhân dân suy tôn là Bố Cái Đại Vương?
+A	Phùng Hưng
+B	Ngô Quyền
+C	Mai Hắc Đế
+D	Đinh Bộ Lĩnh
+Câu: 360	Quê hương của Phùng Hưng nay thuộc làng nào thuộc Hà Tây (cũ)?
+A	Đường Lâm
+B	Cổ Đông
+C	Kim Sơn
+D	Thanh Mỹ
+Câu: 361	Đường Lâm là đất hai vua, đó là Phùng Hưng và vua nào?
+A	Ngô Quyền
+B	Đinh Bộ Lĩnh
+C	Lê Hoàn
+D	Lê Lợi
+Câu: 362	Bí quyết thắng trận trong chiến thắng Bạch Đằng đánh đuổi quân Nam Hán là nhờ đâu?
+A	Thủy triều và bãi cọc
+B	Thuyền lớn
+C	Pháo binh
+D	Đông quân
+Câu: 363	Triều đại nào chấm dứt chế độ đô hộ phương bắc, mở đầu cho thời kỳ độc lập tự chủ của nước ta?
+A	Ngô
+B	Đinh
+C	Lý 
+D	Trần
+Câu: 364	Đinh Bộ Lĩnh lên ngôi hoàng đế đã đóng đô ở đâu?
+A	Thăng Long
+B	Hoa Lư
+C	Huế
+D	Nam Định
+Câu: 365	Triều đại nào sau đây là triều đại kế sau nhà Đinh?
+A	Tiền Lê
+B	Hậu Lê
+C	Lý
+D	Trần
+Câu: 366	Sự kiện dời đô từ Hoa Lư ra thành Đại La diễn ra vào thời nào?
+A	Tiền Lê
+B	Lý 
+C	Trần
+D	Hồ
+Câu: 367	Văn Miếu ở Thăng Long được lập ra với mục đích để thờ ai?
+A	Lý Thái Tổ
+B	Khổng Tử
+C	Mạnh Tử
+D	Tôn Tử
+Câu: 368	Điền từ còn thiếu vào câu thơ đầu tiên của bài Nam quốc sơn hà "Nam quốc sơn hà nam ... cư"?
+A	Vương
+B	Đế
+C	Vua
+D	Dân
+Câu: 369	Chùa Một Cột ở Hà Nội được xây dựng mô phỏng theo loài hoa nào?
+A	Hoa hồng
+B	Hoa sen
+C	Hoa súng
+D	Hoa đồng tiền
+Câu: 370	Triều đại phong kiến nào tiếp nối triều đại nhà Lý?
+A	Đinh
+B	Trần
+C	Hồ
+D	Nguyễn
+Câu: 371	Cuộc chiến tranh chống quân xâm lược Nguyên Mông ở nước ta diễn ra vào triều đại nào?
+A	Lý
+B	Trần 
+C	Hồ
+D	Tây Sơn
+Câu: 372	Triều đại phong kiến nào đã đổi tên nước ta thành Đại Ngu?
+A	Nhà Trần
+B	Nhà Hồ
+C	Nhà Lý
+D	Nhà Hậu Lê
+Câu: 373	Triều đại nối tiếp triều đại nhà Trần trong lịch sử phong kiến Việt Nam?
+A	Nguyễn
+B	Tây Sơn
+C	Hậu Lê
+D	Hồ
+Câu: 374	Ai là minh chủ của cuộc khởi nghĩa Lam Sơn chống quân Minh?
+A	Lê Lợi
+B	Nguyễn Huệ
+C	Đinh Bộ Lĩnh
+D	Nguyễn Ánh
+Câu: 375	Cuốn sách Dư Địa Chí của Nguyễn Trãi là cuốn sách nói về lĩnh vực nào?
+A	Lịch sử
+B	Địa lý
+C	Văn học
+D	Khoa học kỹ thuật
+Câu: 376	Lê Quý Đôn sau khi đỗ trạng nguyên còn được gọi là trạng gì?
+A	Trạng Trình
+B	Trạng Lường
+C	Trạng Lợn
+D	Trạng Học
+Câu: 377	Vua nào áo vải - Đánh bại quân Thanh - Lên ngôi Hoàng Đế?
+A	Quang Trung
+B	Tự Đức
+C	Đinh Bộ Lĩnh
+D	Lê Lợi
+Câu: 378	Sau khi nghe tin quân Thanh đã sang chiếm đóng Thăng Long, Bắc Bình Vương Nguyễn Huệ đã làm gì?
+A	Lên ngôi Hoàng Đế, bắc tiến
+B	Chạy vào nam
+C	Đầu hàng quân Thanh
+D	Gọi Nguyễn Nhạc đánh cùng
+Câu: 379	Quá trình xâm lược Việt Nam của Pháp đã được sự ủng hộ của các giáo dân thuộc tôn giáo nào?
+A	Ấn giáo
+B	Phật giáo
+C	Công giáo (Thiên chúa)
+D	Cao Đài giáo
+Câu: 380	Thực dân Pháp đã chủ động đánh chiếm vùng  nào trước tiên trong chiến tranh xâm lược Việt Nam?
+A	Đà Nẵng
+B	Gia Định
+C	Hà Nội
+D	Lạng Sơn
+Câu: 381	Tướng quân Trương Định, thời chống Pháp, còn được nhân dân suy tôn là gì?
+A	Bình Tây Đại Nguyên Soái
+B	Bình Đông Đại Nguyên Soái
+C	Bình Bắc Đại Nguyên Soái
+D	Bình Nam Đại Nguyên Soái
+Câu: 382	Cuộc tổng khởi nghĩa tháng Tám của Hà Nội diễn ra vào ngày nào ? 
+A	19 tháng 8
+B	15 tháng 8
+C	16 tháng 8
+D	17 tháng 8
+Câu: 383	Mặt trận Việt Nam độc lập đồng minh (Việt Minh) được thành lập năm nào?
+A	1940
+B	1941
+C	1945
+D	1946
+Câu: 384	Chiến dịch nào sau đây là chiến dịch lớn nhất trong cuộc kháng chiến chống Pháp?
+A	Điện Biên Phủ
+B	Hòa Bình
+C	Biên giới Thu Đông
+D	Việt Bắc 1947
+Câu: 385	Sau những yêu cầu đàm phán về cuộc bầu cử thống nhất đất nước bị chính quyền Diệm từ chối, Chính phủ VNDCCH đã làm gì?
+A	Giữ nguyên hiện trạng chia cắt
+B	Yêu cầu quốc tế can thiệp quân sự
+C	Nhường cả miền Bắc cho Diệm
+D	Thành lập mặt trận giải phóng
+Câu: 386	Diện tích vùng biển Việt Nam gấp bao nhiêu lần diện tích đất liền Việt Nam?
+A	Khoảng 2 lần
+B	Khoảng 3 lần 
+C	Khoảng 4 lần
+D	Khoảng 5 lần
+Câu: 387	Sông Hồng đoạn qua Phú Thọ được gọi là sông gì?
+A	Sông Cái
+B	Sông Nhị Hà
+C	Sông Nhĩ Hà
+D	Sông Thao
+Câu: 388	Dân tộc nào có dân số đông thứ hai ở Việt Nam (sau người Kinh )?
+A	Tày
+B	Mường
+C	Mông 
+D	Thái
+Câu: 389	Tỉnh Lạng Sơn của Việt Nam giáp với tỉnh nào của Trung Quốc?
+A	Vân Nam
+B	Quảng Đông
+C	Quảng Tây
+D	Hồng Kông
+Câu: 390	Tỉnh Quảng Ninh có bao nhiêu thành phố trực thuộc tỉnh?
+A	1 TP
+B	2 TP
+C	3 TP
+D	4 TP
+Câu: 391	Cửa biển Nam Triệu nơi mà con sông Bạch Đằng đổ ra biển Đông nằm ở tỉnh, thành nào?
+A	Hải Phòng
+B	Quảng Ninh
+C	Nam Định
+D	Thái Bình
+Câu: 392	Hướng chính của sông Lam là hướng như thế nào?
+A	Tây Bắc -Đông Nam
+B	Đông Bắc - Tây Nam
+C	Tây Nam - Đông Bắc
+D	Đông Nam - Tây Bắc
+Câu: 393	Vườn quốc gia Phong Nha Kẻ Bàng được UNESCO công nhận là di sản thiên nhiên thế giới năm nào?
+A	2001
+B	2002
+C	1999
+D	2003
+Câu: 394	Vườn Quốc Gia Cát Tiên thuộc vùng nào của nước ta?
+A	Tây Nam Bộ
+B	Đông Nam Bộ
+C	Tây Nguyên
+D	Nam Trung Bộ
+Câu: 395	Thủ đô của nước Phần Lan?
+A	Hensiki
+B	Copenhagen
+C	Ốtawa
+D	Stochom
+Câu: 396	Hãy cho biết thủ đô của Austraylia?
+A	Menbơn
+B	Canbơra
+C	Sydney
+D	Một thành phố khác
+Câu: 397	Đèo Hải Vân là địa danh thuộc tỉnh thành nào ?
+A	Đà Nẵng
+B	Khánh Hòa 
+C	Quảng Nam
+D	Bình Thuận
+Câu: 398	Hầm đường bộ dài nhất Đông Nam Á nằm ở nước nào?
+A	Thái Lan
+B	Indonesia
+C	Lào
+D	Việt Nam
+Câu: 399	Địa danh Múi Né thuộc tỉnh nào?
+A	Bình Thuận
+B	Ninh Thuận
+C	Phú Yên
+D	Khánh Hòa
+Câu: 400	Địa danh nào sau đây không thuộc tỉnh Khánh Hòa?
+A	Vịnh Nha Trang
+B	Tháp Bà
+C	Hòn Tre- Vilpearl Land
+D	Mũi Điện
+Câu: 401	Tỉnh nào ở Tây Nguyên không có đường biên giới quốc tế?
+A	Lâm Đồng
+B	Đắk Lắk
+C	Kon Tum
+D	Gia Lai
+Câu: 402	Cồng Chiêng Tây Nguyên được UNESCO công nhận là Kiệt tác truyền khẩu và phi vật thể của nhân loại năm bao nhiêu?
+A	2003
+B	2004
+C	2005
+D	2006
+Câu: 403	Theo tiếng M'Nông, tên tỉnh Đăk Lắk có nghĩa là gì?
+A	Hồ nước
+B	Biển hồ
+C	Thung lũng
+D	Cao nguyên
+Câu: 404	Tỉnh nào dưới đây có 3 thị xã?
+A	Bình Dương
+B	Bình Thuận
+C	Gia Lai
+D	Tây Ninh
+Câu: 405	Tỉnh nào sau đây được tách ra từ tỉnh Sông Bé năm 1997?
+A	Bình Dương và Bình Phước
+B	Tiền Giang và Hậu Giang
+C	An Giang và Kiên GIang
+D	Cần Thơ và Vĩnh Long
+Câu: 406	Cây cầu dây văng có nhịp chính dài nhất Đông Nam Á là cầu nào , tính đến năm 2010?
+A	Cầu Bãi Cháy 
+B	Cầu Cần Thơ
+C	Cầu Mỹ Thuận
+D	Cầu Bính
+Câu: 407	Đường chí tuyến là vĩ tuyến nào?
+A	23 độ 26 phút
+B	26 độ 23 phút
+C	22 độ 63 phút
+D	63 độ 22 phút
+Câu: 408	Huyền thoại ca nhạc Elvis Presley được mệnh danh là ông vua của thể loại nhạc nào?
+A	Pop
+B	Rock
+C	Dance
+D	Rock and Roll
+Câu: 409	Ban nhạc The Beatles ra đời vào năm nào?
+A	1950
+B	1960
+C	1970
+D	1980
+Câu: 410	Ban nhạc The Beatles của nước Anh được thành lập tại thành phố nào?
+A	Manchester
+B	London
+C	Liverpool
+D	Leeds
+Câu: 411	Giải thưởng âm nhạc Grammy thường diễn ra vào tháng mấy trong năm?
+A	Tháng 12
+B	Tháng 9
+C	Tháng 2
+D	Tháng 3
+Câu: 412	Bài hát Chiến đấu vì độc lập tự do với câu mở đầu là Tiếng súng đã vang trên bầu trời biên giới là của nhạc sĩ nào?
+A	Phạm Tuyên
+B	Lưu Hữu Phước
+C	Huy Du
+D	Hoàng Vân
+Câu: 413	Nhạc sĩ Việt Nam viết opera với vở Cô Sao?
+A	Đỗ Nhuận
+B	Hoàng Việt 
+C	Hoàng Hiệp
+D	Văn Cao
+Câu: 414	Đâu không phải là một sáng tác của nhạc sĩ Đỗ Nhuận?
+A	Việt Nam quê hương tôi
+B	Du kích sông Thao
+C	Nguyễn Trãi - Phi Khanh
+D	Mùa lúa chín
+Câu: 415	Giải thưởng Sư tử vàng là của liên hoan phim nào trao tặng?
+A	LHP Cannes
+B	LHP Berlin
+C	LHP Venezia
+D	LHP Pusan
+Câu: 416	Bộ phim Dòng máu anh hùng - The Rebel  (2007) do hãng Cinema Pictures hợp tác với hãng phim nào sản xuất?  
+A	Chánh Phương
+B	Á Châu
+C	HK Phim
+D	Việt Phim
+Câu: 417	Bộ phim nào là bộ phim truyện đầu tiên của điện ảnh Cách mạng Việt Nam?
+A	Chung một dòng sông
+B	Chị Tư Hậu
+C	Chim vành khuyên
+D	Vợ chồng A Phủ
+Câu: 418	Tác phẩm Nhà thờ Đức bà Paris là của nhà văn nào?
+A	Victor Hugo
+B	Alexandre Dumas(cha)
+C	Alexandre Dumas (con)
+D	Balzac
+Câu: 419	Tác phẩm nào sau đây không do Alexandre Dumas (cha) sáng tác?
+A	Ba chàng lính ngự lâm
+B	Hoa Tulip đen
+C	Bá tước Monte Cristo
+D	Trà hoa nữ
+Câu: 420	Tác phẩm Hồng Lâu Mộng lấy bối cảnh triều đại phong kiến nào của Trung Quốc?
+A	Hán 
+B	Tần 
+C	Minh 
+D	Thanh
+Câu: 421	Sunni và Shiite là hai dòng phái khác nhau của tôn giáo nào?
+A	Hồi giáo
+B	Thiên chúa giáo
+C	Do Thái giáo
+D	Ấn Độ giáo
+Câu: 422	Vị Phật được tôn thờ nhiều nhất trong Phật giáo Đại thừa?
+A	Phật Thicshca Mâuni
+B	Phật Adiđà
+C	Phật Di Lặc
+D	Phật Ca Diếp
+Câu: 423	Theo đạo Phật, Bồ Tát nào lắng nghe được mọi tiếng trên thế gian?
+A	Quan Thế Âm 
+B	Địa Tạng
+C	Đại Thế Chí
+D	Hư Không Tạng
+Câu: 424	Làng tranh dân gian Đông Hồ có con sông nào chảy qua?
+A	Sông Luộc
+B	Sông Đuống
+C	Sông Cầu
+D	Sông Lục Nam
+Câu: 425	Thành phố nào sau đây không thuộc Canada?
+A	Toronto
+B	Vancouver
+C	Ottawa
+D	Venice
+Câu: 426	Việt Nam là thành viên chính thức thứ bao nhiêu của tổ chức thương mại thế giới WTO?
+A	130
+B	120
+C	140
+D	150
+Câu: 427	Việt Nam chính thức trở thành thành viên của WTO năm nào?
+A	2005
+B	2001
+C	2007
+D	2006
+Câu: 428	Bột ngọt (mì chính) là phát minh của nước nào ?
+A	Trung Quốc
+B	Hàn Quốc
+C	Nhật Bản
+D	Việt Nam
+Câu: 429	Việt Nam lần đầu tiên đăng cai diễn đàn hợp tác kinh thế Thái Bình Dương năm nào?
+A	2001
+B	2000
+C	2007
+D	2006
+Câu: 430	Tính đến hết năm 2011, quốc gia nào là thành viên mới nhất của Liên Hợp Quốc?
+A	Nam Sudan
+B	Đông Timo
+C	Serbia
+D	Palestine
+Câu: 431	Liên Hợp Quốc được thành lập năm nào?
+A	1941
+B	1945
+C	1946
+D	1948
+Câu: 432	Tổ chức Liên Hợp Quốc được thành lập tại bang nào của Hoa Kỳ?
+A	New York
+B	Washington DC
+C	California
+D	Massachusett
+Câu: 433	Chữ cái E trong tên gọi của UNICEF - Quỹ nhi đồng Liên Hợp Quốc có nghĩa là gì?
+A	Emergency
+B	Earn
+C	Ease
+D	Endangered
+Câu: 434	Tia nào có bước sóng ngắn nhất trong các tia dưới đây
+A	Tia X
+B	Tia tử ngoại
+C	Tia hồng ngoại
+D	Tia sáng màu đỏ
+Câu: 435	Tia Rontgen còn được gọi là
+A	Tia X
+B	Tia hồng ngoại
+C	Tia tử ngoại
+D	Tia sáng mặt trời
+Câu: 436	Nguyên tử khối của nguyên tố Chì ( Pb)
+A	107
+B	109
+C	207
+D	209
+Câu: 437	Đồng thau là hợp kim của hai kim loại nào
+A	Đồng và Sắt
+B	Đồng và Kẽm
+C	Đồng và Nhôm
+D	Đồng và Chì
+Câu: 438	Kim loại nào cứng nhất
+A	Vàng
+B	Bạc
+C	Crom
+D	Kim cương
+Câu: 439	Kim loại nào nhẹ nhất
+A	Đồng
+B	Nhôm
+C	Liti
+D	Natri
+Câu: 440	Nước cường toan bao gồm tỉ lệ HCl : HNO3 là bao nhiêu
+A	3:1
+B	3:2
+C	2:1
+D	2:3
+Câu: 441	Nguyên tố chiếm tỉ lệ nhiều nhất trong vỏ trái đất
+A	Heli
+B	Hidro
+C	Oxi
+D	Cácbon
+Câu: 442	Hệ điều hành UNIX được viết trên ngôn ngữ lập trình nào
+A	C
+B	Pascal
+C	Basic
+D	Một ngôn ngữ khác
+Câu: 443	Hệ điều hành Microsoft Windows 7 được phát hành vào năm nào
+A	2007
+B	2008
+C	2009
+D	2010
+Câu: 444	Hệ điều hành nào được Microsoft ra mắt năm 2007
+A	Windows XP
+B	Windows Vista
+C	Windows 7
+D	Windows 8
+Câu: 445	Hãng Google của Hoa Kỳ được thành lập vào năm bao nhiêu
+A	1994
+B	1996
+C	1998
+D	2000
+Câu: 446	Chữ A trong hệ hexa (hệ 16 ) biểu diễn số nào trong hệ thập phân
+A	10
+B	11
+C	12
+D	09
+Câu: 447	Hình thức hiện đại đầu tiên của thuyết nhật tâm do ai nêu ra
+A	Nicolaus Copernicus
+B	Galileo Galilei
+C	Einstein
+D	Newton
+Câu: 448	Anbert Einstein được giải Nobel vật lý nhờ công trình nghiên cứu ở lĩnh vực nào
+A	Quang điện
+B	Thuyết tương đối
+C	Hạt nhân
+D	Sóng ánh sáng
+Câu: 449	0 độ C sẽ đổi được thành 
+A	12 độ F
+B	22 độ F
+C	32 độ F
+D	42 độ F
+Câu: 450	Động cơ nhiệt hoạt động theo chu trình Carnot phải trải qua mấy bước
+A	1
+B	2
+C	3
+D	4
+Câu: 451	Tỉnh thành nào ở nước ta có nhiều di sản được UNESCO công nhận nhất?
+A	Quảng Nam
+B	Huế
+C	Quảng Ninh
+D	Hà Nội
+Câu: 452	Viện bảo tàng Louvre là một trong những viện bảo tàng thu hút nhất trên thế giới. Viện bảo tàng này nằm ở đâu?
+A	Anh
+B	Pháp
+C	Mỹ
+D	Hà Lan
+Câu: 453	Dhaka là thủ đô của quốc gia Nam Á nào?
+A	Pakistan
+B	Ấn Độ
+C	Butan
+D	Nêpan
+Câu: 454	Giải thưởng nhại theo giải Nobel được trao hàng năm cho các công trình đáng chế nhạo gọi là gì?
+A	Ig Nobel
+B	Hg Nobel
+C	Cg Nobel
+D	Kg Nobel
+Câu: 455	Trong các vị thần của Thần thoại La Mã, đâu là Thần mặt trăng?
+A	Jupiter
+B	Aurora
+C	Caelus
+D	Luna
+Câu: 456	Tượng thần Vệ Nữ là một bức tượng Hy lạp cổ đại được phát hiện trên đảo nào?
+A	Milos
+B	Enbơ
+C	Manta
+D	Venus
+Câu: 457	Thời  Xuân Thu của Trung Quốc xảy ra cuối triều đại nào?
+A	Hạ
+B	Thương
+C	Chu
+D	Tần
+Câu: 458	Thủ đô của nhà Tần đặt tại Hàm Dương thuộc tỉnh nào của Trung Quốc hiện nay?
+A	Thiểm Tây
+B	Quảng Đông
+C	Bắc Kinh
+D	Sơn Đông
+Câu: 459	Lý Uyên là tên của vị vua đầu tiên của triều đại nào ở Trung Quốc?
+A	Hán 
+B	Đường
+C	Tống
+D	Minh
+Câu: 460	Chu Nguyên Chương là vị vua của triều đại nào ở Trung Quốc?
+A	Minh
+B	Thanh
+C	Đường
+D	Tống
+Câu: 461	Tử Cấm Thành của Trung Quốc được xây dựng dưới triều đại nào?
+A	Thanh
+B	Đường
+C	Nguyên
+D	Minh
+Câu: 462	Vị vua cuối cùng của triều đại phong kiến Trung Quốc?
+A	Quang Tự
+B	Đạo Quang
+C	Đồng Trị
+D	Phổ Nghi
+Câu: 463	Tổng thống lâm thời đầu tiên của Trung Hoa dân quốc?
+A	Tưởng Giới Thạch
+B	Tôn Trung Sơn
+C	Viên Thế Khải
+D	Chu Ân Lai
+Câu: 464	Chiến tranh thế giới thứ nhất được mở đầu vào năm nào?
+A	1914
+B	1915
+C	1916
+D	1917
+Câu: 465	Cách mạng Pháp 1789 đã lật đổ vua nào ?
+A	Louis XVIII
+B	Louis  XVII
+C	Louis XVI
+D	Charles X
+Câu: 466	Màu nào sau đây không có trong quốc kỳ của Cộng Hòa Pháp?
+A	Đỏ
+B	Trắng
+C	Xanh lam
+D	Xanh lục
+Câu: 467	Bức tường Berlin tại Đức bị phá bỏ vào năm nào?
+A	1988
+B	1989
+C	1990
+D	1991
+Câu: 468	Chiến dịch bão táp sa mạc là chiến dịch do Mỹ phát động để chiến tranh với nước nào ở vùng Trung Đông?
+A	Iraq
+B	Afganishtan
+C	Sirya
+D	Lebanon
+Câu: 469	Tổng thống nào của Mỹ đã bị buộc phải từ chức khi dính vào vụ Watergate ?
+A	Nixon
+B	Johnson
+C	Gerald Ford
+D	Truman
+Câu: 470	Trước khi làm tổng thống Mý, ông Barack Obama đã làm thượng nghĩ sĩ của bang nào?
+A	Illinois
+B	New Jersey
+C	New York
+D	Texas
+Câu: 471	Tổng thống Hoa Kỳ nào sau đây không thuộc Đảng Dân Chủ? 
+A	Barack Obama
+B	Bill Clinton
+C	John Kennedy
+D	George W. Bush( con)
+Câu: 472	Môn võ Vovinam từ xưa đến nay nổi tiếng với 3 đòn đánh. Đòn nào dưới đây không thuộc 3 đòn đánh đó?
+A	Chỏ
+B	Chém quét
+C	Đòn chân kẹp cổ
+D	Khóa
+Câu: 473	Kì thủ nào của người trẻ nhất đạt danh hiệu đại kiện tướng quốc tế?
+A	Nguyễn Ngọc Trường Sơn
+B	Lê Quang Liêm
+C	Đào Thiên Hải
+D	Phạm Minh Hoàng
+Câu: 474	Ai là tác giả của bài hát " Hà Nội ngày trở về" ?
+A	NS Trần Tiến
+B	NS Phú Quang
+C	NS Hồng Đăng
+D	NS Trọng Đài
+Câu: 475	Tên của môn thể thao "Marathon" là tên của ?
+A	Một binh sĩ
+B	Một vị tướng
+C	Một cánh đồng
+D	Một thành phố
+Câu: 476	Đại hội thể thao Olympic hiện đại đầu tiên được tổ chức vào năm nào?
+A	1890
+B	1910
+C	1896
+D	1996
+Câu: 477	Thế vân hội 1996 được tổ chức tại thành phố nào của nước Mỹ?
+A	Atlanta
+B	New York
+C	Chicago
+D	Los Angeles
+Câu: 478	Ủy ban Olympic quốc tế được viết tắt như thế nào?
+A	OIC
+B	ICO
+C	CIO
+D	IOC
+Câu: 479	Thế vận hội mùa đông 2010 được tổ chức tại thành phố Vancouver thuộc quốc gia nào?
+A	Canada
+B	Ý
+C	Mỹ
+D	Úc
+Câu: 480	Môn thể thao nào sau đây không có trong danh sách các môn thể thao tại Thế vận hội Bắc Kinh 2008?
+A	Bóng chày
+B	Khúc gôn cầu trên cỏ
+C	Thuyền buồm
+D	Wushu
+Câu: 481	SEA Games 25 được tổ chức tại quốc gia nào?
+A	Lào
+B	Campuchia
+C	Myanmar
+D	Việt Nam
+Câu: 482	Cầu thủ nào là người duy nhất giành được 3 World Cup dưới cương vị một cầu thủ?
+A	Pelé
+B	Maradona
+C	Romario
+D	Franz Beckenbauer
+Câu: 483	Bài hát "Mùa hè Italia" là bài hát chính thức của kỳ World Cup nào?
+A	1986
+B	1990
+C	1998
+D	1982
+Câu: 484	Cầu thủ nào sau đây là người ghi nhiều bàn thắng nhất các kỳ World cup ?
+A	Ronaldo (Brasil)
+B	Gerd Müller (Đức)
+C	Miroslav Klose (Đức)
+D	Just Fontaine (Pháp)
+Câu: 485	Quốc gia nào sau đây chưa từng đăng cai một kỳ World cup nào?
+A	Thụy Điển
+B	Thụy Sĩ
+C	Argentina
+D	Bồ Đào Nha
+Câu: 486	Quốc gia nào đã đăng cai World Cup 1994?
+A	Mỹ
+B	Argentina
+C	Mexico
+D	Tây Ban Nha
+Câu: 487	Mexico đã hai lần đăng cai giải vô địch bóng đá thế giới. Đó là năm 1970 và năm nào?
+A	1982
+B	1986
+C	1990
+D	1994
+Câu: 488	Đội tuyển quốc gia Uruguay đã mấy lần vô địch giải vô địch bóng đá thế giới World cup?
+A	Chưa lần nào
+B	Một lần
+C	Hai lần
+D	Ba lần
+Câu: 489	Cầu thủ nào đã ghi bàn thắng quyết định trong trận chung kết World cup 2010 giữa Tây Ban Nha và Hà Lan?
+A	Xavi
+B	Alonso
+C	Iniesta
+D	Cesc Fàbregas
+Câu: 490	Trận chung kết World cup 2006 tại Đức gồm có ĐT Ý và ĐT nào?
+A	Anh
+B	Argentina
+C	Đức
+D	Pháp
+Câu: 491	Cầu thủ nào là cầu thủ xuất sắc nhất World cup 2010 tại Nam Phi?
+A	Robben - Hà Lan
+B	Iniesta - Tây Ban Nha
+C	Iker Casillas - Tây Ban Nha
+D	Diego Forlán - Uruguay
+Câu: 492	Linh vật chính thức của World cup 2010 tại Nam Phi là con vật gì?
+A	Chuột
+B	Mèo
+C	Báo hoa
+D	Lợn
+Câu: 493	Đội tuyển nào đã vô địch giải vô địch bóng đá châu Âu được tổ chức lần đầu tiên?
+A	Liên Xô
+B	Nam Tư
+C	Tây Ban Nha
+D	Đức
+Câu: 494	Đội tuyển nào có số lần vô địch UEFA Champions Leauge nhiều nhất ( tính đến năm 2012)?
+A	Real Madrid
+B	Barcelona
+C	Manchester United
+D	AC Milan
+Câu: 495	Đội bóng nước Anh Manchester United đã giành được bao nhiêu chức vô địch cúp C1 Châu Âu?
+A	1
+B	2
+C	3
+D	4
+Câu: 496	Đội bóng nào là đội bóng Anh đầu tiên vô địch cúp C1 Châu Âu?
+A	Manchester United
+B	Liverpool
+C	Chelsea
+D	Aston Villa
+Câu: 497	Chiếc cúp nào sau đây không có trong cú ăn ba lịch sử của CLB Manchester United 1998-1999?
+A	Cúp C1
+B	Cúp FA
+C	Cúp Ngoại hạng Anh
+D	Cúp vô địch thế giới các CLB
+Câu: 498	Câu lạc bộ nào được LĐBĐ Thế giới FIFA bình chọn là CLB xuất sắc nhất thế giới thế kỷ 20?
+A	Real Madrid
+B	Barcelona
+C	Liverpool
+D	Manchester United
+Câu: 499	Vua nào của nhà Nguyễn đã đặt quốc hiệu nước ta là Việt Nam?
+A	Gia Long
+B	Minh Mạng
+C	Thiệu Trị
+D	Tự Đức
+Câu: 500	Vị vua nào sau đây đã đổi quốc hiệu nước ta thành Đại Nam?
+A	Minh Mạng
+B	Gia Long
+C	Đồng Khánh
+D	Thiệu Trị
+Câu: 501	Cuộc khởi nghĩa của Mai Thúc Loan là để chống lại sự đô hộ của triều đại nào?
+A	Hán 
+B	Đường
+C	Lương
+D	Tùy
+Câu: 502	Khổng Tử sinh ra tại nước nào thuộc nhà Chu?
+A	Lỗ
+B	Triệu
+C	Ngụy
+D	Tần
+Câu: 503	Ngô Quyền khi xưng vương đóng đô ở đâu?
+A	Cổ Loa
+B	Đại La
+C	Hoa Lư
+D	Phong Châu
+Câu: 504	Sau khi dẹp loạn 12 sứ quân, Đinh Bộ Lĩnh đã lên ngôi năm nào?
+A	968
+B	978
+C	988
+D	998
+Câu: 505	Câu thơ sau đây đã nhắc đến vị vua nào " Bé thì chăn nghé chăn trâu - Trận bày đã lấy bông lau lầm cờ"?
+A	Đinh Bộ Lĩnh
+B	Quang Trung
+C	Ngô Quyền
+D	Mai Hắc Đế
+Câu: 506	Triều Tiền Lê có tất cả bao nhiêu đời vua?
+A	1
+B	2
+C	3
+D	4
+Câu: 507	Vua Lê Đại Hành đã nói thác với sứ thần Trung Quốc rằng bị ngã ngựa đau chân để tránh phải làm gì?
+A	Sang sứ nước Tống
+B	Ra đón sứ Tống
+C	Quỳ để nhận phong chức
+D	Tiễn sứ Tống về nước
+Câu: 508	Cuộc chiến tranh chống quân Tống xâm lược của vua Lê Hoàn diễn ra vào năm nào?
+A	881
+B	981
+C	1081
+D	1181
+Câu: 509	Chữ "Cồ" trong quốc hiệu "Đại Cồ Việt" có nghĩa là gì?
+A	Lớn
+B	Thái bình
+C	Phía nam
+D	Độc lập
+Câu: 510	Vị vua nào đã cho xây dựng Văn Miếu?
+A	Lý Thánh Tông
+B	Lý Thái Tổ
+C	Trần Thái Tông
+D	Lê Thánh Tông
+Câu: 511	Khuê Văn Các tại Quốc Tử Giám được xây dựng vào thời nào?
+A	Hậu Lê
+B	Lý 
+C	Trần
+D	Nguyễn
+Câu: 512	Trước ý đồ xâm lược rõ ràng của nhầ Tống, quan quân nhà Lý dưới sự chỉ đạo của Lý Thường Kiệt đã làm gì trước tiên?
+A	Tường cao hào sâu cố thủ
+B	Sang hòa hoãn với địch
+C	Sang đất Tống đánh đòn phủ đầu
+D	Đầu hàng vô điều kiện
+Câu: 513	Tướng nào là chỉ huy của quân Tống xâm lăng Đại Việt lần II của nhà Tống?
+A	Quách Quỳ
+B	Ô Mã Nhi
+C	Tô Giám
+D	Liễu Thăng
+Câu: 514	Linh Từ Quốc Mẫu Trần Thị Dung trước khi làm vợ của Trần Thủ Độ đã làm chức gì ở đời vua Lý Huệ Tông?
+A	Hoàng hậu
+B	Công chúa
+C	Thái Hoàng Hậu
+D	Thái tử phi (vợ thái tử)
+Câu: 515	Tướng chỉ huy quân Mông Cổ đánh chiếm nước ta lần thứ nhất là tướng nào?
+A	Ngột Lương Hợp Thai (Uriyangqatai)
+B	Toa Đô (Sogetu)
+C	Ô Mã Nhi(Omar)
+D	Thoát Hoan
+Câu: 516	Tác phẩm Hịch tướng sĩ được sáng tác trước cuộc chiến tranh chống quân Mông - Nguyên xâm lược lần thứ mấy?  
+A	Lần 1 
+B	Lần 2
+C	Lần 3
+D	Lần 4
+Câu: 517	Quân đội Mông - Nguyên tiến quân vào xâm lược nước ta lần thứ hai vào năm nào?
+A	1275
+B	1285
+C	1258
+D	1288
+Câu: 518	Trong cuộc chiến chống Nguyên Mông lần 2, đạo quân do Toa Đô chỉ huy tiến vào Đại Việt theo đường nào?
+A	Ải Chi Lăng
+B	Biển Đông
+C	Sông Bạch Đằng
+D	Từ Chiêm Thành
+Câu: 519	Vua nào đã lãnh đạo nhân dân Đại Việt chống lại quân xâm lược Nguyên Mông lần thứ ba?
+A	Trần Thái Tông
+B	Trần Nhân Tông
+C	Trần Thánh Tông
+D	Trần Anh Tông
+Câu: 520	Hoài Văn Hầu Trần Quốc Toản đã bóp nát quả cam vì không được tham dự hội nghị quân sự nào?
+A	Bình Than
+B	Bạch Đằng
+C	Diên Hồng
+D	Vạn Kiếp
+Câu: 521	Trận Hàm Tử Quan trong cuộc kháng chiến chống quân Nguyên do tướng nhà Trần nào chỉ huy?
+A	Trần Khánh Dư
+B	Trần Nhật Duật
+C	Trần Quốc Tuấn
+D	Trần Bình Trọng
+Câu: 522	Câu nói"Thần không ngại đánh, chỉ sợ lòng dân có theo hay không theo mà thôi." được nói trước cuộc chiến tranh nào?
+A	Chống quân Nguyên - Mông
+B	Chống quân Tống
+C	Chống quân Minh
+D	Chống quân Thanh
+Câu: 523	Trận đánh Tốt Động - Chúc Động là trận đánh trong cuộc khởi nghĩa nào?
+A	Chống quân Thanh
+B	Chống quân Minh
+C	Chống quân Tống
+D	Chống quân Đường
+Câu: 524	Khi quân Minh chiếm đóng nước ta, chúng đã đổi tên Thăng Long thành gì?
+A	Đông Đô
+B	Đông Quan
+C	Đông Kinh
+D	Kẻ Chợ
+Câu: 525	Trước khi lên làm vua, Lê Lợi đã tự xưng là gì?
+A	Bình Định Vương
+B	Thái Bình Vương
+C	Bắc Bình Vương
+D	Lam Sơn Vương
+Câu: 526	Sau khi lên ngôi vua, Lê Lợi đã đổi tên Thăng Long thành gì?
+A	Đông Đô
+B	Đông Quan
+C	Đông Kinh
+D	Giữ nguyên
+Câu: 527	Vua Lê Thánh Tông đã ví tâm hồn Ức Trai (Nguyễn Trãi) giống như sao gì?
+A	Sao Hôm
+B	Sao Mai
+C	Sao Khuê
+D	Sao Kim
+Câu: 528	Câu nói "Hiền tài là nguyên khí của quốc gia" được nêu vào triều đại phong kiến nào?
+A	Nhà Nguyễn
+B	Nhà Trần
+C	Nhà Hậu Lê
+D	Nhà Tây Sơn
+Câu: 529	Ai là người lập ra nghiệp chúa Nguyễn trong thời kỳ Trịnh Nguyễn phân tranh ở nước ta?
+A	Nguyễn Hoàng
+B	Nguyễn Kim
+C	Nguyễn Phúc Lan
+D	Nguyễn Phúc Ánh
+Câu: 530	"Thứ nhất Kinh Kỳ - Thứ nhì Phố Hiến ". Phố Hiến nay thuộc tỉnh nào?
+A	Hưng Yên
+B	Bắc Ninh
+C	Bắc Giang
+D	Thái Bình
+Câu: 531	Chúa nào là chúa cuối cùng của dòng chúa Trịnh?
+A	Trịnh Căn
+B	Trịnh Khải
+C	Trịnh Sâm
+D	Trịnh Tùng
+Câu: 532	Quang Trung đại phá quân Thanh vào năm bao nhiêu?
+A	1788
+B	1789
+C	1790
+D	1791
+Câu: 533	Học giả nào thời Tây Sơn còn được gọi là La Sơn phu tử?
+A	Nguyễn Thiếp
+B	Ngô Thì Nhậm
+C	Ngô Thì Sĩ
+D	Phan Huy Ích
+Câu: 534	Triều đại nào sau đây mà nhà vua không đặt ngôi hoàng hậu?
+A	Nguyễn
+B	Trần
+C	Tây Sơn
+D	Hậu Lê
+Câu: 535	Hiệp ước Nhâm Tuất 1862 mà theo đó nhà Nguyễn cắt 3 tỉnh Nam Kỳ cho Pháp được ký dưới triều vua nào?
+A	Tự Đức
+B	Gia Long
+C	Minh Mạng
+D	Hàm Nghi
+Câu: 536	Cuộc khởi nghĩa nào sau đây không phải là một cuộc khởi nghĩa thuộc phong trào Cần Vương?
+A	Khởi nghĩa Yên Thế
+B	Khởi nghĩa Ba Đình
+C	Khởi nghĩa Bãi Sậy
+D	Khởi nghĩa Hương Khê
+Câu: 537	Cầu Long Biên ở nước ta được xây dựng dưới thời Toàn quyền Đông Dương nào?
+A	Paul Doumer
+B	Jean Beau
+C	Alexandre Varenne
+D	Klobukowski
+Câu: 538	Bản hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hòa được thông qua vào năm nào?
+A	1944
+B	1945
+C	1946
+D	1954
+Câu: 539	Bài thơ Hoan hô chiến sĩ Điện Biên là của tác giả nào?
+A	Tố Hữu
+B	Huy Cận
+C	Xuân Diệu
+D	Nguyễn Đình Thi
+Câu: 540	Tướng nào là tổng chỉ huy của quân đội viễn chinh Pháp trong suốt chiến dịch Điện Biên Phủ?
+A	Henri Navarre
+B	Raoul Salan
+C	de Castries
+D	de Gaulle
+Câu: 541	Ai là người đã lao mình vào bịt kín lỗ châu mai trong trận Him Lam chiến dịch Điện Biên Phủ?
+A	Phan Đình Giót
+B	Tô Vĩnh Diện
+C	La Văn Cầu
+D	Trần Can
+Câu: 1	B
+Câu: 2	A
+Câu: 3	B
+Câu: 4	D
+Câu: 5	D
+Câu: 6	A
+Câu: 7	A
+Câu: 8	A
+Câu: 9	A
+Câu: 10	A
+Câu: 11	D
+Câu: 12	B
+Câu: 13	D
+Câu: 14	D
+Câu: 15	B
+Câu: 16	B
+Câu: 17	C
+Câu: 18	C
+Câu: 19	B
+Câu: 20	D
+Câu: 21	D
+Câu: 22	B
+Câu: 23	A
+Câu: 24	D
+Câu: 25	C
+Câu: 26	A
+Câu: 27	A
+Câu: 28	B
+Câu: 29	A
+Câu: 30	D
+Câu: 31	D
+Câu: 32	A
+Câu: 33	A
+Câu: 34	A
+Câu: 35	A
+Câu: 36	A
+Câu: 37	B
+Câu: 38	C
+Câu: 39	B
+Câu: 40	C
+Câu: 41	C
+Câu: 42	B
+Câu: 43	A
+Câu: 44	D
+Câu: 45	A
+Câu: 46	D
+Câu: 47	C
+Câu: 48	A
+Câu: 49	A
+Câu: 50	A
+Câu: 51	A
+Câu: 52	D
+Câu: 53	A
+Câu: 54	A
+Câu: 55	C
+Câu: 56	A
+Câu: 57	A
+Câu: 58	A
+Câu: 59	B
+Câu: 60	B
+Câu: 61	A
+Câu: 62	A
+Câu: 63	A
+Câu: 64	A
+Câu: 65	B
+Câu: 66	C
+Câu: 67	A
+Câu: 68	A
+Câu: 69	B
+Câu: 70	D
+Câu: 71	B
+Câu: 72	A
+Câu: 73	A
+Câu: 74	D
+Câu: 75	B
+Câu: 76	A
+Câu: 77	D
+Câu: 78	D
+Câu: 79	A
+Câu: 80	B
+Câu: 81	A
+Câu: 82	B
+Câu: 83	A
+Câu: 84	A
+Câu: 85	B
+Câu: 86	C
+Câu: 87	B
+Câu: 88	A
+Câu: 89	A
+Câu: 90	A
+Câu: 91	B
+Câu: 92	C
+Câu: 93	C
+Câu: 94	C
+Câu: 95	A
+Câu: 96	A
+Câu: 97	A
+Câu: 98	B
+Câu: 99	D
+Câu: 100	B
+Câu: 101	B
+Câu: 102	B
+Câu: 103	A
+Câu: 104	A
+Câu: 105	A
+Câu: 106	C
+Câu: 107	C
+Câu: 108	D
+Câu: 109	A
+Câu: 110	B
+Câu: 111	B
+Câu: 112	A
+Câu: 113	A
+Câu: 114	B
+Câu: 115	C
+Câu: 116	A
+Câu: 117	A
+Câu: 118	A
+Câu: 119	A
+Câu: 120	A
+Câu: 121	C
+Câu: 122	B
+Câu: 123	C
+Câu: 124	D
+Câu: 125	B
+Câu: 126	B
+Câu: 127	B
+Câu: 128	B
+Câu: 129	C
+Câu: 130	D
+Câu: 131	A
+Câu: 132	D
+Câu: 133	B
+Câu: 134	A
+Câu: 135	A
+Câu: 136	B
+Câu: 137	A
+Câu: 138	A
+Câu: 139	D
+Câu: 140	C
+Câu: 141	B
+Câu: 142	A
+Câu: 143	B
+Câu: 144	B
+Câu: 145	B
+Câu: 146	C
+Câu: 147	A
+Câu: 148	A
+Câu: 149	A
+Câu: 150	A
+Câu: 151	A
+Câu: 152	A
+Câu: 153	C
+Câu: 154	A
+Câu: 155	A
+Câu: 156	A
+Câu: 157	D
+Câu: 158	B
+Câu: 159	A
+Câu: 160	B
+Câu: 161	A
+Câu: 162	B
+Câu: 163	A
+Câu: 164	B
+Câu: 165	A
+Câu: 166	A
+Câu: 167	B
+Câu: 168	A
+Câu: 169	B
+Câu: 170	A
+Câu: 171	B
+Câu: 172	B
+Câu: 173	A
+Câu: 174	A
+Câu: 175	A
+Câu: 176	A
+Câu: 177	C
+Câu: 178	A
+Câu: 179	A
+Câu: 180	B
+Câu: 181	B
+Câu: 182	A
+Câu: 183	C
+Câu: 184	A
+Câu: 185	C
+Câu: 186	A
+Câu: 187	C
+Câu: 188	A
+Câu: 189	A
+Câu: 190	A
+Câu: 191	B
+Câu: 192	A
+Câu: 193	C
+Câu: 194	D
+Câu: 195	A
+Câu: 196	A
+Câu: 197	A
+Câu: 198	B
+Câu: 199	A
+Câu: 200	A
+Câu: 201	A
+Câu: 202	A
+Câu: 203	B
+Câu: 204	B
+Câu: 205	A
+Câu: 206	A
+Câu: 207	C
+Câu: 208	D
+Câu: 209	A
+Câu: 210	A
+Câu: 211	A
+Câu: 212	D
+Câu: 213	A
+Câu: 214	A
+Câu: 215	A
+Câu: 216	A
+Câu: 217	A
+Câu: 218	B
+Câu: 219	A
+Câu: 220	A
+Câu: 221	D
+Câu: 222	A
+Câu: 223	C
+Câu: 224	A
+Câu: 225	B
+Câu: 226	A
+Câu: 227	A
+Câu: 228	B
+Câu: 229	C
+Câu: 230	A
+Câu: 231	A
+Câu: 232	B
+Câu: 233	A
+Câu: 234	A
+Câu: 235	B
+Câu: 236	A
+Câu: 237	A
+Câu: 238	A
+Câu: 239	C
+Câu: 240	A
+Câu: 241	D
+Câu: 242	A
+Câu: 243	D
+Câu: 244	A
+Câu: 245	A
+Câu: 246	A
+Câu: 247	B
+Câu: 248	A
+Câu: 249	B
+Câu: 250	D
+Câu: 251	B
+Câu: 252	A
+Câu: 253	A
+Câu: 254	C
+Câu: 255	A
+Câu: 256	A
+Câu: 257	D
+Câu: 258	B
+Câu: 259	A
+Câu: 260	B
+Câu: 261	A
+Câu: 262	A
+Câu: 263	D
+Câu: 264	A
+Câu: 265	A
+Câu: 266	A
+Câu: 267	B
+Câu: 268	A
+Câu: 269	A
+Câu: 270	A
+Câu: 271	B
+Câu: 272	C
+Câu: 273	D
+Câu: 274	A
+Câu: 275	A
+Câu: 276	A
+Câu: 277	A
+Câu: 278	D
+Câu: 279	A
+Câu: 280	A
+Câu: 281	A
+Câu: 282	A
+Câu: 283	A
+Câu: 284	A
+Câu: 285	B
+Câu: 286	B
+Câu: 287	A
+Câu: 288	C
+Câu: 289	D
+Câu: 290	A
+Câu: 291	A
+Câu: 292	A
+Câu: 293	A
+Câu: 294	A
+Câu: 295	B
+Câu: 296	A
+Câu: 297	B
+Câu: 298	B
+Câu: 299	B
+Câu: 300	A
+Câu: 301	C
+Câu: 302	A
+Câu: 303	D
+Câu: 304	C
+Câu: 305	A
+Câu: 306	C
+Câu: 307	D
+Câu: 308	A
+Câu: 309	D
+Câu: 310	A
+Câu: 311	A
+Câu: 312	A
+Câu: 313	D
+Câu: 314	A
+Câu: 315	A
+Câu: 316	A
+Câu: 317	D
+Câu: 318	A
+Câu: 319	D
+Câu: 320	A
+Câu: 321	D
+Câu: 322	A
+Câu: 323	B
+Câu: 324	A
+Câu: 325	A
+Câu: 326	A
+Câu: 327	D
+Câu: 328	A
+Câu: 329	A
+Câu: 330	B
+Câu: 331	B
+Câu: 332	B
+Câu: 333	D
+Câu: 334	A
+Câu: 335	B
+Câu: 336	B
+Câu: 337	A
+Câu: 338	B
+Câu: 339	A
+Câu: 340	B
+Câu: 341	C
+Câu: 342	A
+Câu: 343	B
+Câu: 344	C
+Câu: 345	A
+Câu: 346	C
+Câu: 347	A
+Câu: 348	A
+Câu: 349	A
+Câu: 350	A
+Câu: 351	B
+Câu: 352	A
+Câu: 353	C
+Câu: 354	B
+Câu: 355	D
+Câu: 356	A
+Câu: 357	A
+Câu: 358	C
+Câu: 359	A
+Câu: 360	A
+Câu: 361	A
+Câu: 362	A
+Câu: 363	A
+Câu: 364	B
+Câu: 365	A
+Câu: 366	B
+Câu: 367	B
+Câu: 368	B
+Câu: 369	B
+Câu: 370	B
+Câu: 371	B
+Câu: 372	B
+Câu: 373	D
+Câu: 374	A
+Câu: 375	B
+Câu: 376	B
+Câu: 377	A
+Câu: 378	A
+Câu: 379	C
+Câu: 380	A
+Câu: 381	A
+Câu: 382	A
+Câu: 383	B
+Câu: 384	A
+Câu: 385	D
+Câu: 386	B
+Câu: 387	D
+Câu: 388	A
+Câu: 389	C
+Câu: 390	C
+Câu: 391	A
+Câu: 392	A
+Câu: 393	D
+Câu: 394	B
+Câu: 395	A
+Câu: 396	B
+Câu: 397	A
+Câu: 398	D
+Câu: 399	A
+Câu: 400	D
+Câu: 401	A
+Câu: 402	C
+Câu: 403	A
+Câu: 404	A
+Câu: 405	A
+Câu: 406	B
+Câu: 407	A
+Câu: 408	D
+Câu: 409	B
+Câu: 410	C
+Câu: 411	C
+Câu: 412	A
+Câu: 413	A
+Câu: 414	D
+Câu: 415	C
+Câu: 416	A
+Câu: 417	A
+Câu: 418	A
+Câu: 419	D
+Câu: 420	D
+Câu: 421	A
+Câu: 422	B
+Câu: 423	A
+Câu: 424	B
+Câu: 425	D
+Câu: 426	D
+Câu: 427	C
+Câu: 428	C
+Câu: 429	D
+Câu: 430	A
+Câu: 431	B
+Câu: 432	C
+Câu: 433	A
+Câu: 434	A
+Câu: 435	A
+Câu: 436	C
+Câu: 437	B
+Câu: 438	C
+Câu: 439	C
+Câu: 440	A
+Câu: 441	C
+Câu: 442	A
+Câu: 443	C
+Câu: 444	B
+Câu: 445	C
+Câu: 446	A
+Câu: 447	A
+Câu: 448	A
+Câu: 449	C
+Câu: 450	D
+Câu: 451	D
+Câu: 452	B
+Câu: 453	A
+Câu: 454	A
+Câu: 455	D
+Câu: 456	A
+Câu: 457	C
+Câu: 458	A
+Câu: 459	B
+Câu: 460	A
+Câu: 461	D
+Câu: 462	D
+Câu: 463	B
+Câu: 464	A
+Câu: 465	C
+Câu: 466	D
+Câu: 467	B
+Câu: 468	A
+Câu: 469	A
+Câu: 470	A
+Câu: 471	D
+Câu: 472	D
+Câu: 473	A
+Câu: 474	B
+Câu: 475	C
+Câu: 476	C
+Câu: 477	A
+Câu: 478	D
+Câu: 479	A
+Câu: 480	D
+Câu: 481	A
+Câu: 482	A
+Câu: 483	B
+Câu: 484	A
+Câu: 485	D
+Câu: 486	A
+Câu: 487	B
+Câu: 488	C
+Câu: 489	C
+Câu: 490	D
+Câu: 491	D
+Câu: 492	C
+Câu: 493	A
+Câu: 494	A
+Câu: 495	C
+Câu: 496	A
+Câu: 497	D
+Câu: 498	A
+Câu: 499	A
+Câu: 500	A
+Câu: 501	B
+Câu: 502	A
+Câu: 503	A
+Câu: 504	A
+Câu: 505	A
+Câu: 506	C
+Câu: 507	C
+Câu: 508	B
+Câu: 509	A
+Câu: 510	A
+Câu: 511	D
+Câu: 512	C
+Câu: 513	A
+Câu: 514	A
+Câu: 515	A
+Câu: 516	B
+Câu: 517	B
+Câu: 518	D
+Câu: 519	B
+Câu: 520	A
+Câu: 521	B
+Câu: 522	A
+Câu: 523	B
+Câu: 524	B
+Câu: 525	A
+Câu: 526	C
+Câu: 527	C
+Câu: 528	C
+Câu: 529	A
+Câu: 530	A
+Câu: 531	B
+Câu: 532	B
+Câu: 533	A
+Câu: 534	A
+Câu: 535	A
+Câu: 536	A
+Câu: 537	A
+Câu: 538	C
+Câu: 539	A
+Câu: 540	A
+Câu: 541	A
+364
+Câu: 1	Phụ lưu lớn nhất của sông Hồng?
+A	Sông Cầu
+B	Sông Đà
+C	Sông Lô
+D	Sông Thái Bình
+Câu: 2	Sông Hồng có chiều dài khoảng
+A	600 km
+B	800 km
+C	1000 km
+D	1200 km
+Câu: 3	Đồng bằng sông Hồng gồm bao nhiêu tỉnh, thành phố
+A	10
+B	11
+C	12
+D	13
+Câu: 4	Tên gọi "Sa Pa" trong tiếng Quan Thoại có nghĩa là gì?
+A	Sương mù
+B	Bãi cát 
+C	Thung lũng
+D	Thác nước
+Câu: 5	Nguồn gốc từ "ĐÀ NẴNG" là biến dạng của từ Chăm "DAKNAN". Từ "NAN" có nghĩa là gì?
+A	Biển lớn
+B	Rộng, lớn
+C	Cát vàng
+D	Nắng lớn
+Câu: 6	Người sáng lập ra nhóm Tự lực văn đoàn - Nhất Linh quê ở đâu?
+A	Quảng Nam
+B	Đà Nẵng
+C	Quảng Bình
+D	Quảng Trị
+Câu: 7	Tỉnh nào ở miền Trung Việt Nam được biết đến với tên gọi "Quê mía xứ đường"
+A	Quảng Nam
+B	Quảng Ngãi
+C	Ninh Thuận
+D	Bình Thuận
+Câu: 8	Trong ngôn ngữ Ba Na thì tên tỉnh Kontum nghĩa là gì?
+A	Biển Hồ
+B	Làng Hồ
+C	Núi Hồ
+D	Rừng Hồ
+Câu: 9	Theo tiếng địa phương tên đỉnh Fansipan có nghĩa là gì?
+A	Phiến đá khổng lồ
+B	Đỉnh núi khổng lồ
+C	Đỉnh trời
+D	Cổng trời
+Câu: 10	Ngôi sao nhạc Pop Micheal Jackson sinh năm bao nhiêu?
+A	1958
+B	1954
+C	1962
+D	1964
+Câu: 11	Ngôi sao ca nhạc người Mỹ Elvis Presly sinh tại bang nào của Mỹ?
+A	Ohio
+B	New York
+C	Mississippi
+D	Michigan
+Câu: 12	Đâu không phải là thành viên của ban nhạc The Beatles trong danh sách dưới đây?
+A	Paul McCartney
+B	George Harrison
+C	Ringo Starr
+D	Mick Jagger
+Câu: 13	Bản giao hưởng số 9 của nhạc sĩ Beethven có tên là gì?
+A	Niềm vui
+B	Định mệnh
+C	Đồng quê
+D	Mùa xuân
+Câu: 14	Đâu không phải là một trong những bút danh của nhạc sĩ Lưu Hữu Phước?
+A	Huỳnh Minh Siêng
+B	Long Hưng
+C	Anh Lưu
+D	Anh Vũ
+Câu: 15	Liên hoan phim Cannes được tổ chức lần đầu tiên vào năm nào?
+A	1946
+B	1950
+C	1940
+D	1955
+Câu: 16	Bộ phim truyện đầu tiên được thực hiện tại Việt Nam?
+A	Kim Vân Kiều
+B	Đồng tiền kẽm tậu được con ngựa
+C	Tấn tôn đức Bảo Đại
+D	Cả Lố
+Câu: 17	Bộ phim đầu tiên của diễn viên NSND Thế Anh là bộ phim nào?
+A	Nổi gió
+B	Mối tình đầu
+C	Tự thú trước bình minh
+D	Đêm hội Long Trì
+Câu: 18	Nhà thơ La Fontaine của Pháp sống vào thế kỷ thứ bao nhiêu?
+A	16
+B	17
+C	19
+D	15
+Câu: 19	Đâu không phải là một trong năm trụ cột của Hồi giáo?
+A	SALAT Cầu nguyện
+B	ZAKAT Bố thí
+C	SAVVM Nhịn ăn
+D	HAJJ Đến nhà thờ
+Câu: 20	Đâu không phải là một chân lý của Tứ diệu đế, cơ sở tư tưởng của Phật pháp?
+A	Khổ đế
+B	Tập đế
+C	Diệt đế
+D	Cao đế
+Câu: 21	Theo Tứ diệu đế của Phật gia, đường dẫn đến Niết- bàn là?
+A	Bát chính đạo
+B	Cửu chính đạo
+C	Ngũ chính đạo
+D	Thập chính đạo
+Câu: 22	Từ "Niết-bàn"  của Phật gia có nghĩa là gì? 
+A	Thổi tắt
+B	An nhàn
+C	Thiền
+D	Cuộc sống mới
+Câu: 23	Saturn là vị thần nào trong Thần thoại La Mã?
+A	Thần nông
+B	Thần chết
+C	Thần đồng quê
+D	Thần chiến tranh
+Câu: 24	Chàng thanh niên trẻ trong tượng David của Michelangelo là ai?
+A	Một vị vua
+B	Người đánh cá
+C	Nông dân
+D	Thương gia
+Câu: 25	Kim loại mẫn cảm với ánh sáng nhất
+A	Cesi
+B	Natri
+C	Kali
+D	Liti
+Câu: 26	Tia nào không phải là sản phẩm của phản ứng phân hạch
+A	alpha
+B	beta
+C	gamma
+D	X
+Câu: 27	Khối lượng mặt trời gấp bao nhiêu lần khối lượng trái đất
+A	300,000
+B	30,000
+C	40,000
+D	400,000
+Câu: 28	Tỉnh thành phố nào ở Việt Nam có một nét văn hóa rất đặc biệt là thờ cá voi ( có 10 đền thờ cá voi)?
+A	Long An
+B	Kiên Giang
+C	Cà Mau
+D	Bả Rịa - Vũng Tàu
+Câu: 29	Vịnh nào sau đây không là thành viên của CLB những vịnh đẹp nhất thế giới?
+A	Vịnh Hạ Long
+B	Vịnh Nha Trang
+C	Vịnh Lăng Cô
+D	Vịnh Cam Ranh
+Câu: 30	Nóc nhà của thế giới, đỉnh Everest, trong tiếng Tây Tạng gọi là Chomolangma có nghĩa là gì?
+A	Thánh mẫu vũ trụ
+B	Phật pháp vô biên
+C	Cõi niết bàn
+D	Trán trời
+Câu: 31	Con sông nào còn được biết tới với cái tên là " Thủy lộ vàng"
+A	Hoàng Hà
+B	Trường Giang
+C	Tương Giang
+D	Hoài Giang
+Câu: 32	Nguyệt Chi là từ trong tiếng Trung để chỉ người ở khu vực nào?
+A	Đông Nam Á cổ đại
+B	Trung Á cổ đại
+C	Tây Á cổ đại
+D	Châu Âu cổ đại
+Câu: 33	Hệ điều hành UNIX do công ty nào sản xuất
+A	Microsoft
+B	AT&T Bell Labs
+C	Niklaus Wirth
+D	Sun Microsystems
+Câu: 34	Trụ sở của hãng Microsoft đặt tại bang nào
+A	Washington
+B	New York
+C	Texas
+D	Ohio
+Câu: 35	Microsoft thành lập vào năm bao nhiêu
+A	1970
+B	1975
+C	1976
+D	1977
+Câu: 36	Một hạt proton có khối lượng gấp khoảng bao nhiêu lần hạt electron
+A	1000
+B	2000
+C	3000
+D	4000
+Câu: 37	3 hạt quắc u-d-d cấu tạo lên hạt nào dưới đây
+A	electron
+B	proton
+C	notron
+D	phản proton
+Câu: 38	Để phân biệt với tên nước Trung Hoa, người Trung Quốc cổ đại đã gọi các tộc lạc hậu ở phía bắc là gì?
+A	Di
+B	Nhung
+C	Địch
+D	Man
+Câu: 39	Hội Quốc Liên là tổ chức quốc tế ra đời sau Thế Chiến I được thành lập năm bao nhiêu?
+A	1918
+B	1919
+C	1920
+D	1917
+Câu: 40	Tổng bí thư Đảng Cộng Sản Liên Xô Gorvachev được trao giải Nobel hòa bình năm nào?
+A	1988
+B	1989
+C	1990
+D	1991
+Câu: 41	Chữ "Ai" trong tên môn võ thuật Aikido trong chữ Hán-Nhật (Kanji ) có nghĩa là gì?
+A	Tinh thần
+B	Con đường
+C	Mềm dẻo
+D	Hài hòa
+Câu: 42	Hai cầu thủ có số lần tham dự vòng chung kết World cup nhiều nhất là hai cầu thủ người Mexico và người nước nào?
+A	Đức
+B	Brasil
+C	Pháp
+D	Tây Ban Nha
+Câu: 43	HLV Alex Ferguson đã bắt đầu dẫn dắt CLB Manchester United ở mùa giải nào?
+A	1985-1986
+B	1986-1987
+C	1987-1988
+D	1988-1989
+Câu: 44	Nguyên nhân chính của việc vua Lê Đại Hành mang quân sang trừng phạt nước Chiêm Thành?
+A	Không chịu sang sứ
+B	Không cống nạp vật phẩm
+C	Bắt giữ sứ giả
+D	Khiêu khích biên giới
+Câu: 45	Tập thơ nào sau đây không phải của tác giả Nguyễn Trãi?
+A	Ức Trai thi tập
+B	Chí Linh Sơn Phú
+C	Băng Hồ di sự lục
+D	Chinh Tây kỷ hành
+Câu: 46	Nũ tướng nào của Hai Bà Trưng được phong làm Đông Triều Công chúa?
+A	Lê Chân 
+B	Lê Thị Hoa
+C	Đàm Ngọc Nga
+D	Xuân Nương
+Câu: 47	Ai được coi là người mở nền chính thống cho các triều đại phong kiến trong lịch sử Việt Nam?
+A	Đinh Tiên Hoàng
+B	Ngô Quyền
+C	Khúc Thừa Dụ
+D	Lý Thái Tổ
+Câu: 48	Nhận định nào sau đây là sai khi nói về Chiếu dời đô của Lý Công Uẩn?
+A	Thiếu tinh thần dân tộc
+B	Thiếu khát vọng độc lập
+C	Màu sắc dị đoan, phong thủy
+D	Đúng khi phê phán nhà Đinh và Lê
+Câu: 49	Câu thơ sau sáng tác để kỷ niệm cuộc chiến nào " Người lính già tóc bạc - Kể mãi chuyện Nguyên Phong" ?
+A	Chống quân Mông Cổ 1258
+B	Chống quân Nguyên Mông 1285
+C	Chống quân Nguyên Mông 1288
+D	Chống quân Minh xâm lược
+Câu: 50	"Tháng Tám giỗ Cha, tháng Ba giỗ Mẹ". Trong câu thành ngữ trên, nhân vật lịch sử nào được gọi là Cha?
+A	Hưng Đạo Đại Vương
+B	Bố Cái Đại Vương
+C	Quang Trung - Nguyễn Huệ
+D	Lê Thái Tổ - Lê Lợi
+Câu: 51	Việc mất nước của nhà Hồ vào tay quân Minh để lại tổn thất nào là lớn nhất? 
+A	Mất tự chủ dân tộc
+B	Nhân dân đói khổ
+C	Văn hóa bị cải tạo
+D	Mất một vị vua anh minh
+Câu: 52	Triều đại phong kiến nào của Việt Nam được đánh giá là có nhiều cải cách quan trọng nhưng thất bại vì không hợp lòng dân?
+A	Hồ
+B	Tiền Lê
+C	Nguyễn
+D	Đinh
+Câu: 53	Vị vua nào sau đây là người đã đưa nước Đại Việt lên tới thời hoàng kim vĩ đại nhất trong lịch sử phong kiến?
+A	Lê Thánh Tông
+B	Trần Nhân Tông
+C	Lý Thái Tổ
+D	Quang Trung Hoàng đế
+Câu: 54	Chiếc cột đồng khắc chữ "Đồng trụ chiết, Giao Chỉ diệt " rất vô học đã được dựng lên ở triều đại nào đô hộ nước ta?
+A	Hán
+B	Đường
+C	Tùy
+D	Lương
+Câu: 55	Triều đại nào sau khi xâm lược nước ta đã tiếp tục gọi nước ta là Quận Giao Chỉ như thời đô hộ?
+A	Tống
+B	Minh
+C	Nguyên
+D	Thanh
+Câu: 56	Vị quan nào của Trung Quốc khi cai trị nước ta được lòng dân và được người đời sau khâm phục nhất?
+A	Sỹ Nhiếp
+B	Cao Biền
+C	Dương Tắc
+D	Dương Phiêu
+Câu: 57	Ai được coi là người đặt cơ sở cho nền độc lập của Việt Nam sau gần 1000 Bắc thuộc?
+A	Khúc Thừa Dụ
+B	Khúc Hạo
+C	Ngô Quyền
+D	Đinh Bộ Lĩnh
+Câu: 58	Nguyên nhân chính của việc vua Lê Đại Hành mang quân sang trừng phạt nước Chiêm Thành?
+A	Không chịu sang sứ
+B	Không cống nạp vật phẩm
+C	Bắt giữ sứ giả
+D	Khiêu khích biên giới
+Câu: 59	Sau khi lên ngôi, Lê Lợi đã mắc sai lầm là thảm sát công thần nào?
+A	Nguyễn Trãi
+B	Trần Nguyên Hãn
+C	Lê Quốc Khí
+D	Lê Sát
+Câu: 60	Tập thơ nào sau đây không phải của tác giả Nguyễn Trãi?
+A	Ức Trai thi tập
+B	Chí Linh Sơn Phú
+C	Băng Hồ di sự lục
+D	Chinh Tây kỷ hành
+Câu: 61	Chúa Nguyễn nào là người chiếm hẳn nước Chiêm Thành, mở mang bờ cõi nước ta đến ngày nay?
+A	Nguyễn Phúc Lan
+B	Nguyễn Phúc Tần
+C	Nguyễn Phúc Chu
+D	Nguyễn Phúc Nguyên
+Câu: 62	Việc Nguyễn Ánh đánh bại nhà Tây Sơn lên ngôi Hoàng Đế năm 1802 có ý nghĩa gì lớn nhất?
+A	Họ Nguyễn tiếp tục làm vua
+B	Sự kiên trì của Nguyễn Ánh
+C	Đất nước hết chiến tranh
+D	Đất nước thống nhất một dải
+Câu: 63	Cuộc khởi  nghĩa nào sau đây được xem là đỉnh cao của phong trào Cần Vương cuối thế kỷ 19?
+A	Khởi nghĩa Hương Khê
+B	Khởi nghĩa Ba Đình
+C	Khởi nghĩa Bãi Sậy
+D	Khởi nghĩa Hùng Lĩnh
+Câu: 64	Toàn quyền Đông Dương Varenne (Va-ren), người có chính sách tương đối cấp tiến và nhân đạo, là thành viên của Đảng nào ở Pháp?
+A	Đảng Xã Hội
+B	Đảng Cộng Sản
+C	Đảng Xanh
+D	Đảng Tập hợp vì nền Cộng Hòa (RPR)
+Câu: 65	Đến đời vua nào thì nhà Triệu bị nhà Hán chiếm mất?
+A	Triệu Vũ Vương
+B	Triệu Văn Vương
+C	Triệu Ai Vương
+D	Triệu Dương Vương
+Câu: 66	Bà Triệu quê ở vùng Quan Yên nay thuộc tỉnh nào?
+A	Thanh Hóa
+B	Nghệ An
+C	Nam Định
+D	Ninh Bình
+Câu: 67	Vua Lý Nam Đế đã khen vị tướng nào trong câu "Bật chính anh liệt hùng tài trinh nhất phu nhân"?
+A	Trưng Trắc
+B	Trưng Nhị
+C	Triệu Thị Trinh
+D	Lê Chân
+Câu: 68	Vị tướng nào đã được người đời tôn là Lệ Hải bà vương?
+A	Trưng Trắc
+B	Bà Chúa Bầu
+C	Bà Triệu
+D	Nga Sơn Công Chúa
+Câu: 69	Lý Nam Đế sau giành lại chính quyền đã đóng đô ở Ô Diên nay thuộc huyện nào ở Hà Nội?
+A	Đan Phượng
+B	Từ Liêm
+C	Mê Linh
+D	Thạch Thất
+Câu: 70	Đầm Dạ Trạch, nơi trú ẩn của Triệu Việt Vương trong thời chống quân Lương nay thuộc tỉnh nào?
+A	Bắc Ninh
+B	Hưng Yên
+C	Nam Định
+D	Hà Nam
+Câu: 71	Vị vua nào nhà tiền Lý đã không đánh mà hàng nhà Tùy khi đó đã thống nhất nước Trung Quốc?
+A	Lý Diên Bảo
+B	Triệu Việt Vương
+C	Lý Nam Đế
+D	Lý Phật Tử
+Câu: 72	Mai Thúc Loan sinh ra tại Hoan Châu nay thuộc tỉnh nào?
+A	Nam Định
+B	Thanh Hóa
+C	Nghệ An
+D	Hưng Yên
+Câu: 73	Vị vua nào đã đổi tên nước ta là Đại Việt?
+A	Lý Thái Tổ
+B	Lý Thánh Tông
+C	Trần Thái Tông
+D	Trần Nhân Tông
+Câu: 74	Hai câu thơ "Hùng cứ châu Hoan đất một vùng - Vạn An thành lũy khói hương xông " đã nhắc đến vị vua nào?
+A	Lý Nam Đế 
+B	Triệu Việt Vương
+C	Mai Hắc Đế
+D	Ngô Quyền
+Câu: 75	Việc Khúc Thừa Dụ nắm được chính quyền và tự phong cho mình là tiết độ sứ có ý nghĩa lớn nào?
+A	Người Việt đầu tiên làm quan lớn
+B	Chính quyền tự chủ của người Việt
+C	Ngoại giao khôn khéo
+D	Vẫn còn thần phục Trung Quốc
+Câu: 76	Trong thời kỳ loạn 12 sứ quân, lực lượng sứ quân nào đã hợp nhất với sứ quân Đinh Bộ Lĩnh?
+A	Nguyễn Siêu
+B	Trần Lãm
+C	Ngô Nhật Khánh
+D	Kiều Công Hãn
+Câu: 77	Vị vua nào còn được gọi là Vạn Thắng Vương?
+A	Đinh Tiên Hoàng
+B	Ngô Quyền
+C	Lê Thái Tổ
+D	Lê Đại Hành
+Câu: 78	Bài thơ Quốc tộ (Vận nước ) của thiền sư Pháp Thuận được viết vào thời nào?
+A	Đinh
+B	Tiền Lê
+C	Trần
+D	Hậu Lê
+Câu: 79	Quốc tử giám tại kinh thành Thăng Long được lập vào thời vua nào?
+A	Lý Thánh Tông
+B	Lý Nhân Tông
+C	Trần Thái Tông
+D	Trần Anh Tông
+Câu: 80	Chu Văn An đã dâng "Thất trảm sớ" xin chém bảy tên nịnh thần lên vua nào?
+A	Trần Dụ Tông
+B	Trần Anh Tông
+C	Trần Thái Tông
+D	Trần Nhân Tông
+Câu: 81	Thoát Hoan, viên tướng bị đánh bại trong cả hai lần xâm lược Đại Việt, có quan hệ thế nào với vua Nguyên Hốt Tất Liệt?
+A	Là con trai
+B	Là cháu nội
+C	Là bạn thân
+D	Là tướng có nhiều chiến công
+Câu: 82	Địa danh Chương Dương Độ trong cuộc chiến chống Nguyên Mông nay thuộc tỉnh thành nào?
+A	Hưng Yên
+B	Việt Trì
+C	Hải Dương
+D	Hà Nội
+Câu: 83	Tướng nào đã chỉ huy quân đội nhà Trần đánh quân Nguyên trong trận Chương Dương 1285?
+A	Trần Quang Khải
+B	Trần Khánh Dư
+C	Trần Quốc Tuấn
+D	Trần Quốc Toản
+Câu: 84	Tổng tư lệnh của quân Nguyên trong cuộc xâm lược Đại Việt lần thứ ba là ai?
+A	Thoát Hoan
+B	Ô Mã Nhi
+C	Toa Đô
+D	Ariq Qaya (A Lý Hải Nha)
+Câu: 85	Tướng quân Lê Phụ Trần đã lấy ván thuyền để che cho vua nào trong mưa tên của giặc Mông Cổ?
+A	Trần Thái Tông
+B	Trần Thánh Tông
+C	Trần Nhân Tông
+D	Trần Anh Tông
+Câu: 86	Vị tướng nhà Trần nào sau đây là tác giả của bài Thuật Hoài với câu đầu "Hoành sóc giang sơn kháp kỉ thu "?
+A	Dã Tượng
+B	Yết Kiêu
+C	Phạm Ngũ Lão
+D	Trần Bình Trọng
+Câu: 87	Trong triều đại Hậu Trần (ngay sau triều Hồ), hoàng tử Trần Ngỗi đã lấy đế hiệu là gì?
+A	Giản Định Đế
+B	Trùng Quang Đế
+C	Trần Phế Đế
+D	Cảnh Dị Đế
+Câu: 88	"Ninh Kiều máu chảy thành sông, tanh hôi vạn dặm " Câu thơ trên đã nhắc đến trận đánh nào trong cuộc khởi nghĩa Lam Sơn?
+A	Tốt Động - Chúc Động
+B	Giải phóng Nghệ An
+C	Chi Lăng - Xương Giang
+D	Ngọc Hồi - Đống Đa
+Câu: 89	Hội thề nào đã kết thúc cuộc khởi nghĩa Lam Sơn, giành lại độc lập cho Đại Việt?
+A	Lũng Nhai
+B	Lam Sơn
+C	Đông Quan
+D	Hoa Lư
+Câu: 90	Tác phẩm nào sau đây không phải là của Lê Quý Đôn?
+A	Đại thành Toán pháp
+B	Hỷ phường Phổ lục
+C	Thiền môn Khoa giáo
+D	Văn minh cổ xúy
+Câu: 91	Chúa Nguyễn Phúc Tần còn được gọi là Chúa gì?
+A	Chúa Sãi
+B	Chúa Hiền
+C	Chúa Thượng
+D	Chúa Nghĩa
+Câu: 92	Vua nào của Việt Nam đã phải cởi trần ra, trói mình lại để quỳ lạy trước cửa của một tên tướng Tàu xin giao nộp đất?
+A	Mạc Đăng Dung
+B	Lê Chiêu Thống
+C	Nguyễn Ánh
+D	Lê Tương Dực
+Câu: 93	Chúa nào của họ Trịnh đã đánh đuổi được nhà Mạc?
+A	Trịnh Giang
+B	Trịnh Căn
+C	Trịnh Sâm
+D	Trịnh Tùng
+Câu: 94	Khi khuyên Nguyễn Hoàng về chốn dung thân muôn đời, Nguyễn Bỉnh Khiêm đã đề cập đến nơi nào?
+A	Dãy Bạch Mã
+B	Dãy Hoành Sơn
+C	Sông Gianh
+D	Thuận Hóa
+Câu: 95	Chúa Nguyễn Ánh lên ngôi vua năm nào?
+A	1800
+B	1801
+C	1802
+D	1803
+Câu: 96	Thực dân Pháp đã bắt đầu nổ súng xâm lược nước ta năm nào?
+A	1858
+B	1868
+C	1878
+D	1884
+Câu: 97	Hiệp ước nào sau đây đã đánh dấu thời kỳ toàn bộ Việt Nam là thuộc địa của Pháp?
+A	Nhâm Tuất 1862
+B	Giáp Tuất 1874
+C	Quý Mùi 1883
+D	Giáp Thân 1884
+Câu: 98	Việc chia Việt Nam ra làm ba xứ, ba chế độ khác nhau được ký kết trong bản hòa ước nào của triều đình Huế với Pháp?
+A	Nhâm Tuất 1862
+B	Giáp Tuất 1874
+C	Quý Mùi 1883
+D	Giáp Thân 1884
+Câu: 99	Vua nhà Nguyễn nào sau đây không phải là một vị vua yêu nước?
+A	Duy Tân
+B	Thành Thái
+C	Hàm Nghi
+D	Khải Định
+Câu: 100	Vị vua nhà Nguyễn nào đã liên lạc với Việt Nam Quang phục Hội hòng đảo chính, đánh bại thực dân Pháp?
+A	Duy Tân
+B	Hàm Nghi
+C	Thành Thái
+D	Hiệp Hòa
+Câu: 101	Cuộc khởi nghĩa Hương Khê là do ai lãnh đạo?
+A	Phan Đình Phùng
+B	Nguyễn Thiệt Thuật
+C	Phan Bội Châu
+D	Tống Duy Tân
+Câu: 102	Nguyễn Thiệt Thuật là thủ lĩnh của cuộc khởi nghĩa nào trong phong trào Cần Vương cuối thế kỷ 19? 
+A	Khởi nghĩa Bãi Sậy
+B	Khởi nghĩa Ba Đình
+C	Khởi nghĩa Hương Khê
+D	Khởi nghĩa Hùng Lĩnh
+Câu: 103	Thư thất điều hay Thất điều trần của Phan Chu Trinh đã vạch ra 7 tội của vua nhà Nguyễn nào?
+A	Bảo Đại
+B	Khải Định
+C	Đồng Khánh
+D	Thiệu Trị
+Câu: 104	"Dựa vào Nhật Bản, khôi phục nước Việt Nam, thành lập nước quân chủ lập hiến" là tư tưởng của nhà cách mạng nào dưới đây?
+A	Phan Chu Trinh
+B	Phan Bội Châu
+C	Phan Văn Trường
+D	Nguyễn Ái Quốc
+Câu: 105	Chí sĩ yêu nước nào sau đây còn được gọi là Ông nghè Liên Bạt?
+A	Nguyễn Thượng Hiền
+B	Phan Bội Châu
+C	Phan Chu Trinh
+D	Huỳnh Thúc Kháng
+Câu: 106	Sự kiện "Tiếng bom ở Sa Diện" , sự kiện mưu sát tên toàn quyền Đông Dương Merlin 1924, do thành viên nào của Việt Nam Quang Phục Hội thực hiện?
+A	Phạm Hồng Thái
+B	Lê Hồng Sơn
+C	Lương Ngọc Quyến
+D	Nguyễn Quang Diêu
+Câu: 107	Dòng nào sau đây nói sai về tư tưởng của Phan Chu Trinh?
+A	Tự lực khai hóa
+B	Dân chủ tư sản
+C	Đấu tranh ôn hòa, bất bạo động
+D	Dùng bạo lực giành chính quyền
+Câu: 108	Ý nghĩa lớn nhất của Chiến dịch biên giới Thu Đông 1950 ?
+A	Giải phóng một vùng lớn
+B	Giết được nhiều lính Pháp
+C	Giành được nhiều vũ khí
+D	Phá thế bao vây, khai thông biên giới
+Câu: 109	Địa danh Bắc Sơn, nơi xảy ra cuộc khởi nghĩa Bắc Sơn chống lại Pháp và Nhật năm 1940 nay thuộc tỉnh nào?
+A	Cao Bằng
+B	Hà Giang
+C	Lạng Sơn
+D	Lào Cai
+Câu: 110	Trong chiến dịch Điện Biên Phủ đợt một, Quân đội nhân dân Việt Nam đã tiêu diệt được phân khu nào của tập đoàn cứ điểm Điên Biên Phủ?
+A	Phân khu Bắc
+B	Phân khu Nam
+C	Phân khu Trung tâm
+D	Phân khu Đông
+Câu: 111	Cứ điểm  nào sau đây không nằm trong chiến dịch Điện Biên Phủ đợt một?
+A	Him Lam
+B	Độc Lập
+C	Bản Kéo
+D	C1
+Câu: 112	Sau ngày thành lập, khi bạn bè thế giới còn chưa nhận ra ta, đất nước nào đã sang thăm Việt Nam DCCH đầu tiên?
+A	Nga
+B	Trung Quốc
+C	Ấn Độ
+D	Cu Ba
+Câu: 113	Vua nào của nhà Hán đã đánh bại nước Nam Việt của nhà Triệu, tiếp tục thống trị nước ta?
+A	Hán Cao Tổ
+B	Hán Vũ Đế
+C	Hán Văn Đế
+D	Hán Hiếu Đế
+Câu: 114	Điền vào dấu ... câu thơ sau : "Bà Trưng quê ở ... - Giận người tham bạo thù chồng chẳng quên"?
+A	Châu Phong
+B	Mê Linh
+C	Cổ Loa
+D	Long Biên
+Câu: 115	Nữ tướng Lê Chân được coi là có công khai khẩn vùng đất nào sau đây?
+A	Hải Phòng
+B	Thanh Hóa
+C	Thái Nguyên
+D	Nam Định
+Câu: 116	Thời Tam quốc, nước ta chịu sự cai quản của nhà nào?
+A	Đông Ngô
+B	Tây Thục
+C	Bắc Ngụy
+D	Không thuộc bên nào
+Câu: 117	Bài hát Chiến đấu vì độc lập tự do với câu mở đầu là Tiếng súng đã vang trên bầu trời biên giới là của nhạc sĩ nào?
+A	Phạm Tuyên
+B	Lưu Hữu Phước
+C	Huy Du
+D	Hoàng Vân
+Câu: 118	Vua nào của nhà Nguyễn đã đặt quốc hiệu nước ta là Việt Nam?
+A	Gia Long
+B	Minh Mạng
+C	Thiệu Trị
+D	Tự Đức
+Câu: 119	Vị vua nào sau đây đã đổi quốc hiệu nước ta thành Đại Nam?
+A	Minh Mạng
+B	Gia Long
+C	Đồng Khánh
+D	Thiệu Trị
+Câu: 120	Bà Triệu đã khởi binh đánh nhà nào của Trung Quốc?
+A	Đông Ngô
+B	Tây Hán
+C	Đông Hán
+D	Đường
+Câu: 121	Vị vua nào còn được gọi là Dạ Trạch Vương?
+A	Lý Nam Đế
+B	Lý Phật Tử
+C	Triệu Việt Vương
+D	Mai Hắc Đế
+Câu: 122	Triệu Việt Vương là vị vua của triều đại nào ?
+A	Nhà Đinh
+B	Nhà tiền Lê
+C	Nhà tiền Lý ( Lý Nam Đế)
+D	Nhà Ngô
+Câu: 123	Sau khi giành được chính quyền, Khúc Thừa Dụ đã khéo léo tự xưng là gì?
+A	Hoàng Đế
+B	Vương
+C	Tiết độ sứ
+D	Đại tướng quân
+Câu: 124	Sau khi dẹp loạn 12 sứ quân, Đinh Bộ Lĩnh đã lên ngôi năm nào?
+A	968
+B	978
+C	988
+D	998
+Câu: 125	Câu thơ sau đây đã nhắc đến vị vua nào " Bé thì chăn nghé chăn trâu - Trận bày đã lấy bông lau lầm cờ"?
+A	Đinh Bộ Lĩnh
+B	Quang Trung
+C	Ngô Quyền
+D	Mai Hắc Đế
+Câu: 126	Triều Tiền Lê có tất cả bao nhiêu đời vua?
+A	1
+B	2
+C	3
+D	4
+Câu: 127	Vua Lê Đại Hành đã nói thác với sứ thần Trung Quốc rằng bị ngã ngựa đau chân để tránh phải làm gì?
+A	Sang sứ nước Tống
+B	Ra đón sứ Tống
+C	Quỳ để nhận phong chức
+D	Tiễn sứ Tống về nước
+Câu: 128	Chữ "Cồ" trong quốc hiệu "Đại Cồ Việt" có nghĩa là gì?
+A	Lớn
+B	Thái bình
+C	Phía nam
+D	Độc lập
+Câu: 129	Khuê Văn Các tại Quốc Tử Giám được xây dựng vào thời nào?
+A	Hậu Lê
+B	Lý 
+C	Trần
+D	Nguyễn
+Câu: 130	Nguyên phi Ỷ Lan là vợ của vua nào?
+A	Lý Thánh Tông
+B	Lý Thái Tổ
+C	Lý Thần Tông
+D	Lý Dụ Tông
+Câu: 131	Trước ý đồ xâm lược rõ ràng của nhầ Tống, quan quân nhà Lý dưới sự chỉ đạo của Lý Thường Kiệt đã làm gì trước tiên?
+A	Tường cao hào sâu cố thủ
+B	Sang hòa hoãn với địch
+C	Sang đất Tống đánh đòn phủ đầu
+D	Đầu hàng vô điều kiện
+Câu: 132	Tướng nào là chỉ huy của quân Tống xâm lăng Đại Việt lần II của nhà Tống?
+A	Quách Quỳ
+B	Ô Mã Nhi
+C	Tô Giám
+D	Liễu Thăng
+Câu: 133	Vua nào nhà Lý khi đã mất ngôi còn bị Trần Thủ Độ bức tử ?
+A	Lý Nhân Tông
+B	Lý Chiêu Hoàng
+C	Lý Cao Tông
+D	Lý Huệ Tông
+Câu: 134	Linh Từ Quốc Mẫu Trần Thị Dung trước khi làm vợ của Trần Thủ Độ đã làm chức gì ở đời vua Lý Huệ Tông?
+A	Hoàng hậu
+B	Công chúa
+C	Thái Hoàng Hậu
+D	Thái tử phi (vợ thái tử)
+Câu: 135	Trần Thủ Độ đã làm gì khi có người tố với vua Trần Cảnh rằng Thủ Độ nắm hết quyền của vua?
+A	Chém người đó
+B	Ban thưởng cho người đó
+C	Từ bỏ quyền lực
+D	Đảo chính lên làm vua
+Câu: 136	Tướng chỉ huy quân Mông Cổ đánh chiếm nước ta lần thứ nhất là tướng nào?
+A	Ngột Lương Hợp Thai (Uriyangqatai)
+B	Toa Đô (Sogetu)
+C	Ô Mã Nhi(Omar)
+D	Thoát Hoan
+Câu: 137	Trong lần xâm lược lần thứ nhất, quân Mông Cổ khi chiếm được thành Thăng Long đã gặp bất lợi lớn nào?
+A	Kho tàng của cải trống rỗng
+B	Bị đánh úp
+C	Du kích ở khắp mọi nơi
+D	Dịch bệnh
+Câu: 138	Tại sao quân Mông Cổ trong lần xâm lược đầu tiên được gọi là "giặc Bụt"?
+A	Vì thương dân như con
+B	Vì theo đạo Phật
+C	Vì khi chạy không cướp phá dân chúng
+D	Vì tướng cầm đầu tên là Bụt
+Câu: 139	Tác phẩm Hịch tướng sĩ được sáng tác trước cuộc chiến tranh chống quân Mông - Nguyên xâm lược lần thứ mấy?  
+A	Lần 1 
+B	Lần 2
+C	Lần 3
+D	Lần 4
+Câu: 140	Quân đội Mông - Nguyên tiến quân vào xâm lược nước ta lần thứ hai vào năm nào?
+A	1275
+B	1285
+C	1258
+D	1288
+Câu: 141	Trong cuộc chiến chống Nguyên Mông lần 2, đạo quân do Toa Đô chỉ huy tiến vào Đại Việt theo đường nào?
+A	Ải Chi Lăng
+B	Biển Đông
+C	Sông Bạch Đằng
+D	Từ Chiêm Thành
+Câu: 142	Tướng nào đã chỉ huy quân Nguyên trong trận Hàm Tử - Tây Kết năm 1285?
+A	Toa Đô
+B	Ô Mã Nhi
+C	Thoát Hoan
+D	Lý Hằng
+Câu: 143	Vua nào đã lãnh đạo nhân dân Đại Việt chống lại quân xâm lược Nguyên Mông lần thứ ba?
+A	Trần Thái Tông
+B	Trần Nhân Tông
+C	Trần Thánh Tông
+D	Trần Anh Tông
+Câu: 144	Tướng nhà Trần nào đã chỉ huy trận Vân Đồn phá thuyền lương của giặc Nguyên Mông?
+A	Trần Quang Khải
+B	Trần Khánh Dư
+C	Trần Quốc Toản
+D	Phạm Ngũ Lão
+Câu: 145	Sau khi giết được Trịnh Khải, quân Tây Sơn đã làm gì tại đất Bắc Hà?
+A	Cướp ngôi nhà Lê
+B	Trao quyền cho vua Lê
+C	Lập Trịnh Bồng làm chúa
+D	Lập chế độ vua Lê chúa Nguyễn
+Câu: 146	Trước khi lên làm vua, Nguyễn Huệ còn có chức danh gì?
+A	Bắc Bình Vương
+B	Nam Bình Vương
+C	Đông Định Vương
+D	Tây Định Vương
+Câu: 147	Quang Trung đại phá quân Thanh vào năm bao nhiêu?
+A	1788
+B	1789
+C	1790
+D	1791
+Câu: 148	Học giả nào thời Tây Sơn còn được gọi là La Sơn phu tử?
+A	Nguyễn Thiếp
+B	Ngô Thì Nhậm
+C	Ngô Thì Sĩ
+D	Phan Huy Ích
+Câu: 149	Chiến thắng Ngọc Hồi Đống Đa của vua Quang Trung còn được gọi là gì?
+A	Chiến thắng Kỷ Dậu
+B	Chiến thắng Ất Dậu
+C	Chiến thắng Quý Dậu
+D	Chiến thắng Đinh Dậu
+Câu: 150	Triều đại nào sau đây mà nhà vua không đặt ngôi hoàng hậu?
+A	Nguyễn
+B	Trần
+C	Tây Sơn
+D	Hậu Lê
+Câu: 151	Tướng nào đã được nhà Nguyễn cử đi chống lại quân Pháp ở mặt trận Đà Nẵng năm 1858?
+A	Nguyễn Tri Phương
+B	Tôn Thất Thuyết
+C	Nguyễn Thiệt Thuật
+D	Hoàng Kế Viêm
+Câu: 152	Hiệp ước Nhâm Tuất 1862 mà theo đó nhà Nguyễn cắt 3 tỉnh Nam Kỳ cho Pháp được ký dưới triều vua nào?
+A	Tự Đức
+B	Gia Long
+C	Minh Mạng
+D	Hàm Nghi
+Câu: 153	Vị tướng nào đã chỉ huy quân đội triều đình nhà Nguyễn chống quân Pháp tại trận thành Hà Nội thứ nhất 1873?
+A	Nguyễn Tri Phương
+B	Hoàng Diệu
+C	Nguyễn Trung Trực
+D	Trương Định
+Câu: 154	Ai là người chỉ huy quân đội triều đình nhà Nguyễn chống quân Pháp tại trận thành Hà Nội thứ hai 1882?
+A	Nguyễn Tri Phương
+B	Hoàng Diệu
+C	Nguyễn Trung Trực
+D	Trương Định
+Câu: 155	Vị tướng nào sau đây là thủ lĩnh một phong trào chống Pháp giai đoạn đầu (1859-1864)?
+A	Trương Định
+B	Nguyễn Thiệt Thuật
+C	Phan Đình Phùng
+D	Hoàng Hoa Thám
+Câu: 156	Cuộc khởi nghĩa nào sau đây không phải là một cuộc khởi nghĩa thuộc phong trào Cần Vương?
+A	Khởi nghĩa Yên Thế
+B	Khởi nghĩa Ba Đình
+C	Khởi nghĩa Bãi Sậy
+D	Khởi nghĩa Hương Khê
+Câu: 157	Sau khi bị quân Pháp bắt giữ, vua Hàm Nghi đã bị đày đi đâu?
+A	Algierie
+B	Pháp
+C	Campuchia
+D	Lào
+Câu: 158	Cuộc khởi nghĩa Hương Khê hưởng ứng phong trào Cần Vương cuối thế kỷ thứ 19 được diễn ra ở tỉnh nào sau đây?
+A	Thanh Hóa
+B	Nghệ An
+C	Hà Tĩnh
+D	Hưng Yên
+Câu: 159	Trong truyện ngắn Vi hành, Nguyễn Ái Quốc đã chế giễu vua nhà Nguyễn nào?
+A	Tự Đức
+B	`Đồng Khánh
+C	Khải Định
+D	Bảo Đại
+Câu: 160	Cuộc khởi nghĩa Yên Thế là cuộc khởi nghĩa nông dân chống Pháp diễn ra tại vùng nào? 
+A	Tây Bắc
+B	Đồng bằng sông Hồng
+C	Tây Nguyên
+D	Bắc Trung Bộ
+Câu: 161	Để làm tan rã phong trào Đông Du, thực dân Pháp đã làm gì?
+A	Cấm du học Nhật Bản
+B	Bắt tay với Nhật, cấm học sinh VN
+C	Bắt giữ Phan Bội Châu
+D	Khuyến khích du học Pháp
+Câu: 162	Ông già Bến Ngự là tên gọi khác của chí sĩ yêu nước nào?
+A	Phan Bội Châu
+B	Phan Chu Trinh
+C	Huỳnh Thúc Kháng
+D	Phan Văn Trường
+Câu: 163	Cầu Long Biên ở nước ta được xây dựng dưới thời Toàn quyền Đông Dương nào?
+A	Paul Doumer
+B	Jean Beau
+C	Alexandre Varenne
+D	Klobukowski
+Câu: 164	Trận Hàm Tử Quan trong cuộc kháng chiến chống quân Nguyên do tướng nhà Trần nào chỉ huy?
+A	Trần Khánh Dư
+B	Trần Nhật Duật
+C	Trần Quốc Tuấn
+D	Trần Bình Trọng
+Câu: 165	Vua Chiêm Thành Chế Bồng Nga trong lần mang quân ra đánh Đại Việt đã bị tướng nhà Trần nào giết chêt?
+A	Trần Khánh Dư
+B	Hồ Quý Ly
+C	Trần Khát Chân
+D	Đỗ Tử Bình
+Câu: 166	Đâu là vị vua cuối cùng của nhà Trần?
+A	Trần Thiếu Đế
+B	Trần Phế Đế
+C	Trần Thuận Tông
+D	Trần Nghệ Tông
+Câu: 167	Vị vua cuối cùng của triều đại nhà Hồ trong lịch sử Việt Nam?
+A	Hồ Quý Ly
+B	Hồ Nguyên Trừng
+C	Hồ Hán Thương
+D	Hồ Hán Dân
+Câu: 168	Câu nói"Thần không ngại đánh, chỉ sợ lòng dân có theo hay không theo mà thôi." được nói trước cuộc chiến tranh nào?
+A	Chống quân Nguyên - Mông
+B	Chống quân Tống
+C	Chống quân Minh
+D	Chống quân Thanh
+Câu: 169	Quân Minh đã dùng lý lẽ nào để làm cớ sang xâm lược nước ta 1406?
+A	Phù Trần Diệt Hồ
+B	Giao Chỉ là đất Trung Quốc
+C	Mượn đường đánh Chiêm 
+D	Mượn đường đánh Ai Lao
+Câu: 170	Trận đánh Tốt Động - Chúc Động là trận đánh trong cuộc khởi nghĩa nào?
+A	Chống quân Thanh
+B	Chống quân Minh
+C	Chống quân Tống
+D	Chống quân Đường
+Câu: 171	Khi quân Minh chiếm đóng nước ta, chúng đã đổi tên Thăng Long thành gì?
+A	Đông Đô
+B	Đông Quan
+C	Đông Kinh
+D	Kẻ Chợ
+Câu: 172	Trước khi lên làm vua, Lê Lợi đã tự xưng là gì?
+A	Bình Định Vương
+B	Thái Bình Vương
+C	Bắc Bình Vương
+D	Lam Sơn Vương
+Câu: 173	Sau khi lên ngôi vua, Lê Lợi đã đổi tên Thăng Long thành gì?
+A	Đông Đô
+B	Đông Quan
+C	Đông Kinh
+D	Giữ nguyên
+Câu: 174	Vua Lê Thánh Tông đã ví tâm hồn Ức Trai (Nguyễn Trãi) giống như sao gì?
+A	Sao Hôm
+B	Sao Mai
+C	Sao Khuê
+D	Sao Kim
+Câu: 175	Câu nói "Hiền tài là nguyên khí của quốc gia" được nêu vào triều đại phong kiến nào?
+A	Nhà Nguyễn
+B	Nhà Trần
+C	Nhà Hậu Lê
+D	Nhà Tây Sơn
+Câu: 176	"Nàng về nuôi cái cùng con - Để anh đi trảy nước non Cao Bằng" Câu thơ này đã nói lên sự khổ cực của nhân dân trong cuộc chiến nào?
+A	Nam - Bắc Triều
+B	Đàng Trong - Đàng Ngoài
+C	Chống quân Minh
+D	Chống quân Nguyên
+Câu: 177	Ai đã kế nhiệm Trịnh Kiểm lên làm chúa Trịnh?
+A	Trịnh Giang
+B	Trịnh Tùng 
+C	Trịnh Sâm
+D	Trịnh Tráng
+Câu: 178	Ai là người lập ra nghiệp chúa Nguyễn trong thời kỳ Trịnh Nguyễn phân tranh ở nước ta?
+A	Nguyễn Hoàng
+B	Nguyễn Kim
+C	Nguyễn Phúc Lan
+D	Nguyễn Phúc Ánh
+Câu: 179	Ai là vua đầu tiên của triều Tây Sơn?
+A	Nguyễn Huệ
+B	Nguyễn Nhạc
+C	Nguyễn Lữ
+D	Nguyễn Quang Toản
+Câu: 180	Chúa nào là chúa cuối cùng của dòng chúa Trịnh?
+A	Trịnh Căn
+B	Trịnh Khải
+C	Trịnh Sâm
+D	Trịnh Tùng
+Câu: 181	Người nào sau đây là lãnh tụ của Việt Nam Quang phục Hội?
+A	Phan Bội Châu
+B	Phan Chu Trinh
+C	Cường Để
+D	Nguyễn Thượng Hiền
+Câu: 182	"Chấn dân khí, khai dân trí, hậu dân sinh" là khẩu hiệu của phong trào Duy Tân do ai phát động?
+A	Phan Bội Châu
+B	Phan Chu Trinh
+C	Phan Văn Trường
+D	Nguyễn Thượng Hiền
+Câu: 183	Sau khi giành được độc lập 1945, chính phủ Việt Nam Dân chủ Cộng hòa không gặp phải khó khăn nào sau đây?
+A	Nạn đói
+B	Quân Tưởng xâm chiếm miền Bắc
+C	Quân Pháp trở lại Đông Dương
+D	Mất lòng tin của nhân dân
+Câu: 184	Trước tình hình giặc Tưởng và giặc Pháp cùng xâm chiếm đất nước sau khi giành được độc lập, chính phủ VNDCCH đã làm gì?
+A	Dùng Pháp đuổi Tưởng
+B	Dùng Tưởng đuổi Pháp
+C	Đầu hàng Pháp
+D	Đầu hàng Tưởng
+Câu: 185	Bản hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hòa được thông qua vào năm nào?
+A	1944
+B	1945
+C	1946
+D	1954
+Câu: 186	Bài thơ Hoan hô chiến sĩ Điện Biên là của tác giả nào?
+A	Tố Hữu
+B	Huy Cận
+C	Xuân Diệu
+D	Nguyễn Đình Thi
+Câu: 187	Tướng nào là tổng chỉ huy của quân đội viễn chinh Pháp trong suốt chiến dịch Điện Biên Phủ?
+A	Henri Navarre
+B	Raoul Salan
+C	de Castries
+D	de Gaulle
+Câu: 188	Bộ sử thi Đẻ đất đẻ nước là của dân tộc nào?
+A	Tày 
+B	Mường
+C	Mông
+D	Nùng
+Câu: 189	Viêm Đế là một từ để chỉ vị vua cổ đại nào của Trung Quốc?
+A	Thần Nông
+B	Đế Nghiêu
+C	Đế Thuấn
+D	Hoàng Đế
+Câu: 190	Điểm cực tây của Việt Nam nằm ở huyện nào của tỉnh Điện Biên?
+A	Mường Nhé
+B	Mường Chà
+C	Điện Biên Đông
+D	Mường Lay
+Câu: 191	Dòng sông Lam chảy ra biển Đông qua cửa biển nào?
+A	Cửa Hội
+B	Cửa Việt
+C	Cửa Tùng
+D	Cửa Ba Lạt
+Câu: 192	Nhà thơ Hàn Mặc Tử và nhà thơ Lưu Trọng Lư cùng quê ở tỉnh nào?
+A	Huế
+B	Quảng Bình
+C	Quảng Nam
+D	Nghệ An
+Câu: 193	Chùa Thiên Mụ (Huế ) được xây dụng dưới thời chúa Nguyễn nào?
+A	Nguyễn Hoàng
+B	Nguyễn Phúc Nguyên
+C	Nguyễn Phúc Lan
+D	Nguyễn Phúc Tần
+Câu: 194	Tỉnh nào không thuộc vùng duyên hải Nam Trung Bộ (Theo từ điển Bách Khoa toàn thư Việt Nam)?
+A	Bình Thuận
+B	Ninh Thuận
+C	Phú Yên
+D	Tây Ninh
+Câu: 195	Địa danh nào sau đây không thuộc thành phố Đà Nẵng?
+A	Bà Nà - Núi Chúa
+B	Đèo Hải Vân
+C	Ngũ Hành Sơn
+D	Thác bảy tầng 
+Câu: 196	Thành phố nào của Việt Nam là thành phố kết nghĩa với thành phố Đà Nẵng?
+A	Hà Nội
+B	Sài Gòn
+C	Hải Phòng
+D	Cần Thơ
+Câu: 197	Hầm đường bộ Đèo Hải Vân nối liền hai tỉnh thành nào ở miền trung Việt Nam?
+A	Huế- Đà Nẵng
+B	Đà Nẵng- Quảng Nam
+C	Huế- Quảng Nam
+D	Quảng Nam - Quảng Ngãi
+Câu: 198	Hãy cho biết tỉnh lị của tỉnh Quảng Nam?
+A	TP Tam Kỳ
+B	TP Hội An
+C	TP Đông Hà
+D	TP Phan Thiết
+Câu: 199	Nhà máy lọc dầu Dung Quất được đặt tại tỉnh nào của Việt Nam?
+A	Quảng Ngãi
+B	Ninh Thuận
+C	Bình Thuận
+D	Phú Yên
+Câu: 200	Thuật ngữ "Núi Ấn sông Trà " dùng để chỉ tỉnh nào ở miền Trung Việt Nam?  
+A	Quảng Nam
+B	Quảng Ngãi
+C	Quảng Bình
+D	Quảng Trị
+Câu: 201	Phố cổ Hội An được UNESCO công nhận là di sản văn hóa thế giới vào năm nào?
+A	1994
+B	1999
+C	2000
+D	2003
+Câu: 202	Tỉnh Phú Yên không giáp với tỉnh nào sau đây?
+A	Đăk Lăk
+B	Gia Lai
+C	Bình Định
+D	Bình Thuận
+Câu: 203	Khu vực Tây Nguyên gồm bao nhiêu tỉnh?
+A	4
+B	5
+C	6
+D	7
+Câu: 204	Biển số xe của tỉnh Bà Rịa - Vũng Tàu có 2 chữ số đầu là bao nhiêu?
+A	70
+B	71
+C	72
+D	69
+Câu: 205	Quê hương của anh hùng Võ Thị Sáu là ở tỉnh nào?
+A	Tiền Giang
+B	Hậu Giang
+C	Bà Rịa - Vũng Tàu
+D	Đông Nai
+Câu: 206	Việt Nam là thành viên thứ mấy gia nhập ASEAN?
+A	thứ 6
+B	thứ 7
+C	thứ 2
+D	thứ 8
+Câu: 207	Ca sĩ Robbie William từng là thành viên của ban nhạc nào?
+A	Boyzone
+B	Take That
+C	Micheal Learn to Rock
+D	The Beatles
+Câu: 208	Hàm lượng Các bon trong Thép là khoảng bao nhiêu phần trăm?
+A	0 - 1%
+B	0 - 1.5%
+C	0- 0.5%
+D	0- 2%
+Câu: 209	Kim loại có nhiều nhất trong vỏ trái đất?
+A	Sắt
+B	Nhôm
+C	Đồng
+D	Bạc
+Câu: 210	Nguyên tố nào có giá đắt nhất?
+A	Urani
+B	Vàng
+C	Bạch Kim
+D	Californi
+Câu: 211	Hồng ngọc có cấu tạo như thế nào?
+A	Nguyên tố Rubi
+B	Oxit nhôm có crom
+C	Oxit sắt liên kết với Rubi
+D	Oxit Crom có Sắt
+Câu: 212	Hạt nào sau đây không phải là hạt bền?
+A	Proton
+B	Neutron
+C	Electron
+D	Nơtrino
+Câu: 213	Tia alpha gồm những hạt anpha sẽ bị lệch về?
+A	Cực âm của điện trường
+B	Cực âm của từ trường
+C	Cực dương của điện trường
+D	Cực dương của từ trường
+Câu: 214	Hạt alpha được cấu tạo bởi các hạt nào?
+A	3 neutron và 3proton
+B	2 proton và 2 neutron
+C	3 neutron và 2 proton
+D	3 proton và 2 neutron
+Câu: 215	Hạt nào không phải là sản phẩm của phân rã beta?
+A	Neutron
+B	Electron
+C	electron antineutrino
+D	Proton
+Câu: 216	Phiên bản Linux đầu tiên được viết bởi người nước nào?
+A	Mỹ
+B	Thụy Điển
+C	Phần Lan
+D	Thụy Sỹ
+Câu: 217	Hệ điều hành Microsoft Windows được ra mắt đầu tiên vào năm nào?
+A	1980
+B	1985
+C	1990
+D	1995
+Câu: 218	Trụ sở của Apple đặt tại bang nào?
+A	New York
+B	Washington
+C	Illinois
+D	California
+Câu: 219	Thung lũng Silicon đặt tại bang nào?
+A	California
+B	New York
+C	New Jersey
+D	Hawaii
+Câu: 220	Công ty nào sau đây không nằm trong thung lũng Silicon, Hoa Kỳ?
+A	Electronic Art
+B	Google
+C	Apple
+D	Microsoft
+Câu: 221	Tên niêm yết trên thị trường NASDAG của Microsoft?
+A	MICS
+B	MICR
+C	MSFT
+D	MSOF
+Câu: 222	Trường đại học có trụ sở tại thung lũng Silicon Hoa Kỳ ?
+A	Stanford
+B	California
+C	Havard
+D	MIT
+Câu: 223	Nhiệt độ không tuyệt đối là trạng thái nhiệt động học lý tưởng của vật chất, trong đó mọi chuyển động nhiệt đều ngừng. Hãy cho biết độ không tuyệt đối có nhiệt độ là bao nhiêu?
+A	-100 độ C
+B	-175 độ C
+C	-173 độ C
+D	-273 độ C
+Câu: 224	Chất nào sau đây có năng suất tỏa nhiệt lớn nhất?
+A	Than
+B	Hidro
+C	Metan
+D	Êtan
+Câu: 225	Vật liệu nào sau đây dẫn điện tốt nhất?
+A	Bạc 
+B	Vàng
+C	Nhôm 
+D	Sắt
+Câu: 226	Hạt Proton được cấu tạo bởi những hạt quắc nào?
+A	u-u-d
+B	u-s-d
+C	u-d-d
+D	s-u-u
+Câu: 227	Trong lĩnh vực âm nhạc, khi một nghệ sĩ hay ban nhạc bán được 1 đĩa bạch kim tức là họ bán được bao nhiêu đĩa?
+A	1 triệu
+B	20 triệu
+C	100 triệu
+D	50 triệu
+Câu: 228	Nhạc sĩ Mozart sống ở thế kỷ nào?
+A	17
+B	16
+C	18
+D	19
+Câu: 229	Bài ca chính thức của Liên Minh Châu Âu được lấy từ chương thứ tư của bản giao hưởng số mấy của Beethoven?
+A	Giao hưởng số 5
+B	Giao hưởng số 6
+C	Giao hưởng số 7
+D	Giao hưởng số 9
+Câu: 230	Liên hoan phim lâu đời nhất thế giới?
+A	LHP Moscow
+B	LHP Venezia
+C	LHP Berlin
+D	LHP Cannes
+Câu: 231	Bộ phim nào sau đây không nằm trong nhóm những bộ phim được trao nhiều giải Orcar nhất mọi thời đại ( 11 giải)?
+A	Titanic
+B	Sự trở lại của nhà vua
+C	Ben - Hur
+D	Cuốn theo chiều gió
+Câu: 232	Phim Triệu phú khu ổ chuột được trao 8 giải Orcar nhưng không giành được giải nào sau đây?
+A	Phim xuất sắc nhất
+B	Đạo diễn xuất sắc nhất
+C	Kịch bản chuyển thể hay nhất
+D	Nam diễn viên chính xuất sắc nhất
+Câu: 233	Nội dung của bộ phim Cuốn theo chiều gió dựa trên bối cảnh nước Mỹ đang trong hoàn cảnh nào?
+A	Nội chiến Mỹ và thời kì tái thiết
+B	Thế chiến thứ nhất
+C	Thế chiến thứ hai
+D	Giữa hai cuộc chiến tranh thế giới
+Câu: 234	Thông thường liên hoan phim Việt Nam được tổ chức mấy năm một lần?
+A	Hai năm
+B	Ba năm 
+C	Bốn năm
+D	Năm năm
+Câu: 235	Vua hề Sác Lô (Charles Spencer Chaplin) là diễn viên, đạo diễn phim hài người nước nào?
+A	Anh
+B	Pháp 
+C	Đức
+D	Tây Ban Nha
+Câu: 236	Vai chính Dịu trong phim Vĩ tuyên 17 ngày và đêm của đạo diễn Hải Ninh do ai thể hiện?
+A	Trà Giang
+B	Lan Hương
+C	Thu An
+D	Thụy Vân
+Câu: 237	Đạo diễn bộ phim Vĩ tuyến 17 ngày và đêm (1972 )?
+A	Huy Thành
+B	Hải Ninh
+C	Trần Vũ
+D	Hồng Sến
+Câu: 238	Diễn viên nào sau đây không tham gia bộ phim Em bé Hà Nội của đạo diễn Hải Ninh?
+A	Trà Giang
+B	Thế Anh
+C	Lan Hương
+D	Thụy Vân
+Câu: 239	Phim nào sau đây không có sự góp mặt của diễn viên NSND Trà Giang?
+A	Chị Tư Hậu
+B	Vĩ tuyến 17 ngày và đêm
+C	Em bé Hà Nội
+D	Người chiến sĩ trẻ
+Câu: 240	Tác phẩm nào được coi là cuốn tiểu thuyết hiện đại đầu tiên của Việt Nam?
+A	Thầy Lazarô Phiền
+B	Tố Tâm
+C	Hồn bướm mơ tiên
+D	Gánh hàng hoa
+Câu: 241	Trong các nhân vật sau đây, nhân vật nào không có trong các tác phẩm của Victor Hugo?
+A	Nàng Côdet
+B	Thanh tra Giave
+C	Thằng gù Quasimodo
+D	Chàng Raphaël de Valentin 
+Câu: 242	Nhân vật chính trong tiểu thuyết Không gia đình của Hector Malot là ai?
+A	Chú bé Rêmi
+B	Chú bé Matchia
+C	Bà Milligan
+D	Vitalis
+Câu: 243	Chiến tranh và hòa bình là bộ tiểu thuyết nói về cuộc chiến tranh nào?
+A	Thế chiến I
+B	Thế chiến II
+C	Chiến trang Nga- Nhật
+D	Chiến tranh Nga - Pháp
+Câu: 244	Cuộc chiến tranh giữa Israel và các nước Ả Rập lấng giềng năm 1967 được gọi là?
+A	Chiến tranh sáu ngày
+B	Chiến tranh năm ngày
+C	Chiến tranh mười ngày
+D	Chiến tranh bốn ngày
+Câu: 245	Từ " Hồi giáo" hay "Islam" trong tiếng Ả Rập có nghĩa là gì?
+A	Vâng mệnh thượng đế
+B	Kinh Koran
+C	Ăn chay
+D	Đấng tối cao duy nhất
+Câu: 246	Người Hồi giáo hàng năm phải thực hiện tháng ăn chay để?
+A	Tưởng nhớ và thương xót người nghèo
+B	Giảm chi phí cuộc sống
+C	Không sát sinh
+D	Tâm hồn trong sạch
+Câu: 247	Tại sao người Hồi giáo không được ăn thịt con lợn?
+A	Vì không muốn sát sinh
+B	Vì thịt lợn đắt
+C	Vì lợn là con vật bẩn thỉu
+D	Vì lợn được coi là một vị thần linh
+Câu: 248	Đẳng cấp cao nhất trong xã hội Ấn Độ thời xưa thuộc hạng người nào?
+A	Bà-la-môn
+B	Sát-đế-ly
+C	Vệ-xa
+D	Thu-Đà-La
+Câu: 249	Giáo hoàng Bênêđictô XVI (trị vì từ năm 2005 ) là người nước nào?
+A	Đức
+B	Anh 
+C	Pháp
+D	Ý
+Câu: 250	Dòng tranh Thủy Mặc của Trung Quốc có nguồn gốc xuất phát từ tôn giáo nào?
+A	Đạo giáo
+B	Phật Giáo
+C	Nho Giáo
+D	Mặc Giáo
+Câu: 251	Tổ chức Y tế thế giới WHO có trụ sở tại thành phố nào?
+A	New York
+B	Geneva
+C	Bắc Kinh
+D	Tokyo
+Câu: 252	Chữ M trong tên của Quỹ tiền tệ quốc tế IMF có nghĩa là gì?
+A	Money
+B	Monetary
+C	Main
+D	Mother
+Câu: 253	Hồ Victoria là hồ nước ngọt lớn thứ hai trên thế giới về diện tích bề mặt. Hồ này nằm ở châu lục nào?
+A	Châu Á
+B	Châu Mỹ
+C	Châu Phi
+D	Châu Âu
+Câu: 254	Hồ sâu nhất thế giới nằm ở quốc gia nào?
+A	Mỹ
+B	Canada
+C	Ai Cập
+D	Nga
+Câu: 255	Lĩnh vực nào không nằm trong lĩnh vực trao giải của giải thưởng Nobel?
+A	Vật lý
+B	Hóa học
+C	Toán học
+D	Y học
+Câu: 256	Giải thưởng Nobel Hòa bình được trao hàng năm ở quốc gia nào?
+A	Nauy
+B	Thụy Điển
+C	Phần Lan
+D	Đan Mạch
+Câu: 257	Trong tiếng Nhật, từ "kami" mà tạo lên từ "origami" nghĩa là gì?
+A	Gấp
+B	Cắt
+C	Giấy
+D	Bìa
+Câu: 258	Hades, Pluto , Osiris đều là các vị thần nào trong các câu chuyện thần thoại?
+A	Thần mặt trời
+B	Thần biển cả 
+C	Thần mặt trăng
+D	Thần diêm vương
+Câu: 259	Thần Apollo trong thần thoại Hy Lạp là vị thần nào?
+A	Thần ánh sáng
+B	Thần biển cả
+C	Thần nông
+D	Thần mặt trời
+Câu: 260	Người đẹp Ngô Phương Lan, hoa hậu Thế giới người Việt 2007 với tư cách hoa hậu đến từ?
+A	Nhật Bản
+B	Các quốc gia SNG
+C	Mỹ
+D	Thụy Sỹ
+Câu: 261	Sự kiện nào mở đầu cuộc chiến tranh thế giới lần thứ nhất ?
+A	Hoàng tử Áo - Hung bị ám sát
+B	Hoàng đế Đức xua quân đánh Pháp, Bỉ
+C	Đức tấn công Pháp tại Verdun
+D	Anh - Pháp đánh Đức tại sông Somme
+Câu: 262	Nước nào là nước có diện tích lớn nhất trong Liên minh Châu Âu?
+A	Anh
+B	Pháp
+C	Tây Ban Nha
+D	Nga
+Câu: 263	Vương triều 100 ngày của Napoléon đã bị sụp đổ sau thất bại nào?
+A	Trận Waterloo
+B	Trận Austerlitz
+C	Trận Moskva
+D	Trận Ai Cập
+Câu: 264	Pharaon, từ dùng để chỉ các vị vua Ai Cập cổ đại, có nghĩa là gì?
+A	Ngôi nhà lớn
+B	Dòng sông lớn
+C	Cung điện lớn
+D	Vị vua vĩ đại
+Câu: 265	Tổng thống nào của Hoa Kỳ đã phát động chiến tranh vùng vịnh chống lại Iraq?
+A	George H. W. Bush (cha)
+B	George W. Bush (con)
+C	Ronald Reagan
+D	Bill Clinton
+Câu: 266	Theo quy định quốc tế, các võ sĩ Judo từ 9 đẳng đến 10 đẳng thì mang đai màu gì?
+A	Trắng
+B	Nâu
+C	Đỏ 
+D	Đen
+Câu: 267	Võ phục Vovinam trên toàn thế giới dùng thống nhất màu nào hiện nay?
+A	Đen
+B	Đỏ
+C	Xanh lam
+D	Tím
+Câu: 268	Loại đai cao nhất của môn võ Vovinam là loại đai nào?
+A	Hồng đai
+B	Hoàng đai
+C	Bạch đai
+D	Huyền đai
+Câu: 269	Đối với môn võ Vovinam hiện nay, màu đai đỏ là biểu hiện của cái gì?
+A	Máu
+B	Lửa
+C	Màu cờ tổ quốc
+D	Mặt trời
+Câu: 270	Đại hội thể thao Đông Nam Á lần đầu tiên được tổ chức tại đâu?
+A	Thái Lan
+B	Việt Nam
+C	Lào
+D	Miến Điện
+Câu: 271	Chiếc cúp "Nữ thần chiến thắng" duy nhất được FIFA trao tặng cho Brasil sau lần thứ ba vô địch thế giới của họ vào năm nào?
+A	1962
+B	1970
+C	1974
+D	1994
+Câu: 272	Đội bóng nào về nhì tại World cup 1998 tại Pháp?
+A	Pháp
+B	Italia
+C	Brasil
+D	Đức
+Câu: 273	"YOU'LL NEVER WALK ALONE" là khẩu hiệu của đội bóng nào của nước Anh?
+A	Manchester United
+B	Liverpool
+C	Chelsea
+D	Manchester City
+Câu: 274	Trận chung kết Champions Leauge mùa giải 1998-1999 giữa Manchester United và Bayern Munich được đá trên sân nào?
+A	Nou Camp
+B	Old Trafford
+C	Santiago Bernabéu
+D	San Siro
+Câu: 275	Cầu thủ nào đã ghi bàn thắng quyết định trong trận chung kết cúp C1 châu Âu 1998-1999 giữa MU và Bayern Munich? 
+A	Ole Gunnar Solskjær
+B	Teddy Sheringham 
+C	Paul Scholes
+D	David Beckham
+Câu: 276	Vị vua nào đã đổi tên nước ta là Đại Việt?
+A	Lý Thái Tổ
+B	Lý Thánh Tông
+C	Trần Thái Tông
+D	Trần Nhân Tông
+Câu: 277	Hai câu thơ "Hùng cứ châu Hoan đất một vùng - Vạn An thành lũy khói hương xông " đã nhắc đến vị vua nào?
+A	Lý Nam Đế 
+B	Triệu Việt Vương
+C	Mai Hắc Đế
+D	Ngô Quyền
+Câu: 278	Trong thời kỳ loạn 12 sứ quân, lực lượng sứ quân nào đã hợp nhất với sứ quân Đinh Bộ Lĩnh?
+A	Nguyễn Siêu
+B	Trần Lãm
+C	Ngô Nhật Khánh
+D	Kiều Công Hãn
+Câu: 279	Vị vua nào còn được gọi là Vạn Thắng Vương?
+A	Đinh Tiên Hoàng
+B	Ngô Quyền
+C	Lê Thái Tổ
+D	Lê Đại Hành
+Câu: 280	Triều đại phong kiến nào là triều đại đầu tiên cho đúc tiền ở Việt Nam?
+A	Lý
+B	Đinh
+C	Trần
+D	Tiền Lê
+Câu: 281	Bài thơ Quốc tộ (Vận nước ) của thiền sư Pháp Thuận được viết vào thời nào?
+A	Đinh
+B	Tiền Lê
+C	Trần
+D	Hậu Lê
+Câu: 282	Quốc tử giám tại kinh thành Thăng Long được lập vào thời vua nào?
+A	Lý Thánh Tông
+B	Lý Nhân Tông
+C	Trần Thái Tông
+D	Trần Anh Tông
+Câu: 283	Chu Văn An đã dâng "Thất trảm sớ" xin chém bảy tên nịnh thần lên vua nào?
+A	Trần Dụ Tông
+B	Trần Anh Tông
+C	Trần Thái Tông
+D	Trần Nhân Tông
+Câu: 284	Địa danh Chương Dương Độ trong cuộc chiến chống Nguyên Mông nay thuộc tỉnh thành nào?
+A	Hưng Yên
+B	Việt Trì
+C	Hải Dương
+D	Hà Nội
+Câu: 285	Tướng nào đã chỉ huy quân đội nhà Trần đánh quân Nguyên trong trận Chương Dương 1285?
+A	Trần Quang Khải
+B	Trần Khánh Dư
+C	Trần Quốc Tuấn
+D	Trần Quốc Toản
+Câu: 286	Vị tướng nhà Trần nào sau đây là tác giả của bài Thuật Hoài với câu đầu "Hoành sóc giang sơn kháp kỉ thu "?
+A	Dã Tượng
+B	Yết Kiêu
+C	Phạm Ngũ Lão
+D	Trần Bình Trọng
+Câu: 287	"Ninh Kiều máu chảy thành sông, tanh hôi vạn dặm " Câu thơ trên đã nhắc đến trận đánh nào trong cuộc khởi nghĩa Lam Sơn?
+A	Tốt Động - Chúc Động
+B	Giải phóng Nghệ An
+C	Chi Lăng - Xương Giang
+D	Ngọc Hồi - Đống Đa
+Câu: 288	UNESCO đã công nhận Nguyễn Trãi là Danh nhân văn hóa thế giới vào năm nào?
+A	1980
+B	1990
+C	1985
+D	1995
+Câu: 289	Tác phẩm nào sau đây không phải là của Lê Quý Đôn?
+A	Đại thành Toán pháp
+B	Hỷ phường Phổ lục
+C	Thiền môn Khoa giáo
+D	Văn minh cổ xúy
+Câu: 290	Nhà du hành Marco Polo là người nước nào?
+A	Ý
+B	Pháp 
+C	Bồ Đào Nha
+D	Tây Ban Nha
+Câu: 291	Thực dân Pháp đã bắt đầu nổ súng xâm lược nước ta năm nào?
+A	1858
+B	1868
+C	1878
+D	1884
+Câu: 292	Chí sĩ yêu nước nào sau đây còn được gọi là Ông nghè Liên Bạt?
+A	Nguyễn Thượng Hiền
+B	Phan Bội Châu
+C	Phan Chu Trinh
+D	Huỳnh Thúc Kháng
+Câu: 293	Địa danh Bắc Sơn, nơi xảy ra cuộc khởi nghĩa Bắc Sơn chống lại Pháp và Nhật năm 1940 nay thuộc tỉnh nào?
+A	Cao Bằng
+B	Hà Giang
+C	Lạng Sơn
+D	Lào Cai
+Câu: 294	Ranh giới lãnh hải của Việt Nam là bao nhiêu hải lý?
+A	6 hải lý
+B	10 hải lý
+C	12 hải lý
+D	15 hải lý
+Câu: 295	Vùng đặc quyền kinh tế biển ở Việt Nam là bao nhiêu hải lý?
+A	100
+B	200
+C	250
+D	300
+Câu: 296	Sông Hồng bắt nguồn từ tỉnh nào của Trung Quốc?
+A	Vân Nam
+B	Quảng Đông
+C	Quảng Tây
+D	Phúc Kiến
+Câu: 297	Hồ Thác Bà thuộc tỉnh nào?
+A	Bắc Kạn
+B	Thái Nguyên
+C	Tuyên Quang
+D	Yên Bái
+Câu: 298	Hồ Chí Minh là một trong những người thành lập đảng nào ở Pháp?
+A	Đảng cộng sản Pháp
+B	Đảng dân chủ Pháp
+C	Đảng xã hội Pháp
+D	Đảng tự do Pháp
+Câu: 299	Chủ tịch Hồ Chí Minh đã viết bản tuyên ngôn độc lập tại đâu?
+A	48 - Hàng Ngang
+B	48 Hàng Đào
+C	32 Hàng Ngang
+D	32 Hàng Đào
+Câu: 300	Chủ tịch Hồ Chí Minh đã ra đi tìm đường cứu nước vào năm nào?
+A	1910
+B	1908
+C	1913
+D	1911
+Câu: 301	Tên mà Hồ Chủ Tịch sử dụng trong thời  gian làm việc trên tàu Đô đốc Latouche Tréville?
+A	Nguyễn Văn Ba
+B	Nguyễn Văn Hai
+C	Nguyễn Ái Quốc
+D	Tống Văn Sơ
+Câu: 302	"Tên của Hồ Chủ Tịch trong thời gian ở Hồng Kông?"
+A	Lý Thụy
+B	Tống Văn Sơ
+C	Nguyễn Ái Quốc
+D	Nguyễn Văn Ba
+Câu: 303	Thân phụ của chủ tịch Hồ Chí Minh?
+A	Nguyễn Sinh Sắc
+B	Phan Châu Trinh
+C	Phan Bội Châu
+D	Phan Đình Phùng
+Câu: 304	" Không có gì quý hơn độc lập tự do" Câu nói này được Bác lần đầu tiên phát biểu năm bao nhiêu?
+A	1964
+B	1966
+C	1959
+D	1950
+Câu: 305	Bác Hồ trở lại Tổ Quốc sau ba mươi năm bôn ba hải ngoại trên vùng đất nào?
+A	Lạng Sơn
+B	Quảng Ninh
+C	Lào Cai
+D	Cao Bằng
+Câu: 306	Lê Lợi sinh ra ở thế kỷ nào ?
+A	Thế kỷ 13
+B	Thế kỷ 14
+C	Thế kỷ 15
+D	Thế kỷ 16
+Câu: 307	Bài hát Như có Bác trong ngày vui đại thắng là của nhạc sĩ nào?
+A	Lưu Hữu Phước
+B	Phạm Tuyên
+C	Phan Huỳnh Điểu
+D	Hoàng Hiệp
+Câu: 308	Triều đại nào ở Trung Quốc khi còn cai trị nước ta đã đặt nước ta là An Nam Đô Hộ Phủ?
+A	Hán 
+B	Đường
+C	Tống 
+D	Nguyên
+Câu: 309	Vua nào đã đổi tên nước ta thành Đại Cồ Việt?
+A	Đinh Bộ Lĩnh
+B	Lý Công Uẩn
+C	Ngô Quyền
+D	Quang Trung
+Câu: 310	Cuộc khởi nghĩa Hai bà Trưng được khởi đầu vào năm nào?
+A	40 TCN
+B	30 TCN
+C	40 SCN
+D	30 SCN
+Câu: 311	Hai Bà Trưng có quê ở huyện nào?
+A	Mê Linh
+B	Đan Phượng
+C	Từ Liêm
+D	Phúc Thọ
+Câu: 312	Tên thái thú nào sau đây đã bị Hai Bà Trưng đánh bại trong cuộc khởi nghĩa Hai Bà Trưng?
+A	Tô Định
+B	Thoát Hoan
+C	Sầm Nghi Đống
+D	Triệu Đà
+Câu: 313	Tên tướng nào đã được vua Hán cử sang nước ta để đánh Trưng Vương?
+A	Mã Viện
+B	Mã Đằng
+C	Mã Siêu
+D	Mã Giám Sinh
+Câu: 314	Hai Bà Trưng đã nhảy xuống dòng sông nào để tự vẫn bảo toàn danh tiết?
+A	Sông Hát
+B	Sông Luộc
+C	Sông Cầu
+D	Sông Bạch Đằng
+Câu: 315	Thi Sách là chồng của nhân vật lịch sử nào sau đây?
+A	Trưng Trắc
+B	Trưng Nhị
+C	Ngọc Hân công chúa
+D	Nữ tướng Lê Chân
+Câu: 316	Ai là người thực tế đã có công sáng lập và lãnh đạo đất nước trong những năm đầu triều Trần?
+A	Trần Thủ Độ
+B	Trần Cảnh
+C	Trần Thừa
+D	Trần Quốc Tuấn
+Câu: 317	Triều đại nhà Lý tồn tại khoảng bao nhiêu năm?
+A	100 năm
+B	200 năm 
+C	300 năm
+D	400 năm
+Câu: 318	Quốc gia nào sau đây chưa bao giờ nằm trong Đế chế Mông Cổ?
+A	Trung Quốc
+B	Triều Tiên
+C	Việt Nam
+D	Ba Tư
+Câu: 319	Trong chiến tranh xâm lược Đại Việt lần thứ ba của quân Nguyên, tướng Ô Mã Nhi đã bị bắt trong trận đánh trên sông nào?
+A	Bạch Đằng
+B	Như Nguyệt
+C	Sông Đuống
+D	Sông Nhị Hà (sông Hồng)
+Câu: 320	Yết Kiêu - tướng dưới quyền của Hưng Đạo Vương có biệt tài đánh giặc như thế nào?
+A	Thủy chiến
+B	Đánh trên bộ
+C	Đánh kỵ binh
+D	Đánh lén
+Câu: 321	Bộ luật đầu tiên ở nước ta ra đời vào triều đại nào?
+A	Lý
+B	Trần
+C	Tiền Lê
+D	Hậu Lê
+Câu: 322	Ai là vị vua đầu tiên của triều đại nhà Hồ trong lịch sử phong kiến Việt Nam?
+A	Hồ Nguyên Trừng
+B	Hồ Hán Thương
+C	Hồ Quý Ly
+D	Hồ Cẩm Đào
+Câu: 323	Triều đại nhà Hồ trong lịch sử Việt Nam có mấy đời vua?
+A	1
+B	2
+C	3
+D	4
+Câu: 324	Ai là người đầu tiên phát hành tiền giấy trong lịch sử Việt Nam?
+A	Hồ Quý Ly
+B	Trần Thái Tông
+C	Vua Nguyễn Ánh
+D	Vua Nguyễn Huệ
+Câu: 325	Hồ Nguyên Trừng, con trai của Hồ Quý Ly, có tài gì nổi bật mà được vua Minh trọng dụng?
+A	Chế tạo súng
+B	Cưỡi ngữa
+C	Bơi thuyền
+D	Bắn cung
+Câu: 326	Các truyền thuyết " Thu phục voi trắng một ngà" và " Giả đá biết nói" nói về vị tướng nào trong lịch sử?
+A	Hai bà Trưng
+B	Trần Quốc Tuấn
+C	Bà Triệu
+D	Lê Hoàn
+Câu: 327	Cuộc khởi nghĩa của Lý Nam Đế là chống lại triều đại nào bên Trung Quốc đô hộ nước ta?
+A	Nhà Tấn
+B	Nhà Hán 
+C	Nhà Đường
+D	Nhà Lương
+Câu: 328	Nguyên nhân của việc Trần Liễu, cha của Trần Quốc Tuấn, có thù với vua Trần Cảnh?
+A	Do bị vua Trần lấy mất vợ
+B	Do không được trọng dụng
+C	Do bị vua Trần lấy mất con
+D	Do vua Trần là tên hôn quân
+Câu: 329	Sau khi làm phản không thành công, Trần Liễu bị Trần Thủ Độ chém. Vua Trần Cảnh đã làm gì?
+A	Vua lấy thân mình che chở cho Liễu
+B	Vua ra lệnh tha chết cho Liễu
+C	Không làm gì cả
+D	Đích thân vua chém Liễu
+Câu: 330	Viên tướng nhà Minh Liễu Thăng khi mang quân sang xâm lược nước ta đã bị giết chết trong trận nào?
+A	Trận Chi Lăng
+B	Trận Xương Giang
+C	Trận Tây Kết
+D	Trận Tốt Động - Chúc Động
+Câu: 331	Tác phẩm Bình Ngô đại cáo được viết sau thắng lợi của cuộc khởi nghĩa nào sau đây?
+A	Chống quân Minh xâm lược
+B	Chống quân Thanh xâm lược
+C	Chống quân Tống xâm lược
+D	Chống quân Hán xâm lược
+Câu: 332	Điền tên của hai tướng nhà Nguyên vào câu sau "Cửa Hàm Tử bắt sống ...... - Sông Bạch Đằng giết tươi ........."?
+A	Toa Đô - Ô Mã
+B	Ô Mã - Toa Đô
+C	Liễu Thăng - Toa Đô
+D	Ô Mã - Liễu Thăng
+Câu: 333	Theo Bình Ngô Đại Cáo, Việc nhân nghĩa cốt ở đâu?
+A	Yên dân
+B	Vương quyền
+C	Trung thành
+D	Chủ quyền
+Câu: 334	Tướng quân nào đã liều mình cứu chúa Lê Lợi, ghi danh sử sách?
+A	Lê Lai
+B	Lê Trực
+C	Lê Sát
+D	Trần Nguyên Hãn
+Câu: 335	Sau khi bị tru di tam tộc, Nguyễn Trãi đã được vua nào nhà Lê hồi phục danh dự ?
+A	Lê Thánh Tông
+B	Lê Thái Tông
+C	Lê Nhân Tông 
+D	Lê Túc Tông
+Câu: 336	Tập thơ Ức Trai thi tập là của tác giả nào sau đây?
+A	Nguyễn Bỉnh Khiêm
+B	Nguyễn Trãi
+C	Nguyễn Du
+D	Nguyễn Khuyến
+Câu: 337	Tập thơ Quốc âm thi tập của Nguyễn Trãi được viết bằng chữ nào?
+A	Chữ Hán
+B	Chữ Nôm
+C	Chữ Quốc ngữ
+D	Chữ Champa
+Câu: 338	Vụ án Lệ Chi Viên tai tiếng trong lịch sử còn được gọi là vụ án gì?
+A	Vụ án vườn vải
+B	Vụ án vườn cam
+C	Vụ án vườn nho
+D	Vụ án vườn dâu
+Câu: 339	Việc lập bia Tiến sĩ tại Văn Miếu Quốc Tử Giám được khởi xướng vào triều đại nào?
+A	Hậu Lê
+B	Nguyễn
+C	Tây Sơn
+D	Mạc
+Câu: 340	Nước nào sau đây không nằm trong danh sách các nước chư hầu có nghĩa vụ cống phẩm cho Đại Việt thời vua Lê Thánh Tông?
+A	Chiêm Thành
+B	Đại Minh(Trung Quốc)
+C	Chiang Mai
+D	Java
+Câu: 341	Vị học giả nào sau đây không phục vụ dưới triều vua Lê Thánh Tông?
+A	Lương Thế Vinh
+B	Ngô Sĩ Liên
+C	Nguyễn Trãi
+D	Phan Phu Tiên
+Câu: 342	Hồng Đức là niên hiệu của vị vua nào trong lịch sử Việt Nam?
+A	Lê Thái Tông
+B	Trần Nhân Tông
+C	Lý Thánh Tông
+D	Lê Thánh Tông
+Câu: 343	Vị vua nào sau đây đã lập ra hội Tao Đàn - tập hợp các vì tinh tú trong bầu trời thơ ca Đại Việt?
+A	Lê Thánh Tông
+B	Hồ Quý Ly
+C	Quang Trung
+D	Trần Nhân Tông
+Câu: 344	Bộ quốc triều hình luật thời Lê Sơ còn được gọi là bộ luật gì?
+A	Hồng Đức
+B	Hình Thư
+C	Quốc Luật
+D	Hình Văn
+Câu: 345	Vua nào của nhà Lê Sơ còn được gọi  là vua Quỷ?
+A	Lê Hiến Tông
+B	Lê Chiêu Tông
+C	Lê Uy Mục
+D	Lê Tương Dực
+Câu: 346	Vua Tương Dực của nhà Lê Sơ còn được gọi là vua gì?
+A	Vua lợn
+B	Vua dê
+C	Vua gà
+D	Vua quạ
+Câu: 347	Trong thời Lê - Mạc phân tranh, nhà Mạc còn được gọi là?
+A	Nam Triều
+B	Bắc Triều
+C	Đông Triều
+D	Tây Triều
+Câu: 348	Vi vua đầu tiên của nhà Mạc trong lịch sử các triều đại phong kiến Việt Nam?
+A	Mạc Đăng Dung
+B	Mạc Đăng Doanh
+C	Mạc Phúc Hải
+D	Mạc Mậu Hợp
+Câu: 349	Vua nào thời Lê Trung Hưng đã sang cầu cứu nhà Thanh mang quân sang Đại Việt?
+A	Lê Chiêu Thống
+B	Lê Thuần Tông
+C	Lê Dụ Tông
+D	Lê Gia Tông
+Câu: 350	Người nào sau đây không phải là một tướng của nghĩa quân Tây Sơn?
+A	Nguyễn Huệ
+B	Nguyễn Lữ
+C	Nguyễn Nhạc
+D	Nguyễn Ánh
+Câu: 351	Trận Rạch Gầm - Xoài Mút là trận đánh giữa quân Tây Sơn và quân của nước nào?
+A	Chân Lạp
+B	Ai Lao
+C	Đại Thanh
+D	Xiêm La
+Câu: 352	Sự nắm quyền của họ Trịnh bị lật đổ bởi lực lượng nào?
+A	Chúa Nguyễn
+B	Quân Thanh
+C	Nhà Lê
+D	Quân Tây Sơn
+Câu: 353	Vua nào nhà Thanh đã cử đại quân sang xâm lược nước ta?
+A	Càn Long
+B	Ung Chính
+C	Khang Hy
+D	Quang Tự
+Câu: 354	Tôn Sĩ Nghị, kẻ đã mang quân xâm lược nước ta, là tướng của triều đại nào bên Trung Quốc?
+A	Thanh
+B	Minh
+C	Tống
+D	Nguyên
+Câu: 355	Câu nào sau đây không có trong Chiếu xuất quân của Quang Trung trước trận đại phá quân Thanh ở Thăng Long?
+A	Đánh cho để dài tóc
+B	Đánh cho để đen răng
+C	Đánh cho nó chích luân bất phản
+D	Đánh cho cút về nước
+Câu: 356	Kinh đô nhà Nguyễn đặt tại đâu?
+A	Phú Xuân
+B	Thăng Long
+C	Gia Định
+D	Quy Nhơn
+Câu: 357	Vua nào nhà Nguyễn lên nắm quyền tiếp sau vua Gia Long?
+A	Minh Mạng
+B	Thiệu Trị
+C	Tự Đức
+D	Hàm Nghi
+Câu: 358	Trong thời kỳ cai trị tại Việt Nam, thực dân Pháp đã cai trị vùng nào sau đây dưới chế độ thuộc địa?
+A	Nam Kỳ
+B	Trung Kỳ
+C	Bắc Kỳ
+D	Toàn bộ đất nước
+Câu: 359	Trong chiến dịch chiếm Đà Nẵng, bước mở màn cho chiến tranh xâm lược Việt Nam, Pháp đã liên minh với quân đội nước nào?
+A	Tây Ban Nha
+B	Anh
+C	Mỹ
+D	Singapore
+Câu: 360	Với Hòa ước Giáp Tuất 1874,  triều đình Huế đã giao cho Pháp toàn bộ vùng nào của đất nước?
+A	Nam Kỳ
+B	Bắc Kỳ
+C	Trung Kỳ
+D	Qđ. Hoàng Sa
+Câu: 361	Quân đội đế quốc nào đã lấy danh nghĩa giám sát quân Nhật đầu hàng để trải thảm đỏ cho Pháp tái chiếm Đông Dương?
+A	Trung Hoa Dân Quốc
+B	Anh
+C	Mỹ
+D	Đức
+Câu: 362	Tỉnh nào sau đây không trong khu vực chiến khu Việt Bắc ?
+A	Cao Bằng
+B	Thái Nguyên
+C	Tuyên Quang
+D	Quảng Ninh
+Câu: 363	Hiệp định về vấn đề khôi phục hòa bình trên bán đảo Đông Dương sau thời gian Pháp chiếm đóng được ký kết tại thành phố nào?
+A	Geneve
+B	Paris
+C	London
+D	California
+Câu: 364	Phái đoàn nào tham dự hội nghị Geneve đã không ký vào bản hiệp định nhưng vẫn tôn trọng và không vi phạm nội dung của nó?
+A	Mỹ
+B	Liên Xô
+C	Trung Quốc
+D	Việt Nam Dân chủ Cộng hòa
+Câu: 1	B
+Câu: 2	D
+Câu: 3	A
+Câu: 4	B
+Câu: 5	B
+Câu: 6	A
+Câu: 7	B
+Câu: 8	B
+Câu: 9	A
+Câu: 10	A
+Câu: 11	C
+Câu: 12	D
+Câu: 13	A
+Câu: 14	D
+Câu: 15	A
+Câu: 16	A
+Câu: 17	A
+Câu: 18	B
+Câu: 19	D
+Câu: 20	D
+Câu: 21	A
+Câu: 22	A
+Câu: 23	A
+Câu: 24	A
+Câu: 25	A
+Câu: 26	D
+Câu: 27	A
+Câu: 28	D
+Câu: 29	D
+Câu: 30	A
+Câu: 31	B
+Câu: 32	B
+Câu: 33	B
+Câu: 34	A
+Câu: 35	B
+Câu: 36	B
+Câu: 37	C
+Câu: 38	C
+Câu: 39	B
+Câu: 40	C
+Câu: 41	D
+Câu: 42	A
+Câu: 43	B
+Câu: 44	C
+Câu: 45	D
+Câu: 46	A
+Câu: 47	A
+Câu: 48	D
+Câu: 49	A
+Câu: 50	A
+Câu: 51	C
+Câu: 52	A
+Câu: 53	A
+Câu: 54	A
+Câu: 55	B
+Câu: 56	A
+Câu: 57	A
+Câu: 58	C
+Câu: 59	B
+Câu: 60	D
+Câu: 61	C
+Câu: 62	D
+Câu: 63	A
+Câu: 64	A
+Câu: 65	D
+Câu: 66	A
+Câu: 67	C
+Câu: 68	C
+Câu: 69	A
+Câu: 70	B
+Câu: 71	D
+Câu: 72	C
+Câu: 73	B
+Câu: 74	C
+Câu: 75	B
+Câu: 76	B
+Câu: 77	A
+Câu: 78	B
+Câu: 79	B
+Câu: 80	A
+Câu: 81	A
+Câu: 82	D
+Câu: 83	A
+Câu: 84	A
+Câu: 85	A
+Câu: 86	C
+Câu: 87	A
+Câu: 88	A
+Câu: 89	A
+Câu: 90	D
+Câu: 91	B
+Câu: 92	A
+Câu: 93	D
+Câu: 94	B
+Câu: 95	C
+Câu: 96	A
+Câu: 97	C
+Câu: 98	D
+Câu: 99	D
+Câu: 100	A
+Câu: 101	A
+Câu: 102	A
+Câu: 103	B
+Câu: 104	B
+Câu: 105	A
+Câu: 106	A
+Câu: 107	D
+Câu: 108	D
+Câu: 109	C
+Câu: 110	A
+Câu: 111	D
+Câu: 112	C
+Câu: 113	B
+Câu: 114	A
+Câu: 115	A
+Câu: 116	A
+Câu: 117	A
+Câu: 118	A
+Câu: 119	A
+Câu: 120	A
+Câu: 121	C
+Câu: 122	C
+Câu: 123	C
+Câu: 124	A
+Câu: 125	A
+Câu: 126	C
+Câu: 127	C
+Câu: 128	A
+Câu: 129	D
+Câu: 130	A
+Câu: 131	C
+Câu: 132	A
+Câu: 133	D
+Câu: 134	A
+Câu: 135	B
+Câu: 136	A
+Câu: 137	A
+Câu: 138	C
+Câu: 139	B
+Câu: 140	B
+Câu: 141	D
+Câu: 142	A
+Câu: 143	B
+Câu: 144	B
+Câu: 145	B
+Câu: 146	A
+Câu: 147	B
+Câu: 148	A
+Câu: 149	A
+Câu: 150	A
+Câu: 151	A
+Câu: 152	A
+Câu: 153	A
+Câu: 154	B
+Câu: 155	A
+Câu: 156	A
+Câu: 157	A
+Câu: 158	C
+Câu: 159	C
+Câu: 160	A
+Câu: 161	B
+Câu: 162	A
+Câu: 163	A
+Câu: 164	B
+Câu: 165	C
+Câu: 166	A
+Câu: 167	C
+Câu: 168	A
+Câu: 169	A
+Câu: 170	B
+Câu: 171	B
+Câu: 172	A
+Câu: 173	C
+Câu: 174	C
+Câu: 175	C
+Câu: 176	A
+Câu: 177	B
+Câu: 178	A
+Câu: 179	B
+Câu: 180	B
+Câu: 181	A
+Câu: 182	B
+Câu: 183	D
+Câu: 184	A
+Câu: 185	C
+Câu: 186	A
+Câu: 187	A
+Câu: 188	B
+Câu: 189	A
+Câu: 190	A
+Câu: 191	A
+Câu: 192	B
+Câu: 193	A
+Câu: 194	D
+Câu: 195	D
+Câu: 196	C
+Câu: 197	A
+Câu: 198	A
+Câu: 199	A
+Câu: 200	B
+Câu: 201	B
+Câu: 202	D
+Câu: 203	B
+Câu: 204	C
+Câu: 205	C
+Câu: 206	B
+Câu: 207	B
+Câu: 208	D
+Câu: 209	B
+Câu: 210	D
+Câu: 211	B
+Câu: 212	B
+Câu: 213	A
+Câu: 214	B
+Câu: 215	A
+Câu: 216	C
+Câu: 217	B
+Câu: 218	D
+Câu: 219	A
+Câu: 220	D
+Câu: 221	C
+Câu: 222	A
+Câu: 223	D
+Câu: 224	D
+Câu: 225	A
+Câu: 226	A
+Câu: 227	A
+Câu: 228	C
+Câu: 229	D
+Câu: 230	B
+Câu: 231	D
+Câu: 232	D
+Câu: 233	A
+Câu: 234	A
+Câu: 235	A
+Câu: 236	A
+Câu: 237	B
+Câu: 238	D
+Câu: 239	D
+Câu: 240	A
+Câu: 241	D
+Câu: 242	A
+Câu: 243	D
+Câu: 244	A
+Câu: 245	A
+Câu: 246	A
+Câu: 247	C
+Câu: 248	A
+Câu: 249	A
+Câu: 250	A
+Câu: 251	B
+Câu: 252	B
+Câu: 253	C
+Câu: 254	D
+Câu: 255	C
+Câu: 256	A
+Câu: 257	C
+Câu: 258	D
+Câu: 259	A
+Câu: 260	D
+Câu: 261	A
+Câu: 262	B
+Câu: 263	A
+Câu: 264	A
+Câu: 265	A
+Câu: 266	C
+Câu: 267	C
+Câu: 268	C
+Câu: 269	B
+Câu: 270	A
+Câu: 271	B
+Câu: 272	C
+Câu: 273	B
+Câu: 274	A
+Câu: 275	A
+Câu: 276	B
+Câu: 277	C
+Câu: 278	B
+Câu: 279	A
+Câu: 280	B
+Câu: 281	B
+Câu: 282	B
+Câu: 283	A
+Câu: 284	D
+Câu: 285	A
+Câu: 286	C
+Câu: 287	A
+Câu: 288	A
+Câu: 289	D
+Câu: 290	A
+Câu: 291	A
+Câu: 292	A
+Câu: 293	C
+Câu: 294	C
+Câu: 295	B
+Câu: 296	A
+Câu: 297	D
+Câu: 298	A
+Câu: 299	A
+Câu: 300	D
+Câu: 301	A
+Câu: 302	B
+Câu: 303	A
+Câu: 304	B
+Câu: 305	D
+Câu: 306	B
+Câu: 307	B
+Câu: 308	B
+Câu: 309	A
+Câu: 310	C
+Câu: 311	C
+Câu: 312	A
+Câu: 313	A
+Câu: 314	A
+Câu: 315	A
+Câu: 316	A
+Câu: 317	B
+Câu: 318	C
+Câu: 319	A
+Câu: 320	A
+Câu: 321	A
+Câu: 322	C
+Câu: 323	B
+Câu: 324	A
+Câu: 325	A
+Câu: 326	C
+Câu: 327	D
+Câu: 328	A
+Câu: 329	A
+Câu: 330	A
+Câu: 331	A
+Câu: 332	A
+Câu: 333	A
+Câu: 334	A
+Câu: 335	A
+Câu: 336	B
+Câu: 337	B
+Câu: 338	A
+Câu: 339	A
+Câu: 340	B
+Câu: 341	C
+Câu: 342	D
+Câu: 343	A
+Câu: 344	A
+Câu: 345	C
+Câu: 346	A
+Câu: 347	B
+Câu: 348	A
+Câu: 349	A
+Câu: 350	D
+Câu: 351	D
+Câu: 352	D
+Câu: 353	A
+Câu: 354	A
+Câu: 355	D
+Câu: 356	A
+Câu: 357	A
+Câu: 358	A
+Câu: 359	A
+Câu: 360	A
+Câu: 361	B
+Câu: 362	D
+Câu: 363	A
+Câu: 364	A
