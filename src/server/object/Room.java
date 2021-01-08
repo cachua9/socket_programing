@@ -179,9 +179,13 @@ public class Room {
 	
 	private void endGame() {
 		for (MyClient player : players) {
-			if(player != mainPlayer) player.Send("endgame~" + (cau + 1));
+			if(player != mainPlayer) {
+				player.Send("endgame~" + (cau + 1));
+			}
+			else {
+				player.Send("endgame~" + (cau +1) + "~0");
+			}
 		}
-		if(mainPlayer!=null) mainPlayer.Send("endgame~" + (cau +1) + "~0");
 		mainPlayer = null;
 		this.state = 0;
 	}

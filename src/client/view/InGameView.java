@@ -114,18 +114,38 @@ public class InGameView extends JFrame {
 		contentPane.add(btnD);
 		
 		btn5050 = new JButton("50:50");
+		btn5050.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				GameController.useHelp(0);
+			}
+		});
 		btn5050.setBounds(449, 111, 105, 33);
 		contentPane.add(btn5050);
 		
 		btnHoiKhanGia = new JButton("Hỏi khán giả");
+		btnHoiKhanGia.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				GameController.useHelp(1);
+			}
+		});
 		btnHoiKhanGia.setBounds(449, 155, 105, 33);
 		contentPane.add(btnHoiKhanGia);
 		
 		btnGoiDien = new JButton("Gọi điện");
+		btnGoiDien.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				GameController.useHelp(2);
+			}
+		});
 		btnGoiDien.setBounds(449, 199, 105, 33);
 		contentPane.add(btnGoiDien);
 		
 		btnBtnDoiCau = new JButton("Đổi câu");
+		btnBtnDoiCau.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				GameController.useHelp(3);
+			}
+		});
 		btnBtnDoiCau.setBounds(449, 243, 105, 33);
 		contentPane.add(btnBtnDoiCau);
 		

@@ -113,4 +113,36 @@ public class GameController {
 			ClientMain.inGameView.getBtnD().setEnabled(false);
 		}
 	}
+	
+	public static void useHelp(int index) {
+		String help = "50:50";
+		if(index == 1) {
+			help = "Hỏi khán giả";
+		}
+		else if(index == 2) {
+			help = "Gọi điện";
+		}
+		else if(index == 3) {
+			help = "Đổi câu";
+		}		
+		int confirm =JOptionPane.showConfirmDialog(null, "Bạn có muốn dùng sự trợ giúp " + help + " không?");
+		if(confirm == 0) {
+			if(index == 0) {
+				ClientMain.inGameView.getBtn5050().setVisible(false);
+				ClientMain.connection.Send("gamehelp~0");
+			}
+			else if(index == 1) {
+				ClientMain.inGameView.getBtnHoiKhanGia().setVisible(false);
+				ClientMain.connection.Send("gamehelp~1");
+			}
+			else if(index == 2) {
+				ClientMain.inGameView.getBtnGoiDien().setVisible(false);
+				ClientMain.connection.Send("gamehelp~2");
+			}
+			else if(index == 3) {
+				ClientMain.inGameView.getBtnBtnDoiCau().setVisible(false);
+				ClientMain.connection.Send("gamehelp~3");
+			}	
+		}
+	}
 }
