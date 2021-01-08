@@ -9,20 +9,29 @@ public class GameController {
 		if(command[0].equals("gameanswer")) {
 			checkAnswer(myClient, command);
 		}
-		else if(command[0].equals("refreshrooms")) {
-			
+		else if(command[0].equals("gamecontinue")) {
+			myClient.getRoom().setNext(1);
 		}
 	}
 	
 	private static void checkAnswer(MyClient myClient, String[] command) {
 		int answer = Integer.valueOf(command[1]);
 		//ServerMain.serverHome.println(command[1] + " - " + myClient.getRoom().getCurQuestion().getTrueAnswer());
-		if (answer == myClient.getRoom().getCurQuestion().getTrueAnswer()) {
-			myClient.getRoom().setNext(1);
-			if(myClient.getRoom().getMainPlayer() == null) myClient.getRoom().setMainPlayer(myClient);
+		if(myClient.getRoom().getMainPlayer() == null) {
+			if (answer == myClient.getRoom().getCurQuestion().getTrueAnswer()) {
+				myClient.getRoom().setNext(3);
+				myClient.getRoom().setMainPlayer(myClient);
+			}
 		}
 		else {
-			myClient.getRoom().setNext(2);
+			if(myClient == myClient.getRoom().getMainPlayer()) {
+				if(answer == myClient.getRoom().getCurQuestion().getTrueAnswer()) {
+					myClient.getRoom().setNext(1);
+				}
+				else {
+					myClient.getRoom().setNext(2);
+				}
+			}
 		}
 	}
 	

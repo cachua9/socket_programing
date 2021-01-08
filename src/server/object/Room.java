@@ -40,6 +40,9 @@ public class Room {
 				RoomController.refreshRoom(player);
 			}
 		}
+		if(myClient == mainPlayer) {
+			next = 2;
+		}
 	}
 	
 	public void removePlayerByName(String username) {
@@ -93,6 +96,7 @@ public class Room {
 	private int cau = -1;
 	
 	public void StartGame() {
+		this.state = 1;
 		for (MyClient myClient : players) {
 			myClient.Send("startgame");
 		}
@@ -100,6 +104,7 @@ public class Room {
 			public void run() {
 				//
 				try {
+					cau = -1;
 					mainPlayer = null;
 					curQuestion = Question.getRandomQuestionByLevel(1);
 					next = 0;
@@ -113,9 +118,16 @@ public class Room {
 							GameController.sendTime(myClient, 10 - (int)((System.currentTimeMillis() - lastTimeSendQuestion)/1000));
 						}
 					}
-					cau = 0;
+					if(next == 3) {
+						for (MyClient myClient : players) {
+							myClient.Send("gamesetmainplayer~" + mainPlayer.getUsername());
+						}
+						while (next == 3) {
+							sleep(100);
+						}
+					}					
 					if(next == 1) {
-						
+						cau = 0;
 						while (cau < 15) {
 							if(cau < 5) {
 								curQuestion = Question.getRandomQuestionByLevel(1);
@@ -143,7 +155,10 @@ public class Room {
 								}
 								if(next != 0) break;
 							}
-							if(next!=1) {
+							if(next == 3) {
+								lastTimeSendQuestion += 1000;
+							}
+							else if(next!=1) {
 								endGame();
 								break;
 							}
@@ -163,11 +178,16 @@ public class Room {
 	}
 	
 	private void endGame() {
-		
+		for (MyClient player : players) {
+			if(player != mainPlayer) player.Send("endgame~" + (cau + 1));
+		}
+		if(mainPlayer!=null) mainPlayer.Send("endgame~" + (cau +1) + "~0");
+		mainPlayer = null;
+		this.state = 0;
 	}
 
 	public void setMainPlayer(MyClient mainPlayer) {
-		this.mainPlayer = mainPlayer;
+		this.mainPlayer = mainPlayer;		
 	}
 
 	public Question getCurQuestion() {

@@ -94,7 +94,7 @@ public class RoomController {
 	private static void doneLeaveRoom(String command[]) {
 		//ClientMain.roomView.setVisible(false);
 		ClientMain.showSelectRoom();
-		JOptionPane.showMessageDialog(ClientMain.selectRoom, "Bạn đã rời khỏi phòng " + ClientMain.roomView.getLbIdRoom().getText());
+		JOptionPane.showMessageDialog(ClientMain.selectRoom, "Bạn đã rời khỏi " + ClientMain.roomView.getLbIdRoom().getText());
 		curRoomIndex = -1;
 	}
 	

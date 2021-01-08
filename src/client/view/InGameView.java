@@ -7,6 +7,7 @@ import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
 import client.controller.GameController;
+import client.controller.RoomController;
 
 import javax.swing.JTextArea;
 import javax.swing.JLabel;
@@ -50,6 +51,8 @@ public class InGameView extends JFrame {
 	private JButton btnC;
 	private JButton btnD;
 	private JLabel lbTime;
+	private JLabel lbRoom;
+	private JLabel lbMainPlayer;
 	
 	public InGameView() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -61,7 +64,7 @@ public class InGameView extends JFrame {
 		
 		tAQuestion = new JTextArea();
 		tAQuestion.setFont(new Font("Monospaced", Font.PLAIN, 16));
-		tAQuestion.setBounds(31, 66, 387, 210);
+		tAQuestion.setBounds(31, 86, 387, 190);
 		tAQuestion.setWrapStyleWord(true);
 		tAQuestion.setLineWrap(true);
 		tAQuestion.setEditable(false);
@@ -69,7 +72,7 @@ public class InGameView extends JFrame {
 		
 		lbCau = new JLabel("Câu");
 		lbCau.setFont(new Font("Tahoma", Font.PLAIN, 16));
-		lbCau.setBounds(31, 35, 157, 20);
+		lbCau.setBounds(31, 64, 157, 20);
 		contentPane.add(lbCau);
 		
 		btnA = new JButton("A");
@@ -128,17 +131,33 @@ public class InGameView extends JFrame {
 		
 		lblHelp = new JLabel("Trợ giúp");
 		lblHelp.setFont(new Font("Tahoma", Font.PLAIN, 16));
-		lblHelp.setBounds(468, 69, 61, 20);
+		lblHelp.setBounds(468, 80, 61, 20);
 		contentPane.add(lblHelp);
 		
-		JButton btnEnd = new JButton("Kết thúc");
+		JButton btnEnd = new JButton("Thoát");
+		btnEnd.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				RoomController.leaveRoom();
+			}
+		});
 		btnEnd.setBounds(485, 427, 89, 23);
 		contentPane.add(btnEnd);
 		
 		lbTime = new JLabel("30");
 		lbTime.setFont(new Font("Tahoma", Font.PLAIN, 20));
-		lbTime.setBounds(485, 22, 22, 20);
+		lbTime.setBounds(485, 36, 22, 20);
 		contentPane.add(lbTime);
+		
+		lbRoom = new JLabel("Phòng");
+		lbRoom.setFont(new Font("Tahoma", Font.PLAIN, 14));
+		lbRoom.setBounds(31, 11, 115, 17);
+		contentPane.add(lbRoom);
+		
+		lbMainPlayer = new JLabel("Người chơi chính: ");
+		lbMainPlayer.setFont(new Font("Tahoma", Font.PLAIN, 14));
+		lbMainPlayer.setBounds(31, 36, 241, 17);
+		contentPane.add(lbMainPlayer);
+		lbMainPlayer.setVisible(false);
 		
 		btn5050.setVisible(false);
 		btnHoiKhanGia.setVisible(false);
@@ -194,5 +213,13 @@ public class InGameView extends JFrame {
 
 	public JLabel getLbTime() {
 		return lbTime;
+	}
+
+	public JLabel getLbRoom() {
+		return lbRoom;
+	}
+
+	public JLabel getLbMainPlayer() {
+		return lbMainPlayer;
 	}
 }
