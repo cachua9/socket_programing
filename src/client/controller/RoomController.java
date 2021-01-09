@@ -122,6 +122,8 @@ public class RoomController {
 	
 	public static void leaveRoom() {
 		ClientMain.connection.Send("leaveroom");
+		GameController.viewerHelp.setVisible(false);
+		GameController.viewerHelpChat.setVisible(false);
 	}
 	
 	public static void joinRoom(int id) {

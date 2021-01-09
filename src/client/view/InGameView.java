@@ -43,7 +43,7 @@ public class InGameView extends JFrame {
 	private JLabel lbCau;
 	private JButton btn5050;
 	private JButton btnHoiKhanGia;
-	private JButton btnGoiDien;
+	private JButton btnHoiTruongQuay;
 	private JButton btnBtnDoiCau;
 	private JLabel lblHelp;
 	private JButton btnA;
@@ -119,7 +119,7 @@ public class InGameView extends JFrame {
 				GameController.useHelp(0);
 			}
 		});
-		btn5050.setBounds(449, 111, 105, 33);
+		btn5050.setBounds(428, 111, 130, 33);
 		contentPane.add(btn5050);
 		
 		btnHoiKhanGia = new JButton("Hỏi khán giả");
@@ -128,17 +128,17 @@ public class InGameView extends JFrame {
 				GameController.useHelp(1);
 			}
 		});
-		btnHoiKhanGia.setBounds(449, 155, 105, 33);
+		btnHoiKhanGia.setBounds(428, 155, 130, 33);
 		contentPane.add(btnHoiKhanGia);
 		
-		btnGoiDien = new JButton("Gọi điện");
-		btnGoiDien.addActionListener(new ActionListener() {
+		btnHoiTruongQuay = new JButton("Hỏi Trường quay");
+		btnHoiTruongQuay.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				GameController.useHelp(2);
 			}
 		});
-		btnGoiDien.setBounds(449, 199, 105, 33);
-		contentPane.add(btnGoiDien);
+		btnHoiTruongQuay.setBounds(428, 199, 130, 33);
+		contentPane.add(btnHoiTruongQuay);
 		
 		btnBtnDoiCau = new JButton("Đổi câu");
 		btnBtnDoiCau.addActionListener(new ActionListener() {
@@ -146,12 +146,12 @@ public class InGameView extends JFrame {
 				GameController.useHelp(3);
 			}
 		});
-		btnBtnDoiCau.setBounds(449, 243, 105, 33);
+		btnBtnDoiCau.setBounds(428, 243, 130, 33);
 		contentPane.add(btnBtnDoiCau);
 		
 		lblHelp = new JLabel("Trợ giúp");
 		lblHelp.setFont(new Font("Tahoma", Font.PLAIN, 16));
-		lblHelp.setBounds(468, 80, 61, 20);
+		lblHelp.setBounds(458, 86, 61, 20);
 		contentPane.add(lblHelp);
 		
 		JButton btnEnd = new JButton("Thoát");
@@ -165,7 +165,7 @@ public class InGameView extends JFrame {
 		
 		lbTime = new JLabel("30");
 		lbTime.setFont(new Font("Tahoma", Font.PLAIN, 20));
-		lbTime.setBounds(485, 36, 22, 20);
+		lbTime.setBounds(485, 32, 22, 20);
 		contentPane.add(lbTime);
 		
 		lbRoom = new JLabel("Phòng");
@@ -181,7 +181,7 @@ public class InGameView extends JFrame {
 		
 		btn5050.setVisible(false);
 		btnHoiKhanGia.setVisible(false);
-		btnGoiDien.setVisible(false);
+		btnHoiTruongQuay.setVisible(false);
 		btnBtnDoiCau.setVisible(false);
 		lblHelp.setVisible(false);
 		
@@ -203,8 +203,8 @@ public class InGameView extends JFrame {
 		return btnHoiKhanGia;
 	}
 
-	public JButton getBtnGoiDien() {
-		return btnGoiDien;
+	public JButton getBtnHoiTruongQuay() {
+		return btnHoiTruongQuay;
 	}
 
 	public JButton getBtnBtnDoiCau() {

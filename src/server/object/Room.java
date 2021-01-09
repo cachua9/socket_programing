@@ -90,10 +90,16 @@ public class Room {
 	}
 	
 	private long lastTimeSendQuestion = 0;
+	private long lastTimeRequestHelp = 0;
 	private Question curQuestion;
 	private MyClient mainPlayer;
 	private int next;
 	private int cau = -1;
+	private int A;
+	private int B;
+	private int C;
+	private int D;
+	private MyClient helper;
 	
 	public void StartGame() {
 		this.state = 1;
@@ -127,6 +133,9 @@ public class Room {
 						}
 					}					
 					if(next == 1) {
+						for (MyClient myClient : players) {
+							myClient.Send("maingamestart");
+						}
 						cau = 0;
 						while (cau < 15) {
 							if(cau < 5) {
@@ -153,10 +162,55 @@ public class Room {
 								for (MyClient myClient : players) {
 									GameController.sendTime(myClient, 60 - (int)((System.currentTimeMillis() - lastTimeSendQuestion)/1000));
 								}
-								if(next != 0) break;
-							}
-							if(next == 3) {
-								lastTimeSendQuestion += 1000;
+								if(next == 5) {
+									A = 0; B = 0; C = 0; D = 0;
+									lastTimeSendQuestion += 15000;
+									lastTimeRequestHelp = System.currentTimeMillis();
+									while (System.currentTimeMillis() - lastTimeRequestHelp < 15000) {
+										if(next == 2) break;
+										sleep(1000);
+										for (MyClient myClient : players) {
+											GameController.sendTime(myClient, 15 - (int)((System.currentTimeMillis() - lastTimeRequestHelp)/1000));
+										}
+									}
+									if(next == 5) setNext(0);	
+									for (MyClient myClient : players) {
+										myClient.Send("gameendhelp~0");
+									}
+									int ap = (int)(A*100/(A+B+C+D));
+									int bp = (int)(B*100/(A+B+C+D));
+									int cp = (int)(C*100/(A+B+C+D));
+									int dp = (int)(D*100/(A+B+C+D));
+									for (MyClient myClient : players) {
+										myClient.Send("gamehelpresult~0~" + ap + "~" + bp + "~" + cp + "~" + dp);
+									}
+								}
+								else if(next == 6) {
+									lastTimeSendQuestion += 1000;
+									helper = null;
+								}
+								else if(next == 7) {									
+									lastTimeSendQuestion += 30000;
+									lastTimeRequestHelp = System.currentTimeMillis();
+									while (System.currentTimeMillis() - lastTimeRequestHelp < 30000) {
+										if(next == 2) break;
+										sleep(1000);
+										for (MyClient myClient : players) {
+											GameController.sendTime(myClient, 30 - (int)((System.currentTimeMillis() - lastTimeRequestHelp)/1000));
+										}
+									}
+									if(next == 7) setNext(0);
+									for (MyClient myClient : players) {
+										myClient.Send("gameendhelp~1");
+										myClient.Send("gamehelpresult~1");
+									}
+								}
+								else if(next != 0) {
+									break;
+								}
+							}	
+							if(next == 4) {
+								continue;
 							}
 							else if(next!=1) {
 								endGame();
@@ -175,6 +229,38 @@ public class Room {
 		};
 		thread.setDaemon(true);
 		thread.start();		
+	}
+	
+	public void useHelp(int index) {
+		if(index == 0) {
+			for (MyClient myClient : players) {
+				myClient.Send("gamerephelp~0~" + getCurQuestion().getTrueAnswer());
+			}	
+			
+		}
+		else if(index == 1) {
+			setNext(6);
+			for (MyClient myClient : players) {
+				if(myClient != mainPlayer) {
+					myClient.Send("gamerephelp~1");
+				}
+			}
+		}
+		else if(index == 2) {
+			setNext(5);
+			for (MyClient myClient : players) {
+				if(myClient != mainPlayer) {
+					myClient.Send("gamerephelp~2");
+				}
+			}
+		}
+		else if(index == 3) {
+			for (MyClient myClient : players) {
+				myClient.Send("gamerephelp~3");
+			}
+			setNext(4);
+		}
+			
 	}
 	
 	private void endGame() {
@@ -208,6 +294,30 @@ public class Room {
 
 	public void setNext(int next) {
 		this.next = next;
+	}
+	
+	public void incA() {
+		A++;
+	}
+	
+	public void incB() {
+		B++;
+	}
+	
+	public void incC() {
+		C++;
+	}
+	
+	public void incD() {
+		D++;
+	}
+
+	public MyClient getHelper() {
+		return helper;
+	}
+
+	public void setHelper(MyClient helper) {
+		this.helper = helper;
 	}
 
 	
