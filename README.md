@@ -29,4 +29,5 @@ Set up database in properties.txt file
 ### Step5: Run command to start project
 
 Run file ServerMain.class to run server.
+
 Run file ClientMain.class to run client.
