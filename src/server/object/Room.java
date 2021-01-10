@@ -1,6 +1,7 @@
 package server.object;
 
 import java.util.ArrayList;
+import java.util.Random;
 
 import server.controller.GameController;
 import server.controller.RoomController;
@@ -177,10 +178,43 @@ public class Room {
 									for (MyClient myClient : players) {
 										myClient.Send("gameendhelp~0");
 									}
-									int ap = (int)(A*100/(A+B+C+D));
-									int bp = (int)(B*100/(A+B+C+D));
-									int cp = (int)(C*100/(A+B+C+D));
-									int dp = (int)(D*100/(A+B+C+D));
+									int ap = 0;
+									int bp = 0;
+									int cp = 0;
+									int dp = 0;
+									if(A+B+C+D != 0) {
+										ap = (int)(A*100/(A+B+C+D));
+										bp = (int)(B*100/(A+B+C+D));
+										cp = (int)(C*100/(A+B+C+D));
+										dp = (int)(D*100/(A+B+C+D));
+									}
+									else {
+										Random r = new Random();
+										if(curQuestion.getTrueAnswer() == 0) {
+											ap = r.nextInt(49) + 51;
+											bp = r.nextInt(100 - ap);
+											cp = r.nextInt(100 - ap - bp);
+											dp = 100 - ap - bp - cp;
+										}
+										else if(curQuestion.getTrueAnswer() == 1) {
+											bp = r.nextInt(49) + 51;
+											ap = r.nextInt(100 - bp);
+											cp = r.nextInt(100 - bp - ap);
+											dp = 100 - bp - ap - cp;
+										}
+										else if(curQuestion.getTrueAnswer() == 2) {
+											cp = r.nextInt(49) + 51;
+											bp = r.nextInt(100 - cp);
+											ap = r.nextInt(100 - cp - bp);
+											dp = 100 - cp - bp - ap;
+										}
+										else if(curQuestion.getTrueAnswer() == 3) {
+											dp = r.nextInt(49) + 51;
+											bp = r.nextInt(100 - dp);
+											cp = r.nextInt(100 - dp - bp);
+											ap = 100 - dp - bp - cp;
+										}
+									}
 									for (MyClient myClient : players) {
 										myClient.Send("gamehelpresult~0~" + ap + "~" + bp + "~" + cp + "~" + dp);
 									}
