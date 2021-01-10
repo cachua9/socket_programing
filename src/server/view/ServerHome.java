@@ -5,14 +5,20 @@ import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
 import server.controller.ServerMain;
+import server.model.DBConnection;
 import server.object.MyClient;
 
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
+
 import java.awt.Font;
 import javax.swing.JTextArea;
 import javax.swing.JScrollPane;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
+import javax.swing.JButton;
+import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
 
 public class ServerHome extends JFrame {
 
@@ -66,7 +72,7 @@ public class ServerHome extends JFrame {
 		
 		lbSvIp = new JLabel("127.0.0.1");
 		lbSvIp.setFont(new Font("Tahoma", Font.PLAIN, 14));
-		lbSvIp.setBounds(83, 11, 341, 17);
+		lbSvIp.setBounds(83, 11, 171, 17);
 		contentPane.add(lbSvIp);
 		
 		JLabel lblNewLabel_1 = new JLabel("Port:");
@@ -76,7 +82,7 @@ public class ServerHome extends JFrame {
 		
 		lbSvP = new JLabel("0000");
 		lbSvP.setFont(new Font("Tahoma", Font.PLAIN, 14));
-		lbSvP.setBounds(83, 39, 341, 14);
+		lbSvP.setBounds(83, 39, 171, 14);
 		contentPane.add(lbSvP);
 		
 		JScrollPane scrollPane = new JScrollPane();
@@ -86,6 +92,17 @@ public class ServerHome extends JFrame {
 		textArea = new JTextArea();
 		textArea.setEditable(false);
 		scrollPane.setViewportView(textArea);
+		
+		JButton btnNewButton = new JButton("Khởi tạo lại database");
+		btnNewButton.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				int confirm = JOptionPane.showConfirmDialog(null, "Bạn có chắc chắn muốn khởi tạo lại database không?");
+				if(confirm == 0) DBConnection.initDatabase();
+			}
+		});
+		btnNewButton.setFont(new Font("Tahoma", Font.PLAIN, 12));
+		btnNewButton.setBounds(264, 10, 160, 23);
+		contentPane.add(btnNewButton);
 	}
 
 	public JLabel getLbSvIp() {

@@ -1530,7 +1530,7 @@ B	TP Phan Thiết
 C	TP Hội An
 D	TP Nha Trang
 Câu: 152	Biển Hồ, hạt ngọc của Pleiku có tên gọi là gì?
-A	Hồ T'Nưng
+A	Hồ T-Nưng
 B	Hồ Ta Lư
 C	Hồ Sêrepok
 D	Hồ Tây Nguyên
@@ -1969,7 +1969,7 @@ A	Hà Nội
 B	Hạ Long
 C	Hải Phòng
 D	Huế
-Câu: 240	Người H'Mông ở Việt Nam tập trung chủ yếu ở vùng nào ?
+Câu: 240	Người H-Mông ở Việt Nam tập trung chủ yếu ở vùng nào ?
 A	Bắc Bộ
 B	Nam Bộ
 C	Bắc Trung Bộ
@@ -2784,7 +2784,7 @@ A	2003
 B	2004
 C	2005
 D	2006
-Câu: 403	Theo tiếng M'Nông, tên tỉnh Đăk Lắk có nghĩa là gì?
+Câu: 403	Theo tiếng M-Nông, tên tỉnh Đăk Lắk có nghĩa là gì?
 A	Hồ nước
 B	Biển hồ
 C	Thung lũng
@@ -5381,7 +5381,7 @@ A	Pháp
 B	Italia
 C	Brasil
 D	Đức
-Câu: 273	"YOU'LL NEVER WALK ALONE" là khẩu hiệu của đội bóng nào của nước Anh?
+Câu: 273	"YOU WILL NEVER WALK ALONE" là khẩu hiệu của đội bóng nào của nước Anh?
 A	Manchester United
 B	Liverpool
 C	Chelsea

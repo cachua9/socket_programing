@@ -2,6 +2,7 @@ package server.controller;
 
 import javax.swing.JOptionPane;
 
+import server.model.DBConnection;
 import server.view.ServerHome;
 
 public class ServerMain {
@@ -31,6 +32,11 @@ public class ServerMain {
 		}
 		catch (Exception e) {
 			JOptionPane.showMessageDialog(null, "Nhập sai định dạng");
+			return false;
+		}
+		
+		if(DBConnection.getConn() == null) {
+			JOptionPane.showMessageDialog(null, "Khởi tạo database bị lỗi");
 			return false;
 		}
 		

@@ -39,7 +39,7 @@ public class Question {
         } 
         catch (SQLException ex) 
         {
-        	System.out.println("Insert question error!");
+        	System.out.println("Insert question error! #" + question.getLevel() + ": " + question.getQuestion());
         }
 		return false;
 	}
@@ -78,7 +78,7 @@ public class Question {
 			}
 		}
 		catch (SQLException e) {
-			System.out.println("Select users error!");
+			System.out.println("Select question error!");
 		}	
 		return result;
 	}
@@ -107,7 +107,7 @@ public class Question {
 		return questions.get(rand.nextInt(questions.size()));
 	}
 	
-	private static void inputQuestions() {
+	public static void inputQuestions() {
 		ArrayList<Question> questions = new ArrayList<Question>();
 		File inputFile = new File("questions.txt");
 		if (inputFile.exists()) {
@@ -155,11 +155,12 @@ public class Question {
 			
 			for (Question question : questions) {
 				insert(question);
-				System.out.println("level:" + question.getLevel());
-				System.out.println(question.getQuestion());
-				System.out.println(question.getAnswer());
-				System.out.println(question.getTrueAnswer());
+//				System.out.println("level:" + question.getLevel());
+//				System.out.println(question.getQuestion());
+//				System.out.println(question.getAnswer());
+//				System.out.println(question.getTrueAnswer());
 			}
+			System.out.println("Inserted " + questions.size() + " questions!");
 			
 		} else {
 			System.out.println("The file does not exist.");
