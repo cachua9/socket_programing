@@ -101,6 +101,10 @@ public class ViewerHelpChat extends JFrame {
 		contentPane.add(lbTime);
 	}
 	
+	public void clearChat() {
+		textArea.setText("");
+	}
+	
 	public void addMessage(String user, String message) {
 		String text = textArea.getText();
 		text += user + ": " + message + "\n";

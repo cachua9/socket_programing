@@ -220,8 +220,22 @@ public class Room {
 									}
 								}
 								else if(next == 6) {
-									lastTimeSendQuestion += 1000;
+									lastTimeSendQuestion += 10000;
 									helper = null;
+									lastTimeRequestHelp = System.currentTimeMillis();
+									while (System.currentTimeMillis() - lastTimeRequestHelp < 10000) {
+										if(next == 7) break;
+										sleep(1000);
+										for (MyClient myClient : players) {
+											GameController.sendTime(myClient, 10 - (int)((System.currentTimeMillis() - lastTimeRequestHelp)/1000));
+										}
+									}
+									if(next != 7) {
+										for (MyClient myClient : players) {
+											myClient.Send("gamecancelhelp~1");
+										}
+										setNext(0);
+									}
 								}
 								else if(next == 7) {									
 									lastTimeSendQuestion += 30000;
@@ -252,6 +266,7 @@ public class Room {
 							}
 							cau++;
 						}
+						winGame();
 					}
 					else endGame();
 					System.out.println("end");
@@ -295,6 +310,19 @@ public class Room {
 			setNext(4);
 		}
 			
+	}
+	
+	private void winGame() {
+		for (MyClient player : players) {
+			if(player != mainPlayer) {
+				player.Send("wingame~" + "1");
+			}
+			else {
+				player.Send("wingame~" + "0");
+			}
+		}
+		mainPlayer = null;
+		this.state = 0;
 	}
 	
 	private void endGame() {
@@ -352,6 +380,10 @@ public class Room {
 
 	public void setHelper(MyClient helper) {
 		this.helper = helper;
+	}
+
+	public int getNext() {
+		return next;
 	}
 
 	

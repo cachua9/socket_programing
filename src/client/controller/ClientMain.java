@@ -62,3 +62,8 @@ public class ClientMain {
 	}
 
 }
+
+// do data cau hoi len view tro giup //done
+// xoa doan chat cu //done
+// sua loi hoi khan gia khi khong co ai tra loi //done
+// them su kien chien thang //done

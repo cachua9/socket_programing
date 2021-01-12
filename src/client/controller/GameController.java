@@ -41,12 +41,22 @@ public class GameController {
 		else if(command[0].equals("gamerefusechat")) {
 			JOptionPane.showMessageDialog(null, "Đã có người khác hỗ trợ người chơi");
 		}
+		else if(command[0].equals("gameouttimerequest")) {
+			JOptionPane.showMessageDialog(null, "Đã hết thời gian yêu cầu trợ giúp");
+		}
 		else if(command[0].equals("gamestartchat")) {
 			viewerHelpChat.setLocation(ClientMain.generalView.getLocation());
+			viewerHelpChat.clearChat();
 			viewerHelpChat.setVisible(true);
 		}
 		else if(command[0].equals("gamechat")) {
 			setMessage(command);
+		}
+		else if(command[0].equals("gamecancelhelp")) {
+			cancelHelp(command);
+		}
+		else if(command[0].equals("wingame")) {
+			winGame(command);
 		}
 	}
 	
@@ -172,6 +182,7 @@ public class GameController {
 		else if(command[1].equals("2")) {			
 			ClientMain.inGameView.getBtnHoiTruongQuay().setVisible(false);
 			viewerHelp.setLocation(ClientMain.generalView.getLocation());
+			viewerHelp.gettAQuestion().setText(ClientMain.inGameView.gettAQuestion().getText());
 			viewerHelp.setVisible(true);
 		}
 		else if(command[1].equals("3")) {
@@ -205,6 +216,29 @@ public class GameController {
 	
 	private static void setMessage(String[] command) {
 		viewerHelpChat.addMessage(command[1], command[2]);
+	}
+	
+	private static void cancelHelp(String[] commad) {
+		if(commad[1].equals("1")){
+			ClientMain.inGameView.getBtnHoiKhanGia().setVisible(true);
+			ClientMain.inGameView.getBtnA().setEnabled(true);
+			ClientMain.inGameView.getBtnB().setEnabled(true);
+			ClientMain.inGameView.getBtnC().setEnabled(true);
+			ClientMain.inGameView.getBtnD().setEnabled(true);
+			ClientMain.inGameView.getBtn5050().setEnabled(true);
+			ClientMain.inGameView.getBtnHoiKhanGia().setEnabled(true);
+			ClientMain.inGameView.getBtnHoiTruongQuay().setEnabled(true);
+			ClientMain.inGameView.getBtnBtnDoiCau().setEnabled(true);
+		}
+	}
+	
+	private static void winGame(String[] command) {
+		if(command[1].equals("1")) {
+			JOptionPane.showMessageDialog(null, "Chúc mừng bạn đã chiến thắng!");
+		}
+		else if(command[1].equals("0")) {
+			JOptionPane.showMessageDialog(null, "Người chơi đã chiến thắng!");
+		}
 	}
 	
 	public static void sendAnswer(int answer) {

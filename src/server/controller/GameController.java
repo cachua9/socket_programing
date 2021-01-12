@@ -68,13 +68,18 @@ public class GameController {
 	}
 	
 	private static void acceptHepl(MyClient myClient) {
-		if(myClient.getRoom().getHelper() == null) {
-			myClient.getRoom().setNext(7);
-			myClient.getRoom().setHelper(myClient);
-			myClient.getRoom().getMainPlayer().Send("gamestartchat");
-			myClient.Send("gamestartchat");			
-		}else {
-			myClient.Send("gamerefusechat");
+		if (myClient.getRoom().getNext() == 6) {
+			if (myClient.getRoom().getHelper() == null) {
+				myClient.getRoom().setNext(7);
+				myClient.getRoom().setHelper(myClient);
+				myClient.getRoom().getMainPlayer().Send("gamestartchat");
+				myClient.Send("gamestartchat");
+			} else {
+				myClient.Send("gamerefusechat");
+			}
+		}
+		else {
+			myClient.Send("gameouttimerequest");
 		}
 	}
 	
