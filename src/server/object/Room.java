@@ -266,7 +266,7 @@ public class Room {
 							}
 							cau++;
 						}
-						winGame();
+						if(cau == 15) winGame();
 					}
 					else endGame();
 					System.out.println("end");
